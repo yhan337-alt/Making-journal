@@ -17,7 +17,7 @@ For this studio exercise, I worked in a group of four to create a set of questio
 - Playful: If you could describe your mood today as a colour, what would it be?
 - Relational: Who was the last person you talked to before class, and what did you talk about?
 
-![Group data portrait](../assets/week-01/IMG_0515.jpg)
+![Group data](../assets/week-01/IMG_0515.jpg)
 *Figure 1: Groups Data Question and Answer*
 
 After creating these questions, we designed a visual concept called the Plate / Food Theme Data Portrait. We used food and plates as a metaphor to represent different aspects of each person’s daily life and emotional state.
