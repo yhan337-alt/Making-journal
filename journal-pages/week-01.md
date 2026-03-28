@@ -18,8 +18,12 @@ For this studio exercise, I worked in a group of four to create a set of questio
 - Relational: Who was the last person you talked to before class, and what did you talk about?
 
 ![Group data portrait](../assets/week-01/IMG_0515.jpg)
+*Figure 1: Groups Data Question and Answer*
 
 After creating these questions, we designed a visual concept called the Plate / Food Theme Data Portrait. We used food and plates as a metaphor to represent different aspects of each person’s daily life and emotional state.
+
+![Group data portrait](../assets/week-01/IMG_0516.jpg)
+*Figure 2: Group Data Visualisation*
 
 Each person was represented by a plate. 
 - The main food item showed what food they craved on the way to class. 
