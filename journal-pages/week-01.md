@@ -41,6 +41,7 @@ This visual system allowed us to represent multiple types of personal data in a 
 ### Other Group Data Portrait
 
 ![Other Group data portrait](../assets/week-01/Othergroupdata.jpg)
+
 *Other group's data portrait*
 
 ![Other group data portrait](../assets/week-01/Othergroup.png)
@@ -53,7 +54,7 @@ After see other group data, I answered these questions :
 - Can you tell who is who?
 
 
-![Other group data portrait](../assets/week-01/.png)
+![내가 적은 그룹 다타 피드백?](../assets/week-01/.png)
 *Answers to the Questions*
 
 ### Independent Study: Data Portrait
@@ -69,5 +70,14 @@ I recorded data from Sunday to Thursday on paper and visualized it.
 
 ### Reflection
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+For my independent study, I collected data on March 9-14 by recording when I put down or turned off my electronic devices. I wrote down the time, the device, the reason, my emotion after stopping, and how long I took it again on my physical paper. I chose this topic because I spend a lot of time using digital devices, but I rarely think about how I feel when I stop using them.
+
+Recording these moments shows unexpected insights about my relationship with my devices. For example, putting my phone down after scrolling through SNS right up until bed give sense of anxiety, whereas closing my laptop after finishing an assignment brings a sense of relief. Even small moments like taking off my AirPods after finishing exercising gave me a sense of contentment. 
+
+I also noted the intensity of each emotion on a scale of 1–5. I could visualise not only the type of feeling but its strength to add depth to the data.
+
+To translate this data into a visual representation, I created a spiral “emotion flow” on A4 paper. Each device was represented by a distinct shape (circle for phone, square for laptop, triangle for AirPods), while color indicated my immediate emotion (red for anxiety/ Irritated, grey for regretful/ empty, yellow for blank, blue for relieved/ calm, green for content). The size of each shape indicated the intensity of my feeling, and arc marks indicated the duration of picking up the device again. Arranging the data in a spiral allowed me to represent the sequence of the day while also conveying the flow and rhythm of my emotional experiences.
+
+This exercise made me realize that short moments of disconnect of the devices often had a stronger positive effect than I expected. In contrast, putting down devices after a stressful task sometimes left residual anxiety. These show how intertwined my emotions are with technology. By documenting and visualising these moments, I was able to see my daily life as a series of emotional peaks and troughs mediated by my devices.
+
+Connecting this to data humanism and the Dear Data project, the exercise highlights how personal, imperfect, and subjective data can be meaningful. Instead of relying on digital logs or apps, hand-recording my experiences allowed for empathy, reflection, and intentionality. This portrait of my daily life makes the invisible: my emotional responses to technology visible in a tangible, human-centered way.
