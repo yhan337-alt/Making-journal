@@ -9,7 +9,6 @@ layout: default
 ## Documentation 
 ### In-Class Activity: Group Data Portrait
 
-##### Group Data Portrait
 
 For this studio exercise, I worked in a group of four to create a set of questions and a collaborative data drawing that represented our group as a data portrait. We decide our questions to capture small, everyday experiences. 
 
@@ -39,24 +38,36 @@ We also included a legend to explain how each visual element corresponds to the 
 
 This visual system allowed us to represent multiple types of personal data in a playful and expressive way. Instead of using charts or graphs, we created a visual portrait that communicates personality and daily experiences. Through illustration, enabled us to capture aspects of human emotion and individuality that would be difficult to represent in a spreadsheet.
 
-##### Other Group Data Portrait
+### Other Group Data Portrait
 
 ![Other Group data portrait](../assets/week-01/Othergroupdata.jpg)
-![Other group data portrait](../assets/week-01/Othergroup.png)
 *Other group's data portrait*
 
+![Other group data portrait](../assets/week-01/Othergroup.png)
+*Other group's data portrait : I can't see it well, so I'm drawing it again.*
+After see other group data, I answered these questions :
+
+- What can you learn about the people in this group from their data portrait?
+- What surprised you?
+- What questions do you have for them?
+- Can you tell who is who?
 
 
+![Other group data portrait](../assets/week-01/.png)
+*Answers to the Questions*
 
-## Images & Media
+### Independent Study: Data Portrait
 
-*Use the format below to embed images from your assets folder:*
+Topic: When I Put My Devices Down
+I recorded data from Sunday to Thursday on paper and visualized it.
+
+![data portrait](../assets/week-01/Mydata.jpg)
+*Independent Study: My Data*
+
+![data portrait](../assets/week-01/Mydatavisual.jpg)
+*Independent Study: My Data visualisation*
+
+### Reflection
 
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
