@@ -24,7 +24,7 @@ For this studio exercise, I worked in a group of four to create a set of questio
 
 After creating these questions, we designed a visual concept called the Plate / Food Theme Data Portrait. We used food and plates as a metaphor to represent different aspects of each person’s daily life and emotional state.
 
-![Group data portrait](../assets/week-01/Data_Visualisation.jpg)
+![Group data portrait](../assets/week-01/Datavisualisation.jpg)
 *Our group's data portrait using food and plates to represent each member*
 
 Each person was represented by a plate, allowing us to distinguish individuals without using names or direct identifiers. The placement of each plate on the page helped separate each participant while maintaining a collective composition.
@@ -41,8 +41,8 @@ This visual system allowed us to represent multiple types of personal data in a 
 
 ##### Other Group Data Portrait
 
-![Other Group data portrait](../assets/week-01/Other_group_data.jpg)
-![Other group data portrait](../assets/week-01/other_group_.png)
+![Other Group data portrait](../assets/week-01/Othergroupdata.jpg)
+![Other group data portrait](../assets/week-01/Othergroup.png)
 *Other group's data portrait*
 
 
