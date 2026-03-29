@@ -9,6 +9,8 @@ layout: default
 ## Documentation 
 ### In-Class Activity: Group Data Portrait
 
+##### Group Data Portrait
+
 For this studio exercise, I worked in a group of four to create a set of questions and a collaborative data drawing that represented our group as a data portrait. We decide our questions to capture small, everyday experiences. 
 
 - Qualitative: What food did you crave on your way to class today?
@@ -17,22 +19,30 @@ For this studio exercise, I worked in a group of four to create a set of questio
 - Playful: If you could describe your mood today as a colour, what would it be?
 - Relational: Who was the last person you talked to before class, and what did you talk about?
 
-![Group data](../assets/week-01/IMG_0515.jpg)
+![Group data](../assets/week-01/Data.jpg)
 *Figure 1: Groups Data Question and Answer*
 
 After creating these questions, we designed a visual concept called the Plate / Food Theme Data Portrait. We used food and plates as a metaphor to represent different aspects of each person’s daily life and emotional state.
 
-![Group data portrait](../assets/week-01/Data_Visualisation.jpg)
-*Figure 2: Group Data Visualisation*
+![Group data portrait](../assets/week-01/Data_visualisation.jpg)
+*Our group's data portrait using food and plates to represent each member*
 
-Each person was represented by a plate. 
+Each person was represented by a plate, allowing us to distinguish individuals without using names or direct identifiers. The placement of each plate on the page helped separate each participant while maintaining a collective composition.
+
 - The main food item showed what food they craved on the way to class. 
 - The number of patterns on the plate represented hours of sleep.
 - The number of food items represented energy level.
 - The colour of the plate represented today mood.
 - Person eating the food with a speech bubble to show the last person they talked to and the topic of conversation.
 
-This visual system allowed us to represent multiple types of personal data in a playful and expressive way. Instead of using charts or graphs, we created a visual portrait that communicated personality, mood, and daily experiences through a shared visual language.
+We also included a legend to explain how each visual element corresponds to the data.
+
+This visual system allowed us to represent multiple types of personal data in a playful and expressive way. Instead of using charts or graphs, we created a visual portrait that communicates personality and daily experiences. Through illustration, enabled us to capture aspects of human emotion and individuality that would be difficult to represent in a spreadsheet.
+
+##### Other Group Data Portrait
+
+
+
 
 
 ## Images & Media
