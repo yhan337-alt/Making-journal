@@ -8,6 +8,8 @@ layout: default
 
 ### In-Class Activity
 
+I used https://p5js.org/reference/ while working on this assignment.
+
 ### Activity 1: Drawing with Code 
 
 To get familiar with the p5.js editor, I practice creating a simple triangle, ellipse, and rectangle, experimenting with colour, size, and position.
@@ -19,18 +21,23 @@ Then I create a simple composition using at least three
 different shapes.
 
 ![data](../assets/week-02/Class_experimentation.png)
-*Figure 8: practice 2*
+*Figure 8: class practice 2*
 
-![data](../assets/week-02/P5Cat.png)
-*Figure 9: practice 3*
+![data](../assets/week-02/Activity1.png)
+*Figure 9: personal practice 3*
 
-Sometime coordinate system was confusing. Especially, working out which numbers controlled x, y, width, and height in functions like ellipse(200, 100, 110, 65). Expect this, experimenting with colour, size, and position was enjoyable. I also discovered that p5.js renders shapes in the order they are written. Therefore, moving the tree earlier in the code placed it behind the cat. This helped me understand how layering works in digital drawing.
+The coordinate system was sometimes confusing, especially in understanding x, y, width, and height, and the coordinate points used in triangle shapes. However, experimenting with the coordinate helped me understand how positioning works in p5.js.
+
+When I was used to it, experimenting with colour, size, and position was enjoyable. I also discovered that p5.js renders shapes in the order they are written. This helped me understand how layering works in digital drawing.
 
 ### Activity 2: Make an Interactive Sketch
 
-사진 특히 gif 넣긔...
+[data](../assets/week-02/Interactive.png)
 
-In Activity 2, I created an interactive sketch using a slider, a button, and a text input. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. This made the drawing interactive rather than static.
+[data](../assets/week-02/Interactive.gif)
+*Figure 10: Interactive Sketch*
+
+I used DOM elements (createButton(), createSlider(), createInput()) to create an interactive sketch. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. It taked many time, but this experiment was valuable to learn the drawing interaction that I had never done before.
 
 
 ### Activity 3: Make an Interactive Sketch
