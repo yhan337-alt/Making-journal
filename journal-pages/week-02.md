@@ -8,7 +8,7 @@ layout: default
 
 ### In-Class Activity
 
-## Activity 1: Drawing with Code 
+### Activity 1: Drawing with Code 
 
 To get familiar with the p5.js editor, I practice creating a simple triangle, ellipse, and rectangle, experimenting with colour, size, and position.
 
@@ -26,14 +26,14 @@ different shapes.
 
 Sometime coordinate system was confusing. Especially, working out which numbers controlled x, y, width, and height in functions like ellipse(200, 100, 110, 65). Expect this, experimenting with colour, size, and position was enjoyable. I also discovered that p5.js renders shapes in the order they are written. Therefore, moving the tree earlier in the code placed it behind the cat. This helped me understand how layering works in digital drawing.
 
-## Activity 2: Make an Interactive Sketch
+### Activity 2: Make an Interactive Sketch
 
 사진 특히 gif 넣긔...
 
 In Activity 2, I created an interactive sketch using a slider, a button, and a text input. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. This made the drawing interactive rather than static.
 
 
-## Activity 3: Make an Interactive Sketch
+### Activity 3: Make an Interactive Sketch
 
 *Use the format below to embed images from your assets folder:* 내일 하자... 에이아이 써서 하는ㄱㅓ임
 
@@ -42,7 +42,7 @@ In Activity 2, I created an interactive sketch using a slider, a button, and a t
 ### Independent Study: Interactive Data Portrait
 
 
-## AI Usage Statement
+### AI Usage Statement
 
 ### Step 1: Translate your data drawing into code
 
