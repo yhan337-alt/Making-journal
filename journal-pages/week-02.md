@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Experiment 2: Interactive Data Portrait
+# Experiment 2 : Interactive Data Portrait
 
 [← Back to Home](../index.md)
 
