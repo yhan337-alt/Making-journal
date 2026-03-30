@@ -32,9 +32,9 @@ When I was used to it, experimenting with colour, size, and position was enjoyab
 
 ### Activity 2: Make an Interactive Sketch
 
-[data](../assets/week-02/Interactive.png)
+![data](../assets/week-02/Interactive.png)
 
-[data](../assets/week-02/Interactive.gif)
+![data](../assets/week-02/Interactive.gif)
 *Figure 10: Interactive Sketch*
 
 I used DOM elements (createButton(), createSlider(), createInput()) to create an interactive sketch. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. It taked many time, but this experiment was valuable to learn the drawing interaction that I had never done before.
