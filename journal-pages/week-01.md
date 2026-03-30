@@ -41,10 +41,8 @@ This visual system allowed us to represent multiple types of personal data in a 
 
 ![Other Group data portrait](../assets/week-01/Othergroupdata.jpg)
 
-*Figure 3: Other group's data portrait*
-
 ![Other group data portrait](../assets/week-01/Othergroup.jpg)
-*Figure 4: Other group's data portrait : I can't see it well, so I'm drawing it again.*
+*Figure 3: Other group's data portrait : I can't see it well, so I'm drawing it again.*
 After see other group data, I answered these questions :
 
 - What can you learn about the people in this group from their data portrait?
@@ -54,7 +52,7 @@ After see other group data, I answered these questions :
 
 
 ![Other group data answer](../assets/week-01/Otherdatanote.jpg)
-*Figure 5: Answers to the Questions*
+*Figure 4: Answers to the Questions*
 
 ### Independent Study: Data Portrait
 
@@ -62,10 +60,10 @@ Topic: When I Put My Devices Down
 I recorded data from Sunday to Thursday on paper and visualized it.
 
 ![data portrait](../assets/week-01/Mydata.jpg)
-*Figure 6: Independent Study: My Data*
+*Figure 5: Independent Study: My Data*
 
 ![data portrait](../assets/week-01/Mydatavisaul.png)
-*Figure 7: Independent Study: My Data visualisation*
+*Figure 6: Independent Study: My Data visualisation*
 
 ### Reflection
 
