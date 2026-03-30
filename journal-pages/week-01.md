@@ -43,7 +43,7 @@ This visual system allowed us to represent multiple types of personal data in a 
 
 *Figure 3: Other group's data portrait*
 
-![Other group data portrait](../assets/week-01/Othergroup.png)
+![Other group data portrait](../assets/week-01/Othergroup.jpg)
 *Figure 4: Other group's data portrait : I can't see it well, so I'm drawing it again.*
 After see other group data, I answered these questions :
 
