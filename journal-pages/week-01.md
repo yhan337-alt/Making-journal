@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Experiment 1: Data Drawings
+# Experiment 1: Data Drawings
 
 [← Back to Home](../index.md)
 
