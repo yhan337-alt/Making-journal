@@ -2,9 +2,16 @@
 layout: default
 ---
 
-# Week 02
+## Experiment 2: Interactive Data Portrait
 
 [← Back to Home](../index.md)
+
+
+### In-Class Activity: Drawing with Code
+
+![data](../assets/week-02/Class_experimentation.png)
+*Figure 8: Groups Data Question and Answer*
+
 
 ## Documentation 
 
