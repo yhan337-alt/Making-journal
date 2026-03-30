@@ -42,7 +42,8 @@ This visual system allowed us to represent multiple types of personal data in a 
 ![Other Group data portrait](../assets/week-01/Othergroupdata.jpg)
 
 ![Other group data portrait](../assets/week-01/Othergroup.jpg)
-*Figure 3: Other group's data portrait : I can't see it well, so I'm drawing it again.*
+*Figure 3: Other group's data portrait*
+
 After see other group data, I answered these questions :
 
 - What can you learn about the people in this group from their data portrait?
