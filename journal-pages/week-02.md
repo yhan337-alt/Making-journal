@@ -8,9 +8,9 @@ layout: default
 
 ## In-Class Activity
 
-I used https://p5js.org/reference/ while working on this assignment.
-
 ### Activity 1: Drawing with Code 
+
+I used https://p5js.org/reference/ while working on this assignment.
 
 To get familiar with the p5.js editor, I practice creating a simple triangle, ellipse, and rectangle, experimenting with colour, size, and position.
 
@@ -65,7 +65,7 @@ After I successfully created the basic circle stamping sketch, I added more feat
 
 For this independent study, I made an interactive p5.js sketch based on my Experiment 1 data.
 
-### Step 1: Translate your data drawing into code
+#### Step 1: Translate your data drawing into code
 
 I focused on three aspects from my hand-drawn data portrait: device type, emotion, and intensity. These variables are both visually distinctive :
 
@@ -78,9 +78,9 @@ I focused on three aspects from my hand-drawn data portrait: device type, emotio
 
 
 
-### Step 2: Design your interactive visualisation
+#### Step 2: Design your interactive visualisation
 
-### Step 3: Iterate
+#### Step 3: Iterate
 
 해야댐... 넣어야댐 
 
