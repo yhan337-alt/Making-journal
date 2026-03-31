@@ -51,11 +51,26 @@ Using this command *https://api.dictionaryapi.dev/api/v2/entries/en/word* and ad
 To go beyond the basic functions, I explored the documentation and discovered how to generate weather data as a PNG image using *curl wttr.in/Auckland.png*.
 
 ![data](../assets/week-03/Auckland.png)
-*Figure : Auckland weather data as a PNG image*
+*Figure : Demo Skecth*
 
 ### Activity 2: Weather Visualisation
 
+This activity is to experiment with this sketch.
 
+![data](../assets/week-03/Code.png)
+*Figure : Auckland weather data as a PNG image*
+
+I first updated the API URL with the coordinates for Seoul (Latitude: 37.56, Longitude: 126.97).  Even slight changes,  but it was interesting to observe how the sketch shifts based on a different context
+
+![data](../assets/week-03/Seoulcode.png)
+*Figure : Seoul Latitude/ Longitute*
+
+I mapped real-time weather measures to specific visual elements to create a data-driven composition.
+
+I used the *temperature_2m* data to show the diameter of the orange circle. By using the map() function, I ensured that as the temperature rises, the circle expands, visually representing heat intensity.
+Colour: The background hue was linked to the relative_humidity_2m. - Higher humidity levels create the canvas for cooler, deeper blue tones, while lower humidity creates a brighter, airier atmosphere.
+
+Position/Size of Shapes: I used wind_speed_10m to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
 
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
