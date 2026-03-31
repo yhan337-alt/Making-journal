@@ -35,6 +35,7 @@ When I was used to it, experimenting with colour, size, and position was enjoyab
 ![data](../assets/week-02/Interactive.png)
 
 ![data](../assets/week-02/Interactive.gif)
+
 *Figure 10: Interactive Sketch*
 
 I used DOM elements (createButton(), createSlider(), createInput()) to create an interactive sketch. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. It taked many time, but this experiment was valuable to learn the drawing interaction that I had never done before.
@@ -42,7 +43,21 @@ I used DOM elements (createButton(), createSlider(), createInput()) to create an
 
 ### Activity 3: Make an Interactive Sketch
 
-*Use the format below to embed images from your assets folder:* 내일 하자... 에이아이 써서 하는ㄱㅓ임
+In this activity, I used an LLM to help me create a generative interactive sketch in p5.js.
+
+![data](../assets/week-02/ScreenshotGPT.png)
+
+
+![data](../assets/week-02/3:InteractiveSketch.png)
+*Figure 11: Interactive Sketch Code using LLM*
+
+
+![data](../assets/week-02/VibeCode.gif)
+*Figure 11: Vibe Code an Interactive Sketch*
+
+I decided to create a sketch that stamps circles onto the canvas using the mouse. I asked GPT and got the code, and instead of copying it, I tried to type the code myself and understand it further. When something did not work, I asked the AI to explain the problem and help me fix it. 
+
+After I successfully created the basic circle stamping sketch, I added more features step by step. ( 1. Hover Interaction, 2. Animation, 3. Fade Trail / Motion)  I also included UI elements such as a clear button and color change. This made the circles feel more responsive and alive rather than static shapes, and feel more like an interactive tool rather than just a drawing program.
 
 
 
