@@ -5,7 +5,8 @@ title: Home
 
 # Making Journal for DES240
 
-Hi, I am Yeseul. I am a second-year Design student at the University of Auckland with a background in digital illustration and graphic design. My design focus lies in sustainability and aiming to create user-centered solutions for environmental and community engagement. In this course, I hope to learn coding more and develop innovative and impactful designs.
+*Hi, I am Yeseul. I am a second-year Design student at the University of Auckland with a background in digital illustration and graphic design. My design focus lies in sustainability and aiming to create user-centered solutions for environmental and community engagement. In this course, I hope to learn coding more and develop innovative and impactful designs.*
+
 ---
 
 ## Weekly Journal
