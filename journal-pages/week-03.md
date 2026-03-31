@@ -6,7 +6,20 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## In-Class Activity
+
+### Activity 1: Explore with cURL
+
+To complete Activity 1, I explored the documentation and GitHub repositories for wttr. in and the Free Dictionary API. Using the terminal, I figured out how to:
+
+- Get the weather for a location using its GPS coordinates
+- Get the weather in a different language
+- Get the current moon phase
+- Look up the synonyms and antonyms of a word
+- Find something else in the documentation that we haven't covered
+
+#### 1. Get the weather for a location using its GPS coordinates
+
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
