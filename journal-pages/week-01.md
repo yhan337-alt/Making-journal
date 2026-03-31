@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-### In-Class Activity: Group Data Portrait
+## In-Class Activity: Group Data Portrait
 
 
 For this studio exercise, I worked in a group of four to create a set of questions and a collaborative data drawing that represented our group as a data portrait. We decide our questions to capture small, everyday experiences. 
@@ -55,7 +55,7 @@ After see other group data, I answered these questions :
 ![Other group data answer](../assets/week-01/Otherdatanote.jpg)
 *Figure 4: Answers to the Questions*
 
-### Independent Study: Data Portrait
+## Independent Study: Data Portrait
 
 Topic: When I Put My Devices Down
 I recorded data from Sunday to Thursday on paper and visualized it.
