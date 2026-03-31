@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-### In-Class Activity
+## In-Class Activity
 
 I used https://p5js.org/reference/ while working on this assignment.
 
@@ -61,12 +61,22 @@ After I successfully created the basic circle stamping sketch, I added more feat
 
 
 
-### Independent Study: Interactive Data Portrait
+## Independent Study: Interactive Data Portrait
 
-
-### AI Usage Statement
+For this independent study, I made an interactive p5.js sketch based on my Experiment 1 data.
 
 ### Step 1: Translate your data drawing into code
+
+I focused on three aspects from my hand-drawn data portrait: device type, emotion, and intensity. These variables are both visually distinctive :
+
+1. Device type: Phone, Laptop, AirPods
+→ represented by different shapes: circle, square, and triangle.
+2. Emotion : Anxiety/Irritated, Regretful/Empty, Blank, Calm/Relieved, Content
+→ represented by color (red, grey, yellow, blue, green).
+3. Intensity:  a numeric variable (scale 1–5)
+→ represented by the size of the shape.
+
+
 
 ### Step 2: Design your interactive visualisation
 
@@ -87,3 +97,5 @@ What would you develop further with more time?
 Any other reflections?
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+### AI Usage Statement
