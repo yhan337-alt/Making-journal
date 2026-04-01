@@ -60,7 +60,6 @@ I decided to create a sketch that stamps circles onto the canvas using the mouse
 After I successfully created the basic circle stamping sketch, I added more features step by step. ( 1. Hover Interaction, 2. Animation, 3. Fade Trail / Motion)  I also included UI elements such as a clear button and color change. This made the circles feel more responsive and alive rather than static shapes, and feel more like an interactive tool rather than just a drawing program.
 
 
-
 ## Independent Study: Interactive Data Portrait
 
 For this independent study, I made an interactive p5.js sketch based on my Experiment 1 data.
@@ -111,7 +110,7 @@ My hand-drawn portrait shows the overall data flow, but it is static. The intera
 
 #### Step 3: Iterate
 
-![data](../assets/week-02/Finalproto.gif)
+![data](../assets/week-02/Finalprotoo.gif)
 *Figure : Initial Prototype*
 
 I explained my interaction and its purpose to a friend, who then tested the sketch and provided feedback. They observed that the previous "stacking" method left too much empty space on the canvas. Since my data focuses more on the emotional state rather than time sequence, she suggested allowing the shapes to be placed freely across the canvas to create a more immersive visual experience.
