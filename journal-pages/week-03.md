@@ -167,3 +167,8 @@ My work relates to the philosophy of the Conditional Design group. In their work
 #### 6. Future Development
 
 If I had more time, I would add sound using "p5.sound" so that wind speed data could be heard as well as seen. Which is to create a multi-sensory experience. Also, I would like to add historical weather data together with current data so users can compare past and current weather patterns.
+
+
+### AI Usage Statement
+
+Tools Used: ChatGPT (OpenAI), Gemini (OpenAI)
