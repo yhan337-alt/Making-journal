@@ -117,22 +117,11 @@ Mapping: Visualize the data as a pie chart.
 
 #### Reflection on the Execution:
 
-Generally, we were able to follow the core instruction of mapping languages to a pie chart. We identified speakers of English, Korean, and Chinese at our table.
+Generally, we were able to follow the core instruction of mapping languages to a pie chart. We identified speakers of English, Korean, and Chinese at our table. (Also other team interpreted each our rules as expected.) The use of a simple pictogram made the data request universally understandable which mirror how a clear API call yields a predictable response.
 
-However, the protocol was ambiguous regarding how to handle updates. The instruction said to update "every time the member changed," but it didn't specify whether to draw a new pie chart for each change.  We chose to draw separate charts to show the data over time. (as seen in the resulting sketch)
+However, the protocol was ambiguous regarding how to handle updates. The instruction said to update "every time the member changed," but it didn't specify whether to draw a new pie chart for each change.  We chose to draw separate charts to show the data over time. (as seen in the resulting sketch) 
 
 The biggest surprise was the difficulty of calculating percentages on the fly for a hand-drawn pie chart. It was also hard to determine the percentage that our table was 13% Korean, 12% English, and 75% Chinese, and then accurately dividing a circle without a protractor was challenging. 
-
-*The Execution & Interpretation*
-*We swapped our protocol with another pair and executed theirs. Simultaneously, they executed our "Phone Usage" protocol. Following their execution, we compared their output with our original intention*
-
-1. Comparison with Designers' Intent
-
-Both our team and the other team interpreted each other's rules as expected. The use of a simple pictogram made the data request universally understandable. To mirror how a clear API call yields a predictable response.
-
-2. Ambiguities and Challenges
-
-*Ambiguity: We realized that "people on the phone in the room" could be interpreted differently. Does it count if the phone is just lying on the table with the screen on? Or does the person have to be actively scrolling? In this instance, the interpreters only counted active usage. To make the protocol less ambiguous, we should have specified: "Count only if the phone is held in hand or actively looked at."* 
 
 
 ## Independent Study: Live Data Visualisation
