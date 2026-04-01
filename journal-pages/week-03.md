@@ -17,52 +17,52 @@ To complete Activity 1, I explored the documentation and GitHub repositories for
 I used the command *curl wttr.in/Korea* to retrieve this data.
 
 ![data](../assets/week-03/weatherKorea.png)
-*Figure : Weather for Korea*
+*Figure 1: Weather for Korea*
 
 #### 2. Get the weather in a different language
 
 Firstly, I used *curl wttr.in/Seoul?lang=ko* this command, but Terminal can't match found, so I used *curl -H "Accept-Language: ko" wttr.in/Seoul.*
 
 ![data](../assets/week-03/weatherKorean.png)
-*Figure : Weather for Korean*
+*Figure 2: Weather for Korean*
 
 #### 3. Get the current moon phase
 
 I used the command *curl wttr.in/Moon* to get the current moon phase.
 
 ![data](../assets/week-03/moon.png)
-*Figure : Current moon phase*
+*Figure 3: Current moon phase*
 
 #### 4. Look up the synonyms and antonyms of a word
 
 Using this command *https://api.dictionaryapi.dev/api/v2/entries/en/word* and added the word sad.
 
 ![data](../assets/week-03/antonyms.png)
-*Figure : Synonyms and antonyms*
+*Figure 4: Synonyms and antonyms*
 
 #### 5. Find something else in the documentation that we haven't covered
 
 To go beyond the basic functions, I explored the documentation and discovered how to generate weather data as a PNG image using *curl wttr.in/Auckland.png*.
 
 ![data](../assets/week-03/Auckland.png)
-*Figure : Demo Skecth*
+*Figure 5: Demo Skecth*
 
 ### Activity 2: Weather Visualisation
 
 This activity is to experiment with this sketch.
 
 ![data](../assets/week-03/Code.png)
-*Figure : Auckland weather data as a PNG image*
+*Figure 6: Auckland weather data as a PNG image*
 
 #### 1. Change the latitude and longitude to a different city
 
 ![data](../assets/week-03/KR.png)
-*Figure : API UPL of Seoul, current wind speed, temperature and humidity*
+*Figure 7: API UPL of Seoul, current wind speed, temperature and humidity*
 
 I first updated the OPEN Meteo API UPL with the coordinates for Seoul (Latitude: 37.56, Longitude: 126.97).  Even slight changes,  but it was interesting to observe how the sketch shifts based on a different context
 
 ![data](../assets/week-03/Seoulcode.png)
-*Figure : Seoul Latitude/ Longitute*
+*Figure 8: Seoul Latitude/ Longitute*
 
 #### 2. Use the data to control different visual properties
 
@@ -90,13 +90,13 @@ I applied 'vibe coding' to shift the focus from a literal data display to an atm
 #### Final Weather Visualisation
 
 ![data](../assets/week-03/Weather.gif)
-*Figure : Final Weather Visualisation*
+*Figure 9: Final Weather Visualisation*
 
 
 ### Activity 3: Design and Execute a Data Protocol
 
 ![data](../assets/week-03/Protocol.jpg)
-*Figure : Our Group data protocol*
+*Figure 10: Our Group data protocol*
 
 We designed a protocol to map the physical presence of digital engagement in the room.
 
@@ -107,7 +107,7 @@ We designed a protocol to map the physical presence of digital engagement in the
 **Mapping:**** Each observation is recorded as a pictogram: a stick figure holding a rectangle (phone). One figure equals one person on a phone. 
 
 ![data](../assets/week-03/Protocol2.jpg)
-*Figure : Other Group data protocol*
+*Figure 11: Other Group data protocol*
 
 #### Executing the Swapped Protocol: Language Diversity Pie Chart
 
@@ -138,18 +138,18 @@ I chose a digital for this project because it allows for immediate and generativ
 I utilized the Open-Meteo API to fetch current weather data (temperature and wind speed) specifically for Auckland, New Zealand.
 
 ![data](../assets/week-03/NZ.png)
-*Figure : API UPL of Auckland, current wind speed, temperature and humidity*
+*Figure 12: API UPL of Auckland, current wind speed, temperature and humidity*
 
 #### 3. Mapping & Communication
 
 My goal was to create a visual that feels like the weather in Auckland.
 
 ![data](../assets/week-03/HSB.png)
-*Figure :HSB*
+*Figure 13:HSB*
 Temperature to Color Gradient (HSB Hue): Higher temperatures are mapped to warmer hues (red/orange), while lower temperatures shift to cooler hues (blue/green). This intuitive mapping communicates the temperature feel of the day.
 
 ![data](../assets/week-03/Wind.png)
-*Figure : Wind speed code*
+*Figure 14: Wind speed code*
 Wind Speed: Wind speed controls how fast the shapes move across the canvas and how many shapes appear. Stronger wind creates faster and more crowded movement, which helps show the energy of the wind better than numbers alone.
 
 #### 4. Tools & Learning (Vibe Coding with LLMs)
