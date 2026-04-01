@@ -19,10 +19,13 @@ I tested the model by describing my previous design experiments and asking for v
 ![data](../assets/week-04/Ollama1.png)
 *Figure 1: Question one answer of Ollama*
 
-Creative Visualization: I requested ideas for representing bird population data in New Zealand using p5.js.
+![data](../assets/week-04/GPT.png)
+*Figure 2: Question one answer of GPT*
 
-![data](../assets/week-04/Ollama2.png)
-*Figure 2: Question two answer of Ollama*
+Creative Visualization: I requested ideas for representing bird population data in New Zealand using p5.js. 
+
+Question both Ollama and GPT - "I'm working on a design project about environmental conservation in NZ. Can you suggest 3 creative ways to visualize bird population data using p5.js?"
+
 
 Code Generation: I asked the model to write a responsive p5.js script that reflects the "psychological build-up of digital data" through organic shapes.
 
@@ -38,7 +41,10 @@ The model responded quickly at first, but it was not as smooth or fast as cloud-
 ## Quality vs. Capability## 
 
 ![data](../assets/week-04/Fail.png)
-*Figure 3: Coding Fail*
+*Figure 3: Ollama Coding Fail*
+ 
+![data](../assets/week-04/GPTcode.png)
+*Figure 4: GPT Coding*
 
 The Qwen3:1.7b model is smaller, so it had difficulty with complex design ideas compared to larger models. Also, the code that it suggest are not working due to some error. This highlights the gap in Capability. While the local model is surprisingly good at brainstorming and design assistance, its knowledge base is less grounded in factual accuracy compared to massive cloud-based models. As a designer, this means I must use local AI as a collaborative sketchpad rather than a primary source of technical truth. I had to critically filter its suggestions, keeping the creative ideas but correcting the technical implementation.
 
@@ -62,6 +68,11 @@ The most important idea I learned was data sovereignty. Using a local model felt
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
 
+
+
+
+![data](../assets/week-04/Ollama2.png)
+*Figure 2: Question two answer of Ollama*
 
 
 ### AI Usage Statement
