@@ -34,12 +34,10 @@ Comparison: I compared its responses to a standard cloud-based LLM: GPT.
 #### Critical Reflection
 
 
-**Speed and Latency**
-
-The model responded quickly at first, but it was not as smooth or fast as cloud-based models. Compared to other AI models, it was noticeably slower and sometimes had delays when generating responses. Also, it made all my taps slow and laggy. This affected the workflow because the interaction felt less fluid.
+**Speed and Latency**: The model responded quickly at first, but it was not as smooth or fast as cloud-based models. Compared to other AI models, it was noticeably slower and sometimes had delays when generating responses. Also, it made all my taps slow and laggy. This affected the workflow because the interaction felt less fluid.
 
 
-**Quality vs. Capability**
+**Quality vs. Capability**: 
 
 ![data](../assets/week-04/Fail.png)
 *Figure 3: Ollama Coding Fail*
@@ -49,9 +47,7 @@ The model responded quickly at first, but it was not as smooth or fast as cloud-
 
 The Qwen3:1.7b model is smaller, so it had difficulty with complex design ideas compared to larger models. Also, the code that it suggest are not working due to some error. This highlights the gap in Capability. While the local model is surprisingly good at brainstorming and design assistance, its knowledge base is less grounded in factual accuracy compared to massive cloud-based models. As a designer, this means I must use local AI as a collaborative sketchpad rather than a primary source of technical truth. I had to critically filter its suggestions, keeping the creative ideas but correcting the technical implementation.
 
-**Sovereignty vs. Capability Trade-off**
-
-The most important idea I learned was data sovereignty. Using a local model felt more secure because my ideas and data were not shared with large companies. The trade-off is that I lost some accuracy and knowledge, but I gained privacy and a safe space to experiment without worrying about data use. The most striking part of the experiment was seeing the "Thinking..." process happen entirely on my hardware. There was no "Saving data" message. This interaction felt significantly more intimate and secure.
+**Sovereignty vs. Capability Trade-off**: The most important idea I learned was data sovereignty. Using a local model felt more secure because my ideas and data were not shared with large companies. The trade-off is that I lost some accuracy and knowledge, but I gained privacy and a safe space to experiment without worrying about data use. The most striking part of the experiment was seeing the "Thinking..." process happen entirely on my hardware. There was no "Saving data" message. This interaction felt significantly more intimate and secure.
 
 ### Activity 1: Local AI with Ollama
 
