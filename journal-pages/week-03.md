@@ -65,19 +65,28 @@ I first updated the API URL with the coordinates for Seoul (Latitude: 37.56, Lon
 
 I mapped real-time weather measures to specific visual elements to create a data-driven composition.
 
-I used the *temperature_2m* data to show the diameter of the orange circle. By using the map() function, I ensured that as the temperature rises, the circle expands, visually representing heat intensity.
+I used the "temperature_2m" data to show the diameter of the orange circle. By using the map() function, I ensured that as the temperature rises, the circle expands, visually representing heat intensity.
 
-Colour: The background hue was linked to the relative_humidity_2m. - Higher humidity levels create the canvas for cooler, deeper blue tones, while lower humidity creates a brighter, airier atmosphere. Instead of using color names, I utilized RGBA values in the fill() function. This allowed me to precisely control the visual hierarchy by adjusting transparency (Alpha) and dynamically linking color channels to environmental data for a more responsive design.
+Colour: 
+The background hue was linked to the "relative_humidity_2m." Higher humidity levels create the canvas for cooler, deeper blue tones. While lower humidity creates a brighter, airier atmosphere. Instead of using color names, I used RGBA values in the fill() function. This allowed me to control the visual by adjusting transparency (Alpha) and dynamically linking color to environmental data for a more responsive design.
 
-Position/Size of Shapes: I used wind_speed_10m to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
+Position of Shapes: I used "wind_speed_10m" to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
+
+![data](../assets/week-03/Weather.gif)
+*Figure : Final Weather Visualisation*
 
 #### 3. Add more weather variables 
 
+I expanded the API URL to fetch relative"_humidity_2m" and "wind_speed_10m" in addition to temperature. 
 
 #### 4. Using random() or noise()
 
+I introduced organic movement by combining live data with the random() function. I used the wind speed value to determine the intensity of a 'shaking' effect on the shapes.(let shaking = random(-wind, wind))
 
 #### 5. Use vibe coding
+
+I applied 'vibe coding' to shift the focus from a literal data display to an atmospheric representation. I linked the "relative_humidity_2m" to the background color (200 - humidity), allowing the overall mood of the canvas to shift between warm and cool tones based on the air's moisture. 
+
 
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
