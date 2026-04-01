@@ -23,9 +23,10 @@ Creative Visualization: I requested ideas for representing bird population data 
 
 ![data](../assets/week-04/Ollama2.png)
 *Figure 2: Question two answer of Ollama*
+
 Code Generation: I asked the model to write a responsive p5.js script that reflects the "psychological build-up of digital data" through organic shapes.
 
-Comparison: I compared its responses to a standard cloud-based LLM.
+Comparison: I compared its responses to a standard cloud-based LLM: GPT.
 
 #### Critical Reflection
 
@@ -45,8 +46,8 @@ The Qwen3:1.7b model is smaller, so it had difficulty with complex design ideas 
 
 The most important idea I learned was data sovereignty. Using a local model felt more secure because my ideas and data were not shared with large companies. The trade-off is that I lost some accuracy and knowledge, but I gained privacy and a safe space to experiment without worrying about data use. The most striking part of the experiment was seeing the "Thinking..." process happen entirely on my hardware. There was no "Saving data" message. This interaction felt significantly more intimate and secure.
 
+### Activity 1: Local AI with Ollama
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
 ## Images & Media
 
@@ -61,3 +62,8 @@ The most important idea I learned was data sovereignty. Using a local model felt
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
 
+
+
+### AI Usage Statement
+
+Tools Used: ChatGPT (OpenAI), Gemini (OpenAI)
