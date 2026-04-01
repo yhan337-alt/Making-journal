@@ -56,7 +56,10 @@ This activity is to experiment with this sketch.
 
 #### 1. Change the latitude and longitude to a different city
 
-I first updated the API URL with the coordinates for Seoul (Latitude: 37.56, Longitude: 126.97).  Even slight changes,  but it was interesting to observe how the sketch shifts based on a different context
+![data](../assets/week-03/KR.png)
+*Figure : API UPL of Seoul, current wind speed, temperature and humidity*
+
+I first updated the OPEN Meteo API UPL with the coordinates for Seoul (Latitude: 37.56, Longitude: 126.97).  Even slight changes,  but it was interesting to observe how the sketch shifts based on a different context
 
 ![data](../assets/week-03/Seoulcode.png)
 *Figure : Seoul Latitude/ Longitute*
@@ -65,12 +68,12 @@ I first updated the API URL with the coordinates for Seoul (Latitude: 37.56, Lon
 
 I mapped real-time weather measures to specific visual elements to create a data-driven composition.
 
-I used the "temperature_2m" data to show the diameter of the orange circle. By using the map() function, I ensured that as the temperature rises, the circle expands, visually representing heat intensity.
+I used the "temperature_2m" data to show the diameter of the orange circle. By using the **map()** function, I ensured that as the temperature rises, the circle expands, visually representing heat intensity.
 
-Colour: 
+**Colour:** 
 The background hue was linked to the "relative_humidity_2m." Higher humidity levels create the canvas for cooler, deeper blue tones. While lower humidity creates a brighter, airier atmosphere. Instead of using color names, I used RGBA values in the fill() function. This allowed me to control the visual by adjusting transparency (Alpha) and dynamically linking color to environmental data for a more responsive design.
 
-Position of Shapes: I used "wind_speed_10m" to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
+**Position of Shapes:** I used "wind_speed_10m" to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
 
 #### 3. Add more weather variables 
 
@@ -78,7 +81,7 @@ I expanded the API URL to fetch relative"_humidity_2m" and "wind_speed_10m" in a
 
 #### 4. Using random() or noise()
 
-I introduced organic movement by combining live data with the random() function. I used the wind speed value to determine the intensity of a 'shaking' effect on the shapes.(let shaking = random(-wind, wind))
+I introduced organic movement by combining live data with the **random()** function. I used the wind speed value to determine the intensity of a 'shaking' effect on the shapes.(let shaking = random(-wind, wind))
 
 #### 5. Use vibe coding
 
@@ -97,11 +100,11 @@ I applied 'vibe coding' to shift the focus from a literal data display to an atm
 
 We designed a protocol to map the physical presence of digital engagement in the room.
 
-Source: The number of people actively using a phone in the immediate environment.
+**Source:** The number of people actively using a phone in the immediate environment.
 
-Frequency: Every 30 seconds.
+**Frequency:**** Every 30 seconds.
 
-Mapping: Each observation is recorded as a pictogram: a stick figure holding a rectangle (phone). One figure equals one person on a phone. 
+**Mapping:**** Each observation is recorded as a pictogram: a stick figure holding a rectangle (phone). One figure equals one person on a phone. 
 
 ![data](../assets/week-03/Protocol2.jpg)
 *Figure : Other Group data protocol*
@@ -110,9 +113,9 @@ Mapping: Each observation is recorded as a pictogram: a stick figure holding a r
 
 We received a protocol from another group that asked us to track the first language spoken by our table members.
 
-Rules: Update the data every time the member count changed (add or decrease).
+**Rules:** Update the data every time the member count changed (add or decrease).
 
-Mapping: Visualize the data as a pie chart.
+**Mapping:** Visualize the data as a pie chart.
 
 
 #### Reflection on the Execution:
@@ -126,3 +129,37 @@ The biggest surprise was the difficulty of calculating percentages on the fly fo
 
 ## Independent Study: Live Data Visualisation
 
+#### 1. Approach: Digital (p5.js & API)
+
+I chose a digital for this project because it allows for immediate and generative responses to continuous data. This method effectively captures the "rhythm" of live information, which static or analogue materials might miss. Using p5.js helped me transform abstract, numerical weather data into a tangible visual experience. Furthermore, digital also reflects modern life. People rely on digital technology every day, so this medium felt more relevant to how we experience information today. It helps connect raw data with our digital lifestyle.
+
+#### 2. Data Source: Open-Meteo API (Auckland Weather)
+
+I utilized the Open-Meteo API to fetch current weather data (temperature and wind speed) specifically for Auckland, New Zealand.
+
+![data](../assets/week-03/NZ.png)
+*Figure : API UPL of Auckland, current wind speed, temperature and humidity*
+
+#### 3. Mapping & Communication
+
+My goal was to create a visual that feels like the weather in Auckland.
+
+Temperature to Color Gradient (HSB Hue): Higher temperatures are mapped to warmer hues (red/orange), while lower temperatures shift to cooler hues (blue/green). This intuitive mapping communicates the temperature feel of the day.
+
+Wind Speed: Wind speed controls how fast the shapes move across the canvas and how many shapes appear. Stronger wind creates faster and more crowded movement, which helps show the energy of the wind better than numbers alone.
+
+#### 4. Tools & Learning (Vibe Coding with LLMs)
+
+I used ChatGPT (OpenAI) and Gemini (Google) as collaborative "Vibe Coding" partners to implement the p5.js logic. 
+
+I learned how to set up the API fetch function using loadJSON() to get live data. I also used the **map()** function to convert temperature and wind speed into visual elements like colour and movement speed. Finally, I created continuous movement and wrap-around logic so the shapes move smoothly across the screen.
+
+Through this process, I learned how to read live **JSON data** from an external source and use it inside the **draw()** loop. This allowed me to create a dynamic digital portrait that updates automatically with live data.
+
+#### 5. Relation to Practitioners
+
+My work relates to the philosophy of the Conditional Design group. In their work, the rules and process are set first, but the final result is unpredictable because it depends on external data or conditions. My project also relates to data artists like Jer Thorp, who turn raw data into emotional and meaningful visual experiences. Similarly, my project transforms weather data into a visual and emotional digital environment.
+
+#### 6. Future Development
+
+If I had more time, I would add sound using "p5.sound" so that wind speed data could be heard as well as seen. Which is to create a multi-sensory experience. Also, I would like to add historical weather data together with current data so users can compare past and current weather patterns.
