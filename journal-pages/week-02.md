@@ -15,16 +15,16 @@ I used https://p5js.org/reference/ while working on this assignment.
 To get familiar with the p5.js editor, I practice creating a simple triangle, ellipse, and rectangle, experimenting with colour, size, and position.
 
 ![data](../assets/week-02/P5.1.png)
-*Figure 7: practice 1*
+*Figure 1: practice 1*
 
 Then I create a simple composition using at least three
 different shapes.
 
 ![data](../assets/week-02/Class_experimentation.png)
-*Figure 8: class practice 2*
+*Figure 2: class practice 2*
 
 ![data](../assets/week-02/Activity1.png)
-*Figure 9: personal practice 3*
+*Figure 3: personal practice 3*
 
 The coordinate system was sometimes confusing, especially in understanding x, y, width, and height, and the coordinate points used in triangle shapes. However, experimenting with the coordinate helped me understand how positioning works in p5.js.
 
@@ -36,7 +36,7 @@ When I was used to it, experimenting with colour, size, and position was enjoyab
 
 ![data](../assets/week-02/Interactive.gif)
 
-*Figure 10: Interactive Sketch*
+*Figure 4: Interactive Sketch*
 
 I used DOM elements (createButton(), createSlider(), createInput()) to create an interactive sketch. The slider controlled the size of a circle, the button changed the colour, and the text input displayed text on the screen. It taked many time, but this experiment was valuable to learn the drawing interaction that I had never done before.
 
@@ -49,11 +49,11 @@ In this activity, I used an LLM to help me create a generative interactive sketc
 
 
 ![data](../assets/week-02/3:InteractiveSketch.png)
-*Figure 11: Interactive Sketch Code using LLM*
+*Figure 5: Interactive Sketch Code using LLM*
 
 
 ![data](../assets/week-02/VibeCode.gif)
-*Figure 11: Vibe Code an Interactive Sketch*
+*Figure 6: Vibe Code an Interactive Sketch*
 
 I decided to create a sketch that stamps circles onto the canvas using the mouse. I asked GPT and got the code, and instead of copying it, I tried to type the code myself and understand it further. When something did not work, I asked the AI to explain the problem and help me fix it. 
 
@@ -90,16 +90,16 @@ Slider: Enables users to adjust emotion intensity on a scale of 1-5, which is re
 
 
 ![data](../assets/week-02/Sketch.png)
-*Figure : Early Interface Sketch*
+*Figure 8: Early Interface Sketch*
 
 ![data](../assets/week-02/Initial.png)
-*Figure : Initial Iteration*
+*Figure 9: Initial Iteration*
 
 My initial design was to have the 7-day rectangle bar fully visible and to include data. However, the 7-day bar layout did not provide enough space to display the shapes effectively and felt overly cluttered. Therefore, I simplified the interface from seven to a single large canvas, allowing for the input of the date to record data.
 
 
 ![data](../assets/week-02/Prototype.gif)
-*Figure : Initial Prototype*
+*Figure 10: Initial Prototype*
 
 Building upon my initial design, I completed a prototype with a single-canvas interface. On the left, I placed device and emotion buttons, along with an intensity slider (1-5) below, enabling users to easily represent their feelings after putting down their devices for the day.
 
@@ -111,7 +111,7 @@ My hand-drawn portrait shows the overall data flow, but it is static. The intera
 #### Step 3: Iterate
 
 ![data](../assets/week-02/Finalprotoo.gif)
-*Figure : Initial Prototype*
+*Figure 11: Initial Prototype*
 
 I explained my interaction and its purpose to a friend, who then tested the sketch and provided feedback. They observed that the previous "stacking" method left too much empty space on the canvas. Since my data focuses more on the emotional state rather than time sequence, she suggested allowing the shapes to be placed freely across the canvas to create a more immersive visual experience.
 
