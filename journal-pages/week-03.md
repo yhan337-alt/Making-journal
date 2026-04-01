@@ -72,9 +72,6 @@ The background hue was linked to the "relative_humidity_2m." Higher humidity lev
 
 Position of Shapes: I used "wind_speed_10m" to control the length of a rectangular bar at the bottom of the canvas. It acts like a wind gauge that grows as the breeze picks up.
 
-![data](../assets/week-03/Weather.gif)
-*Figure : Final Weather Visualisation*
-
 #### 3. Add more weather variables 
 
 I expanded the API URL to fetch relative"_humidity_2m" and "wind_speed_10m" in addition to temperature. 
@@ -87,9 +84,11 @@ I introduced organic movement by combining live data with the random() function.
 
 I applied 'vibe coding' to shift the focus from a literal data display to an atmospheric representation. I linked the "relative_humidity_2m" to the background color (200 - humidity), allowing the overall mood of the canvas to shift between warm and cool tones based on the air's moisture. 
 
+#### Final Weather Visualisation
 
+![data](../assets/week-03/Weather.gif)
+*Figure : Final Weather Visualisation*
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
 ### Activity 3: Design and Execute a Data Protocol
 
