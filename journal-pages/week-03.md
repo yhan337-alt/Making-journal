@@ -103,8 +103,10 @@ Frequency: Every 30 seconds.
 
 Mapping: Each observation is recorded as a pictogram: a stick figure holding a rectangle (phone). One figure equals one person on a phone. 
 
+![data](../assets/week-03/Protocol2.jpg)
+*Figure : Other Group data protocol*
 
-Executing the Swapped Protocol: Language Diversity Pie Chart
+#### Executing the Swapped Protocol: Language Diversity Pie Chart
 
 We received a protocol from another group that asked us to track the first language spoken by our table members.
 
@@ -112,11 +114,8 @@ Rules: Update the data every time the member count changed (add or decrease).
 
 Mapping: Visualize the data as a pie chart.
 
-Figure 2: Our execution of the swapped protocol, attempting to map table language diversity through pie charts.
 
-
-Reflection on the Execution:
-
+#### Reflection on the Execution:
 
 Generally, we were able to follow the core instruction of mapping languages to a pie chart. We identified speakers of English, Korean, and Chinese at our table.
 
@@ -124,12 +123,17 @@ However, the protocol was ambiguous regarding how to handle updates. The instruc
 
 The biggest surprise was the difficulty of calculating percentages on the fly for a hand-drawn pie chart. It was also hard to determine the percentage that our table was 13% Korean, 12% English, and 75% Chinese, and then accurately dividing a circle without a protractor was challenging. 
 
+*The Execution & Interpretation*
+*We swapped our protocol with another pair and executed theirs. Simultaneously, they executed our "Phone Usage" protocol. Following their execution, we compared their output with our original intention*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+1. Comparison with Designers' Intent
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+Both our team and the other team interpreted each other's rules as expected. The use of a simple pictogram made the data request universally understandable. To mirror how a clear API call yields a predictable response.
 
-## AI Usage Statement
+2. Ambiguities and Challenges
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*Ambiguity: We realized that "people on the phone in the room" could be interpreted differently. Does it count if the phone is just lying on the table with the screen on? Or does the person have to be actively scrolling? In this instance, the interpreters only counted active usage. To make the protocol less ambiguous, we should have specified: "Count only if the phone is held in hand or actively looked at."* 
+
+
+## Independent Study: Live Data Visualisation
+
