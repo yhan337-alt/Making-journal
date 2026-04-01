@@ -92,8 +92,38 @@ I applied 'vibe coding' to shift the focus from a literal data display to an atm
 
 ### Activity 3: Design and Execute a Data Protocol
 
+![data](../assets/week-03/Protocol.jpg)
+*Figure : Our Group data protocol*
 
-*Use the format below to embed images from your assets folder:*
+We designed a protocol to map the physical presence of digital engagement in the room.
+
+Source: The number of people actively using a phone in the immediate environment.
+
+Frequency: Every 30 seconds.
+
+Mapping: Each observation is recorded as a pictogram: a stick figure holding a rectangle (phone). One figure equals one person on a phone. 
+
+
+Executing the Swapped Protocol: Language Diversity Pie Chart
+
+We received a protocol from another group that asked us to track the first language spoken by our table members.
+
+Rules: Update the data every time the member count changed (add or decrease).
+
+Mapping: Visualize the data as a pie chart.
+
+Figure 2: Our execution of the swapped protocol, attempting to map table language diversity through pie charts.
+
+
+Reflection on the Execution:
+
+
+Generally, we were able to follow the core instruction of mapping languages to a pie chart. We identified speakers of English, Korean, and Chinese at our table.
+
+However, the protocol was ambiguous regarding how to handle updates. The instruction said to update "every time the member changed," but it didn't specify whether to draw a new pie chart for each change.  We chose to draw separate charts to show the data over time. (as seen in the resulting sketch)
+
+The biggest surprise was the difficulty of calculating percentages on the fly for a hand-drawn pie chart. It was also hard to determine the percentage that our table was 13% Korean, 12% English, and 75% Chinese, and then accurately dividing a circle without a protractor was challenging. 
+
 
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
