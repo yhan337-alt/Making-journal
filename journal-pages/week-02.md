@@ -120,6 +120,7 @@ I agreed with this perspective and redesigned the sketch to allow for random pla
 
 One issue is that because the shapes are placed randomly, newer shapes occasionally overlap and obscure previous data points. While I am satisfied with the increased visual density, I would like to further develop the code in the future: prevent shapes from overlapping, or use physics-based animations where shapes gently bounce off one another.
 
+This iteration process helped me understand that interaction design is not only about making something interactive, but about how interaction changes the way data is experienced and interpreted by the viewer.
 
 ### AI Usage Statement
 
