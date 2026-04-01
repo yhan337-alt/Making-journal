@@ -76,26 +76,52 @@ I focused on three aspects from my hand-drawn data portrait: device type, emotio
 3. Intensity:  a numeric variable (scale 1–5)
 → represented by the size of the shape.
 
-
-
 #### Step 2: Design your interactive visualisation
+
+
+In Experiment 1 (paper drawings), I used a spiral structure to show how the data flows over time. However, when I focused on emotional and Intensity data, I created a design where shapes build up. This helps capture the emotional transition that occurs when letting go of a device. By stacking the data, it reveals not only the initial psychological pressure but also the sense of relief and emotional clarity that builds up as I successfully distance myself from digital distractions.
+
+I designed three key interactive elements to give viewers control over the data:
+
+Text Input: Allows users to type a specific day (Sun-Sat) to explore the emotional layers of that day individually.
+
+Buttons: Provides an intuitive way to select devices and emotions, lowering the barrier for data entry.
+
+Slider: Enables users to adjust emotion intensity on a scale of 1-5, which is reflected in the size of the shapes.
+
+
+![data](../assets/week-02/Sketch.png)
+*Figure : Early Interface Sketch*
+
+![data](../assets/week-02/Initial.png)
+*Figure : Initial Iteration*
+
+My initial design was to have the 7-day rectangle bar fully visible and to include data. However, the 7-day bar layout did not provide enough space to display the shapes effectively and felt overly cluttered. Therefore, I simplified the interface from seven to a single large canvas, allowing for the input of the date to record data.
+
+
+![data](../assets/week-02/Prototype.gif)
+*Figure : Initial Prototype*
+
+Building upon my initial design, I completed a prototype with a single-canvas interface. On the left, I placed device and emotion buttons, along with an intensity slider (1-5) below, enabling users to easily represent their feelings after putting down their devices for the day.
+
+To create an interaction where shapes stack from bottom to top, I sought assistance from an LLM (GPT). However, I felt some limitations. Although not shown in the gif, the shapes would unfortunately continue to be recorded even when they exceeded the bounds of the canvas. In a future iteration, I would like to implement a scroll" feature or a clear canvas constraint to manage this overflow more gracefully.
+
+My hand-drawn portrait shows the overall data flow, but it is static. The interactive sketch shows the stacking shapes from bottom to top as new data is added. This shows how emotions build up when I keep picking up my device.
+
 
 #### Step 3: Iterate
 
-해야댐... 넣어야댐 
 
-Document Your Process
-To capture the full scope of your practice, each entry in the Making Journal must include a mix of visual and textual evidence, such as sketches, screenshots, GIFs, diagrams, process notes, instructions and reflections.
+![data](../assets/week-02/FinalProto.gif)
+*Figure : Final Prototype*
 
-Include reflective writing that addresses the following:
+I explained my interaction and its purpose to a friend, who then tested the sketch and provided feedback. They observed that the previous "stacking" method left too much empty space on the canvas. Since my data focuses more on the emotional state rather than time sequence, she suggested allowing the shapes to be placed freely across the canvas to create a more immersive visual experience.
 
-What data and visual aspects from Experiment 1 did you choose to work with, and why?
-How did you decide which interactive elements to use?
-What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
-Did you use vibe coding or other tools in your process? What did you learn from this?
-What would you develop further with more time?
-Any other reflections?
+I agreed with this perspective and redesigned the sketch to allow for random placement within the canvas. I also added outlines to each shape to be distinguished by outlines, even if they overlap. This iteration makes the canvas feel much more vibrant compared to the previous version.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+One issue is that because the shapes are placed randomly, newer shapes occasionally overlap and obscure previous data points. While I am satisfied with the increased visual density, I would like to further develop the code in the future: prevent shapes from overlapping, or use physics-based animations where shapes gently bounce off one another.
+
 
 ### AI Usage Statement
+
+Tools Used: ChatGPT (OpenAI)
