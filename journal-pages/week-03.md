@@ -144,8 +144,12 @@ I utilized the Open-Meteo API to fetch current weather data (temperature and win
 
 My goal was to create a visual that feels like the weather in Auckland.
 
+![data](../assets/week-03/HSB.png)
+*Figure :HSB*
 Temperature to Color Gradient (HSB Hue): Higher temperatures are mapped to warmer hues (red/orange), while lower temperatures shift to cooler hues (blue/green). This intuitive mapping communicates the temperature feel of the day.
 
+![data](../assets/week-03/Wind.png)
+*Figure : Wind speed code*
 Wind Speed: Wind speed controls how fast the shapes move across the canvas and how many shapes appear. Stronger wind creates faster and more crowded movement, which helps show the energy of the wind better than numbers alone.
 
 #### 4. Tools & Learning (Vibe Coding with LLMs)
