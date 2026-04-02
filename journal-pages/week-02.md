@@ -43,7 +43,7 @@ I used DOM elements (createButton(), createSlider(), createInput()) to create an
 
 ### Activity 3: Make an Interactive Sketch
 
-In this activity, I used an LLM to help me create a generative interactive sketch in p5.js.
+In this activity, I used an LLM (ChatGPT) to help me create a generative interactive sketch in p5.js.
 
 ![data](../assets/week-02/ScreenshotGPT.png)
 
