@@ -110,7 +110,7 @@ My hand-drawn portrait shows the overall data flow, but it is static. The intera
 
 #### Step 3: Iterate
 
-![data](../assets/week-02/Finalprotoo.gif)
+![data](../assets/week-02/Finalproto.gif)
 *Figure 11: Initial Prototype*
 
 I explained my interaction and its purpose to a friend, who then tested the sketch and provided feedback. They observed that the previous "stacking" method left too much empty space on the canvas. Since my data focuses more on the emotional state rather than time sequence, she suggested allowing the shapes to be placed freely across the canvas to create a more immersive visual experience.
@@ -124,3 +124,5 @@ This iteration process helped me understand that interaction design is not only 
 ### AI Usage Statement
 
 Tools Used: ChatGPT (OpenAI)
+
+OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
