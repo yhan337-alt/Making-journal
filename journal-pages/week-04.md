@@ -293,6 +293,9 @@ This reflection made me realise that data visualisation is not only about presen
 ### AI Usage Statement
 
 Alibaba Cloud. (2026). Qwen3-1.7B via Ollama (Mar 14 version) [Large language model]. https://ollama.com/
+
 Anthropic. (2026). Claude 3.5 Sonnet [Large language model]. https://www.anthropic.com/
+
 Google. (2026). NotebookLM [AI-powered research and writing assistant]. https://notebooklm.google.com/
+
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
