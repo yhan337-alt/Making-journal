@@ -222,7 +222,7 @@ In the second attempt, I asked for a horizontal bar chart, but it was still not 
 The final attempt reflects these changes and improved the readability of the chart.
 
 
-**Representation 2:** Bubble Chart — “Who is the culprit?”
+**Representation 2: Bubble Chart — “Who is the culprit?”
 
 Form & Encoding: Bubble chart visualizing emissions by source (Agriculture, Transport, Heating). Bubble size indicates total emissions, and colour differentiates sources.
 
@@ -239,7 +239,7 @@ Story Told: The visualization emphasizes which human activities are responsible 
 Design Decisions: Claude suggested a treemap first, but I guided it toward bubbles to make the comparison of sources clearer. I chose specific colours for each sector to make the chart visually intuitive.
 
 
-**Representation 3:** Narrative Text Cards — “Numbers as stories”
+**Representation 3: Narrative Text Cards — “Numbers as stories”**
 
 Form & Encoding: Text-based cards turning emission numbers into short narratives. Each card connects data to daily life, e.g., “Transportation emissions increase as car use rises in urban areas.”
 
