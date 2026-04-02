@@ -146,10 +146,12 @@ My goal was to create a visual that feels like the weather in Auckland.
 
 ![data](../assets/week-03/HSB.png)
 *Figure 13:HSB*
+
 Temperature to Color Gradient (HSB Hue): Higher temperatures are mapped to warmer hues (red/orange), while lower temperatures shift to cooler hues (blue/green). This intuitive mapping communicates the temperature feel of the day.
 
 ![data](../assets/week-03/Wind.png)
 *Figure 14: Wind speed code*
+
 Wind Speed: Wind speed controls how fast the shapes move across the canvas and how many shapes appear. Stronger wind creates faster and more crowded movement, which helps show the energy of the wind better than numbers alone.
 
 #### 4. Tools & Learning (Vibe Coding with LLMs)
@@ -175,4 +177,5 @@ If I had more time, I would add sound using "p5.sound" so that wind speed data c
 ### AI Usage Statement
 
 Google. (2026). Gemini 1.5 Pro [Large language model]. https://gemini.google.com
+
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
