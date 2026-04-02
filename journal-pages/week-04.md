@@ -52,7 +52,7 @@ The Qwen3:1.7b model (Ollama) is smaller, so it had difficulty with complex desi
 
 #### Building the Notebook (Sources)
 
-![data](../assets/week-04/GPTcode.png)
+![data](../assets/week-04/Data.png)
 *Figure 5: Upload rources to my NotenookLM*
 
 I added the following sources to my NotebookLM notebook:
@@ -94,44 +94,46 @@ AI Insights on My Work :
 **Themes Across My Projects**
 
 ![data](../assets/week-04/1.png)
-*Figure 6: Themes Across Your Projects*
+*Figure 6: Answer of what themes appear across my projects*
 
 **What My Sources Suggest I Care About**
 
 ![data](../assets/week-04/2.png)
-*Figure 7: What My Sources Suggest I Care About*
+*Figure 7:  Answer of What My Sources Suggest I Care About*
 
 **Final Design Project**
 
 ![data](../assets/week-04/3.png)
-*Figure 8: The Final Design Project*
+*Figure 8: Answer of my work became a final design project, what would it be*
 
 **A Provocation Hidden in Your Sources**
 
 ![data](../assets/week-04/4.png)
-*Figure 9: A Provocation Hidden in Your Sources*
+*Figure 9: Answer of identify a provocation hidden in my sources*
 
 **Arguments from a Dissenter**
 
 ![data](../assets/week-04/5.png)
-*Figure 10: Arguments from a Dissenter*
+*Figure 10: Answer of what would someone who disagrees with my ideas argue*
 
 **Source Reflection**
 
 ![data](../assets/week-04/6.png)
-*Figure 11: Source Reflection*
+*Figure 11: Answer of which sources are you drawing on most, and which are you ignoring*
 
-어떤 질문 했는지
-AI가 뭐라고 했는지
-놀라웠던 점 / 틀린 점
 
-The NotebookLM surprised me by connecting experiments I hadn’t linked and highlighting ethical questions, but it also made mistakes, assuming some data was neutral and suggesting visualisations that were impractical for the dataset.
+NotebookLM surprisingly summarized my work as a three-stage evolution: from internal emotions to community engagement. It recognized my focus on "Small Data" and the idea that raw data is shaped by cultural and emotional perspectives, which resonated with me.
+
+However, the AI made my work sound too academic and complicated. It did not capture the sensory and visual enjoyment I get from coding with p5.js. It also focused more on Western Data Feminism and did not fully understand Māori ideas like Kaitiakitanga. This shows that AI can summarize information, but it does not fully understand local culture and context. It reminded me that I still need to be the intervention to make sure Indigenous perspectives are understood properly.
 
 
 #### Audio Overview
 
-들으면서 느낀 점
-Chat과 Audio 차이
+Chat allowed for interactive, iterative questioning. I could ask and follow up on ideas to guide the AI toward the interpretations I wanted. The responses were textual and detailed, making it easy to quote, annotate, and critically reflect. I could see which sources the AI drew on, ask it to challenge assumptions, and test alternative perspectives.
+
+Whereas audio provided a summarized, spoken interpretation of my work. It helped me notice patterns or connections I had overlooked, as hearing the material in audio form feels different from reading it.
+It was faster to absorb, but less precise: I could not directly check which sources were used or question their reasoning in real time.
+
 
 #### Reflection
 AI가 내 작업을 어떻게 해석했는지
@@ -139,20 +141,18 @@ AI 사용하면서 느낀 점
 AI는 collaborator인지 tool인지
 AI bias / limitations
 
-## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+### Independent Study: AI-Assisted Data Exploration
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+#### Step 1: Finding the Dataset
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+https://catalogue.data.govt.nz/dataset/nitrogen-dioxide-concentrations-2004-2021
 
-## AI Usage Statement
+#### Step 2: Understanding the Data
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+#### Step 3: Design Multiple Representations
 
-
+#### Step 4: Critically Evaluate
 
 
 
