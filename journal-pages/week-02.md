@@ -123,6 +123,4 @@ This iteration process helped me understand that interaction design is not only 
 
 ### AI Usage Statement
 
-Tools Used: ChatGPT (OpenAI)
-
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
