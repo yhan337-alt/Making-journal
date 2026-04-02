@@ -263,20 +263,20 @@ Design Decisions: I prompted Claude to use simple language and include trends. T
 
 Looking at the three representations I produced with Claude, I was able to reflect on the AI’s design choices and my role in directing the outputs.
 
-AI Defaults
+**AI Defaults**
 Claude initially defaulted to standard visualisation formats such as grouped bar charts and simple layouts with basic colour schemes. The first outputs often used generic titles and did not prioritise readability or audience understanding. For example, the first bar chart was vertically arranged and difficult to compare, and the narrative text was overly technical.
 
-What I Had to Override or Redirect
-I had to actively guide the AI to improve clarity and communication. For the bar chart, I changed the orientation to horizontal and adjusted colour and size for better readability. For the second representation, Claude first suggested a treemap, but I redirected it to a bubble chart to make comparisons between sources clearer. In the narrative text cards, I asked the AI to simplify the language and focus on everyday experiences rather than technical explanations. This process showed that the first output from AI is often not the most effective and requires iteration.
+**What I Had to Override or Redirect**
+Redirection was needed to improve clarity and communication. I had to adjust the bar chart to horizontal orientation and also changed its size and colour to improve readability. Adding on, I edited the treemap suggested by Claude to a bubble chart for clearer comparison, as well as simplifying the language of the narrative text cards to focus on everyday experiences rather than technical explanations. These redirections ultimately present that AI requires iterations by humans to produce the most effective outcome.
 
-Assumptions Made by the AI
-The AI assumed that the audience preferred clear, standard, and information-focused visualisations. It prioritised conventional data presentation rather than emotional or interpretive storytelling. It also treated the data as neutral and complete, without questioning who collected it or what perspectives might be missing. These assumptions contrast with ideas from Data Feminism, which emphasise that data is not neutral and always reflects power and context.
+**Assumptions Made by the AI**
+The AI made the assumption that clear and standard visualisation that solely focuses on the information would be preferred by the audience. It prioritised conventional data presentation over interpretive storytelling, and treated the data as neutral without questioning the origin of the data or  acknowledging potential evaluations. Such assumptions are contrasting with the ideas from Data Feminism where they believe that data reflects power and context.
 
-Most Interesting Representation
-The most interesting representation was the narrative text cards. While the charts were useful for comparison, the narrative version translated the data into everyday language and made it more relatable. It connected abstract numbers to real-life activities such as transport and home heating, making the impact of air pollution easier to understand for a general audience.
+**Most Interesting Representation**
+The most interesting representation was the narrative text cards. Despite the charts being useful for comparison, the narrative version translated the data into our language, which created connection between abstract numbers and our everyday lives, making it more relatable and easier to understand for general audience.
 
-What I Would Do Differently Without AI
-If I were building this project without AI, I would spend more time exploring conceptual and interactive visualisations rather than starting with standard charts. I would also consider combining emotional and environmental data, similar to my previous experiments, to create a more engaging and personal experience. AI helped speed up the process and generate multiple ideas quickly, but it also showed that strong design decisions still need to come from the designer.
+**What I Would Do Differently Without AI**
+I would focus more on discovering a variety of conceptual and interactive visualisations, rather than simply beginning with standard charts. Additionally, I would combine emotional and environmental data to create deeper connection and make the experience feel more personal and engaging. Though the AI was helpful in terms of generating a variety of ideas efficiently, it lacked the ability to make a better decision and justify it and has eventually showed that the job of making decisions that have significant impact on design still belongs to the designer themselves.
 
 
 ### Reflection: Data Feminism and Māori Data Sovereignty
@@ -288,8 +288,6 @@ Data Feminism explains that data is not neutral and always reflects decisions ab
 Kirikowhai Mikaere talks about data as a strategic asset for Māori development. This made me think that environmental data in Aotearoa is cultural and political information rather than just static. Data should support and be used for communities and wellbeing, not just measurement and reporting.
 
 This reflection made me realise that data visualisation is not only about presenting numbers. It is also about thinking critically about what the data shows, what it hides, and whose stories are represented.
-
-
 
 
 ### AI Usage Statement
