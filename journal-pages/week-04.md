@@ -299,3 +299,15 @@ Anthropic. (2026). Claude 3.5 Sonnet [Large language model]. https://www.anthrop
 Google. (2026). NotebookLM [AI-powered research and writing assistant]. https://notebooklm.google.com/
 
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
+
+In accordance with the Lane 2 assessment guidelines, I utilized the following AI tools to assist in the development of this journal:
+
+Coding & Debugging: Claude 3.5 Sonnet and ChatGPT (GPT-4o) for "vibe coding" and p5.js script adjustments.
+
+Research & Synthesis: NotebookLM for synthesizing course readings and generating the Audio Overview.
+
+Local AI Exploration: Ollama (Qwen3-1.7B) for exploring local data sovereignty and model capabilities.
+
+All final design decisions, visual mappings, and critical reflections are my own original work.
+
+
