@@ -205,13 +205,13 @@ Audience: General public and students interested in environmental data.
 Story Told: The chart shows which pollutants contribute the most to air pollution, making it easy to compare relative amounts.
 
 ![data](../assets/week-04/11.gif)
-*Figure 14: First version by Claude*
+*Figure 14: First Bar Chart by Claude*
 
 ![data](../assets/week-04/21.gif)
-*Figure 15: Second version by Claude*
+*Figure 15: Second Bar Chart by Claude*
 
 ![data](../assets/week-04/31.gif)
-*Figure 16: Final version by Claude*
+*Figure 16: Final Bar Chart by Claude*
 
 Design Decisions
 
@@ -231,10 +231,10 @@ Audience: Policymakers, environmental planners, and researchers.
 Story Told: The visualization emphasizes which human activities are responsible for the most air pollution in Aotearoa.
 
 ![data](../assets/week-04/22.png)
-*Figure 17: First version by Claude (I can't change it to English: using all free messages.)*
+*Figure 17: First treemap by Claude (I can't change it to English: using all free messages.)*
 
 ![data](../assets/week-04/33.png)
-*Figure 18: Fianl version by Claude*
+*Figure 18: Fianl Bubble Chart by Claude*
 
 Design Decisions: Claude suggested a treemap first, but I guided it toward bubbles to make the comparison of sources clearer. I chose specific colours for each sector to make the chart visually intuitive.
 
@@ -249,12 +249,12 @@ Story Told: The text frames the data in a relatable way, showing how human activ
 
 ![data](../assets/week-04/44.png)
 ![data](../assets/week-04/444.png)
-*Figure 19: First version by Claude*
+*Figure 19: First Narrative Text Cards by Claude*
 
 
 ![data](../assets/week-04/55.png)
 ![data](../assets/week-04/555.png)
-*Figure 20: Final version by Claude*
+*Figure 20: Final Narrative Text Cards by Claude*
 
 Design Decisions: I prompted Claude to use simple language and include trends. The AI’s first draft was too technical, so I iterated to make it readable and engaging for my audience.
 
