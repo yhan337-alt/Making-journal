@@ -124,3 +124,12 @@ This iteration process helped me understand that interaction design is not only 
 ### AI Usage Statement
 
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
+
+AI Acknowledgement
+In accordance with the Lane 2 assessment guidelines, I utilized ChatGPT (GPT-4o) to develop this interactive sketch.
+
+Vibe Coding: I used AI to translate my visual concepts from Experiment 1 into functional p5.js code, specifically for implementing interactive DOM elements like sliders and buttons.
+
+Debugging: AI was used to troubleshoot layout issues and refine the responsiveness of the interactive data portrait.
+
+All final design decisions, data mapping strategies, and reflections are my own original work
