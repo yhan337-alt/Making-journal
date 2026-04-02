@@ -196,7 +196,7 @@ Meaningful Gaps: Missing data for things like road dust or animal housing isn’
 
 #### Step 3: Design Multiple Representations
 
-**Representation 1:** Bar Chart — “What pollutant dominates each source?”
+**Representation 1: Bar Chart — “What pollutant dominates each source?”**
 
 Form & Encoding: HTML bar chart showing total emissions of each pollutant by type. The pollutant with the highest emissions was highlighted.
 
@@ -222,7 +222,7 @@ In the second attempt, I asked for a horizontal bar chart, but it was still not 
 The final attempt reflects these changes and improved the readability of the chart.
 
 
-**Representation 2: Bubble Chart — “Who is the culprit?”
+**Representation 2: Bubble Chart — “Who is the culprit?”**
 
 Form & Encoding: Bubble chart visualizing emissions by source (Agriculture, Transport, Heating). Bubble size indicates total emissions, and colour differentiates sources.
 
@@ -261,14 +261,37 @@ Design Decisions: I prompted Claude to use simple language and include trends. T
 
 #### Step 4: Critically Evaluate
 
-AI Defaults vs. Human Direction: The AI defaulted to generic blue bar charts and "neutral" titles. I had to override these to bring in Aotearoa’s specific context (colors, naming, and emotional tone).
+Looking at the three representations I produced with Claude, I was able to reflect on the AI’s design choices and my role in directing the outputs.
 
-Data Feminism (D’Ignazio & Klein): This dataset isn't "raw"—it’s "already cooked." The focus on "Threatened" species ignores those already "Extinct," making the history of colonial environmental impact invisible. It raises questions about power: which birds get funded for research?
+AI Defaults
+Claude initially defaulted to standard visualisation formats such as grouped bar charts and simple layouts with basic colour schemes. The first outputs often used generic titles and did not prioritise readability or audience understanding. For example, the first bar chart was vertically arranged and difficult to compare, and the narrative text was overly technical.
 
-Māori Data Sovereignty (Mikaere): Mikaere frames data as a strategic asset. By re-inserting Ingoa Māori into my visualizations, I am challenging the "God Trick" (seeing from nowhere) and situating the data back into the mana of the land.
+What I Had to Override or Redirect
+I had to actively guide the AI to improve clarity and communication. For the bar chart, I changed the orientation to horizontal and adjusted colour and size for better readability. For the second representation, Claude first suggested a treemap, but I redirected it to a bubble chart to make comparisons between sources clearer. In the narrative text cards, I asked the AI to simplify the language and focus on everyday experiences rather than technical explanations. This process showed that the first output from AI is often not the most effective and requires iteration.
+
+Assumptions Made by the AI
+The AI assumed that the audience preferred clear, standard, and information-focused visualisations. It prioritised conventional data presentation rather than emotional or interpretive storytelling. It also treated the data as neutral and complete, without questioning who collected it or what perspectives might be missing. These assumptions contrast with ideas from Data Feminism, which emphasise that data is not neutral and always reflects power and context.
+
+Most Interesting Representation
+The most interesting representation was the narrative text cards. While the charts were useful for comparison, the narrative version translated the data into everyday language and made it more relatable. It connected abstract numbers to real-life activities such as transport and home heating, making the impact of air pollution easier to understand for a general audience.
+
+What I Would Do Differently Without AI
+If I were building this project without AI, I would spend more time exploring conceptual and interactive visualisations rather than starting with standard charts. I would also consider combining emotional and environmental data, similar to my previous experiments, to create a more engaging and personal experience. AI helped speed up the process and generate multiple ideas quickly, but it also showed that strong design decisions still need to come from the designer.
+
+
+### Reflection: Data Feminism and Māori Data Sovereignty
+
+Through this 240 project, I also thought about ideas from Data Feminism and the talk by Kirikowhai Mikaere.
+
+Data Feminism explains that data is not neutral and always reflects decisions about what to measure and what to ignore. When I worked with the air pollution dataset, I noticed that the data shows how much pollution is produced and which sectors are responsible. But it does not show which communities are most affected by pollution. Through this, I understand that the dataset focuses on emissions, but not on social issues.
+
+Kirikowhai Mikaere talks about data as a strategic asset for Māori development. This made me think that environmental data in Aotearoa is cultural and political information rather than just static. Data should support and be used for communities and wellbeing, not just measurement and reporting.
+
+This reflection made me realise that data visualisation is not only about presenting numbers. It is also about thinking critically about what the data shows, what it hides, and whose stories are represented.
+
 
 
 
 ### AI Usage Statement
 
-Tools Used: ChatGPT (OpenAI), Gemini (OpenAI)
+Tools Used: ChatGPT (OpenAI), Claude (OpenAI)
