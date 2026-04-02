@@ -174,4 +174,5 @@ If I had more time, I would add sound using "p5.sound" so that wind speed data c
 
 ### AI Usage Statement
 
-Tools Used: ChatGPT (OpenAI), Gemini (OpenAI)
+Google. (2026). Gemini 1.5 Pro [Large language model]. https://gemini.google.com
+OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
