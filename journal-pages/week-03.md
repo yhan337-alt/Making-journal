@@ -160,6 +160,9 @@ I learned how to set up the API fetch function using loadJSON() to get live data
 
 Through this process, I learned how to read live **JSON data** from an external source and use it inside the **draw()** loop. This allowed me to create a dynamic digital portrait that updates automatically with live data.
 
+![data](../assets/week-03/AucklandW.gif)
+*Figure 15: Final Outcome*
+
 #### 5. Relation to Practitioners
 
 My work relates to the philosophy of the Conditional Design group. In their work, the rules and process are set first, but the final result is unpredictable because it depends on external data or conditions. My project also relates to data artists like Jer Thorp, who turn raw data into emotional and meaningful visual experiences. Similarly, my project transforms weather data into a visual and emotional digital environment.
