@@ -179,3 +179,12 @@ If I had more time, I would add sound using "p5.sound" so that wind speed data c
 Google. (2026). Gemini 1.5 Pro [Large language model]. https://gemini.google.com
 
 OpenAI. (2026). ChatGPT (GPT-4o version) [Large language model]. https://chat.openai.com/
+
+AI Acknowledgement
+In accordance with the Lane 2 guidelines, I utilized Gemini 1.5 Pro and ChatGPT (GPT-4o) to assist in the technical implementation of this live data sketch.
+
+API Integration: I used AI to assist in parsing the JSON structure from the Open-Meteo API and mapping the real-time weather values to p5.js visual properties.
+
+Code Debugging: AI was used to troubleshoot asynchronous data fetching and ensure the visual rhythm aligned with the data updates.
+
+All final design decisions, data protocol rules, and reflections are my own original work.
