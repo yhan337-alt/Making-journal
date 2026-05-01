@@ -153,9 +153,9 @@ AI Bias and Limitations
 
 Throughout this process, I noticed several limitations and biases in AI responses. Primarily, AI frequently assumes the data provided to be objective, despite the sources such as Data Feminism highlight that the data is fully shaped by social, political and historical contexts. Moreover, it often failed to take into account the size of my dataset when suggesting the visualisation ideas. This limitation proved that AI lacks understanding of practical constraints of design implementation. Finally, AI tended to oversimplify the key ideas of my projects. Overall, these limitations reiterated the idea that AI is a system rather than an authority, and that it still requires critical evaluations by humans to produce the right outcome.
 
-### Independent Study: AI-Assisted Data Exploration
+## Independent Study: AI-Assisted Data Exploration
 
-#### Step 1: Finding the Dataset
+### Step 1: Finding the Dataset
 
 Dataset Chosen: [Nitrogen dioxide concentrations (2004–2021)]
 
@@ -168,7 +168,7 @@ https://catalogue.data.govt.nz/dataset/air-pollutant-emissions
 https://data.mfe.govt.nz/table/98424-air-pollutant-emissions/
 
 
-#### Step 2: Understanding the Data
+### Step 2: Understanding the Data
 
 Initial Analysis: I uploaded the CSV to Claude and asked: 
 
@@ -194,7 +194,7 @@ NOx and Transport: Vehicles are the main source of Nitrogen Oxides (NOx), showin
 
 Meaningful Gaps: Missing data for things like road dust or animal housing isn’t an error. These sources just don’t produce certain gases, so zeros can be meaningful.
 
-#### Step 3: Design Multiple Representations
+### Step 3: Design Multiple Representations
 
 **Representation 1: Bar Chart — “What pollutant dominates each source?”**
 
@@ -259,7 +259,7 @@ Story Told: The text frames the data in a relatable way, showing how human activ
 Design Decisions: I prompted Claude to use simple language and include trends. The AI’s first draft was too technical, so I iterated to make it readable and engaging for my audience.
 
 
-#### Step 4: Critically Evaluate
+### Step 4: Critically Evaluate
 
 Looking at the three representations I produced with Claude, I was able to reflect on the AI’s design choices and my role in directing the outputs.
 
