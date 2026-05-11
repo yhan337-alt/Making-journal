@@ -45,6 +45,7 @@ https://scanlines.net/object/heart-library-project.html
 https://www.fact.co.uk/artwork/the-heart-library-project-2007
 
 ![data](../assets/week-06/heart.png)
+*Figure 1: Picture of Heart Library Project by George Khut.*
 
 What draws me to it?
 - It immerses visitors by visualising their heart rate data in real time through visual and auditory elements, allowing them to directly experience the connection between the body and mind.
@@ -59,8 +60,9 @@ Does it change my direction?
 https://exertiongameslab.org/projects/the-playground 
 
 ![data](../assets/week-06/rename.png)
+*Figure 2: Picture of The Playground interactive installation.*
 
-What draws me to it?
+What draws me to it? 
 - It creates a playful environment where participants physically interact and unknowingly generate data through movement.
 
 What I carry forward:
@@ -73,7 +75,7 @@ Does it change my direction?
 https://shaunleonardo.com/?view-type=body-of-work
 
 ![data](../assets/week-06/body.png)
-
+*Figure 3: Installation view of You walk… by Shaun Leonardo.*
 
 What draws me to it?
 - This work focuses on how the body holds memory and emotion even when nothing is visually expressed. It reveals that internal states can exist without outward visibility.
@@ -84,10 +86,11 @@ What I carry forward:
 Does it change my direction?
 - It reinforces my interest in designing systems where participation is felt internally rather than seen externally.
 
-**5. Wayfinding** 
+**4. Wayfinding** 
 https://rarar.com/work/wayfinding/ 
 
 ![data](../assets/week-06/way.png)
+*Figure 4: Installation view of wayfinding*
 
 What draws me to it?
 - It uses movement and environmental feedback to create a responsive spatial system shaped by participants.
@@ -97,6 +100,22 @@ What I carry forward:
 
 Does it change my direction?
 - It expands my thinking toward installations that respond dynamically to invisible human actions.
+
+**5. Domestic Data Streamers Projects** 
+https://www.domesticstreamers.com/work/
+
+![data](../assets/week-06/sc.png)
+![data](../assets/week-06/scc.png)
+*Figure 5: Picture of the conversations on suicides*
+
+What draws me to it?
+- It transforms emotions and social issues into participatory installations that make invisible experiences visible through interaction.
+
+What I carry forward:
+- The idea of data physicalisation, where personal experiences become tangible materials, spaces, and collective systems.
+
+Does it change my direction?
+- Their work reinforces my decision to combine sensory interaction with collective accumulation, showing that data can be emotional, spatial, and experiential rather than screen-based.
 
 ## 3. Project Planning and Skills Roadmap 
 
