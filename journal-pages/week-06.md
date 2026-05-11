@@ -38,6 +38,50 @@ Furthermore, despite attempts to capture “invisible participation,” the data
 Nevertheless, these limitations are meaningful. They reveal the gap between lived experience and data representation, and raise important questions about how participation is defined and measured. This directly supports the core aim of this project by making these issues more visible.
 
 
+## 2. Visual Research and Precedent Study 
+
+1. Heart Library Project — George Khut
+https://scanlines.net/object/heart-library-project.html
+https://www.fact.co.uk/artwork/the-heart-library-project-2007
+
+![data](../assets/week-06/heart.png)
+
+What draws me to it?
+- It immerses visitors by visualising their heart rate data in real time through visual and auditory elements, allowing them to directly experience the connection between the body and mind.
+
+What I carry forward:
+- Using biofeedback (heart rate, breathing, bodily signals) as a form of emotional data representation.
+
+Does it change my direction?
+- It strengthens my belief that invisible emotional reactions can be captured and physically re-expressed.
+
+2. The Playground
+https://exertiongameslab.org/projects/the-playground 
+
+![data](../assets/week-06/rename.png)
+
+What draws me to it?
+- It creates a playful environment where participants physically interact and unknowingly generate data through movement.
+
+What I carry forward:
+- Designing participation as play, where users do not feel like they are “producing data” but simply engaging.
+
+Does it change my direction?
+- It reinforces my idea that participation should feel natural, not forced or overly conscious.
+
+## 3. Project Planning and Skills Roadmap 
+
+At first, I developed two different installation ideas.
+
+The first idea is a Black Box. From the outside, it appears to be an ordinary black box. But when participants wear headphones and place their hands inside, they hear sounds (heartbeats, trembling breathing, and vibrations) and physically feel tactile elements (vibrations or temperature changes) through their hands. This experience is designed to show that even when there are no visible reactions on the surface, invisible emotions, tension, and participation still exist internally. Participants who have had similar experiences feel empathy, while those who have not had such experiences may begin to understand the feeling of invisible participation.
+
+The second idea is a participatory installation using a transparent box. Participants are presented with questions such as, “Have you ever wanted to speak but stopped yourself?” If they relate to the experience, they place a marble into the transparent box. Over time, the marbles gradually accumulate, making invisible silence and hesitation visible as a form of collective data.
+
+I was drawn to both ideas because I felt that each one effectively communicated the core theme of my project. After careful consideration, I decided to combine the two concepts.
+The outcome I want to create is an interactive installation where participants first experience invisible participation and hidden emotions physically through the Black Box, and then leave traces of their own experiences or empathy by placing marbles into the transparent box. Rather than simply observing the artwork, participants actively feel, engage, and become part of the data themselves. As time passes, the marbles inside the transparent box continue to grow, revealing individual silence and invisible participation as a collective presence. Through this project, I want to question the idea that participation only exists through speaking or visible actions, and instead make overlooked emotions and experiences visible through physical and sensory interaction.
+
+
+
 ## Independent Study
 
 ### 1. Consultation Reflection
