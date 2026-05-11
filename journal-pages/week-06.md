@@ -40,7 +40,7 @@ Nevertheless, these limitations are meaningful. They reveal the gap between live
 
 ## 2. Visual Research and Precedent Study 
 
-1. Heart Library Project — George Khut
+**1. Heart Library Project — George Khut**
 https://scanlines.net/object/heart-library-project.html
 https://www.fact.co.uk/artwork/the-heart-library-project-2007
 
@@ -55,7 +55,7 @@ What I carry forward:
 Does it change my direction?
 - It strengthens my belief that invisible emotional reactions can be captured and physically re-expressed.
 
-2. The Playground
+**2. The Playground**
 https://exertiongameslab.org/projects/the-playground 
 
 ![data](../assets/week-06/rename.png)
@@ -68,6 +68,9 @@ What I carry forward:
 
 Does it change my direction?
 - It reinforces my idea that participation should feel natural, not forced or overly conscious.
+
+**3. Domestic Data Streamers Projects**
+
 
 ## 3. Project Planning and Skills Roadmap 
 
