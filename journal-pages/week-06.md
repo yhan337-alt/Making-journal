@@ -69,8 +69,34 @@ What I carry forward:
 Does it change my direction?
 - It reinforces my idea that participation should feel natural, not forced or overly conscious.
 
-**3. Domestic Data Streamers Projects**
+**3.Body of work**
+https://shaunleonardo.com/?view-type=body-of-work
 
+![data](../assets/week-06/body.png)
+
+
+What draws me to it?
+- This work focuses on how the body holds memory and emotion even when nothing is visually expressed. It reveals that internal states can exist without outward visibility.
+
+What I carry forward:
+- The idea that movement and bodily presence can act as invisible data inputs, not just visible performance.
+
+Does it change my direction?
+- It reinforces my interest in designing systems where participation is felt internally rather than seen externally.
+
+**5. Wayfinding** 
+https://rarar.com/work/wayfinding/ 
+
+![data](../assets/week-06/way.png)
+
+What draws me to it?
+- It uses movement and environmental feedback to create a responsive spatial system shaped by participants.
+
+What I carry forward:
+- The idea of feedback loops between human behaviour and physical space.
+
+Does it change my direction?
+- It expands my thinking toward installations that respond dynamically to invisible human actions.
 
 ## 3. Project Planning and Skills Roadmap 
 
