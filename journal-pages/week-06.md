@@ -8,15 +8,14 @@ layout: default
 
 ## In-Class Activities
  
-***
 
 ### 1. Data Exploration
 
-**1) Data source and origin** 
+**1.1 What the data source is and where it comes from** 
 
 The data for this project is personally collected through observation and self-recorded experiences in everyday learning and social environments. It focuses on communication in classroom discussions and informal conversations, particularly within international student contexts. Instead of using existing datasets, the data is generated through recording moments where communication occurs, pauses, or does not happen.
 
-**2) Data content and structure**
+**1.2 What the data contains and how it is structured**
 
 
 The dataset records different ways people participate in communication, not only through speaking. It includes:
@@ -28,7 +27,7 @@ The dataset records different ways people participate in communication, not only
 
 The data is recorded in a simple log over time, either during or after interactions. Each entry represents a moment of participation, whether or not speech happens. As these entries build up, they form patterns that show both visible participation (speaking) and invisible participation (silence, delay, hesitation).
 
-**3) Any limitations, biases, or gaps that you notice, and what these mean for your project direction**
+**1.3 Any limitations, biases, or gaps that you notice, and what these mean for your project direction**
 
 
 One of the main limitations of this dataset is relies on subjective observation and self-reporting. Because it may not accurately capture every moment of participation or silence. Also, when people notice that they are being recorded, they may behave differently than usual, which can alter natural patterns of interaction.
@@ -40,22 +39,23 @@ Furthermore, despite attempts to capture “invisible participation,” the data
 Nevertheless, these limitations are meaningful. They reveal the gap between lived experience and data representation, and raise important questions about how participation is defined and measured. This directly supports the core aim of this project by making these issues more visible.
 
 
-## 2. Visual Research and Precedent Study 
+### 2. Visual Research and Precedent Study 
 
 #### 1. Heart Library Project — George Khut 
+
 https://scanlines.net/object/heart-library-project.html
 https://www.fact.co.uk/artwork/the-heart-library-project-2007
 
 ![data](../assets/week-06/heart.png)
 *Figure 1: Picture of Heart Library Project by George Khut.*
 
-**What draws me to it?
+**What draws me to it?**
 - It immerses visitors by visualising their heart rate data in real time through visual and auditory elements, allowing them to directly experience the connection between the body and mind.
 
-What I carry forward:
+**What I carry forward:**
 - Using biofeedback (heart rate, breathing, bodily signals) as a form of emotional data representation.
 
-Does it change my direction?
+**Does it change my direction?**
 - It strengthens my belief that invisible emotional reactions can be captured and physically re-expressed.
 
 #### 2. The Playground**
@@ -64,13 +64,13 @@ https://exertiongameslab.org/projects/the-playground
 ![data](../assets/week-06/rename.png)
 *Figure 2: Picture of The Playground interactive installation.*
 
-What draws me to it? 
+**What draws me to it?**
 - It creates a playful environment where participants physically interact and unknowingly generate data through movement.
 
-What I carry forward:
+**What I carry forward:**
 - Designing participation as play, where users do not feel like they are “producing data” but simply engaging.
 
-Does it change my direction?
+**Does it change my direction?**
 - It reinforces my idea that participation should feel natural, not forced or overly conscious.
 
 #### 3.Body of work
@@ -79,13 +79,13 @@ https://shaunleonardo.com/?view-type=body-of-work
 ![data](../assets/week-06/body.png)
 *Figure 3: Installation view of You walk… by Shaun Leonardo.*
 
-What draws me to it?
+**What draws me to it?**
 - This work focuses on how the body holds memory and emotion even when nothing is visually expressed. It reveals that internal states can exist without outward visibility.
 
-What I carry forward:
+**What I carry forward:**
 - The idea that movement and bodily presence can act as invisible data inputs, not just visible performance.
 
-Does it change my direction?
+**Does it change my direction?**
 - It reinforces my interest in designing systems where participation is felt internally rather than seen externally.
 
 #### 4. Wayfinding
@@ -94,33 +94,34 @@ https://rarar.com/work/wayfinding/
 ![data](../assets/week-06/way.png)
 *Figure 4: Installation view of wayfinding*
 
-What draws me to it?
+**What draws me to it?**
 - It uses movement and environmental feedback to create a responsive spatial system shaped by participants.
 
-What I carry forward:
+**What I carry forward:**
 - The idea of feedback loops between human behaviour and physical space.
 
-Does it change my direction?
+**Does it change my direction?**
 - It expands my thinking toward installations that respond dynamically to invisible human actions.
 
 #### 5. Domestic Data Streamers Projects
 https://www.domesticstreamers.com/work/
 
 ![data](../assets/week-06/sc.png)
+*Figure 5: Installation of the conversations on suicides*
 ![data](../assets/week-06/scc.png)
 *Figure 5: Picture of the conversations on suicides*
 
-What draws me to it?
+**What draws me to it?**
 - It transforms emotions and social issues into participatory installations that make invisible experiences visible through interaction.
 
-What I carry forward:
+**What I carry forward:**
 - The idea of data physicalisation, where personal experiences become tangible materials, spaces, and collective systems.
 
-Does it change my direction?
+**Does it change my direction?**
 - Their work reinforces my decision to combine sensory interaction with collective accumulation, showing that data can be emotional, spatial, and experiential rather than screen-based.
 
 
-## 3. Project Planning and Skills Roadmap 
+### 3. Project Planning and Skills Roadmap 
 
 #### 3.1 What do I need to make?
 
