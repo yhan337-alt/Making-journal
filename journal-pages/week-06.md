@@ -8,13 +8,15 @@ layout: default
 
 ## In-Class Activities
  
+***
+
 ### 1. Data Exploration
 
-1) Data source and origin
+**1) Data source and origin** 
 
 The data for this project is personally collected through observation and self-recorded experiences in everyday learning and social environments. It focuses on communication in classroom discussions and informal conversations, particularly within international student contexts. Instead of using existing datasets, the data is generated through recording moments where communication occurs, pauses, or does not happen.
 
-2) Data content and structure
+**2) Data content and structure**
 
 
 The dataset records different ways people participate in communication, not only through speaking. It includes:
@@ -26,7 +28,7 @@ The dataset records different ways people participate in communication, not only
 
 The data is recorded in a simple log over time, either during or after interactions. Each entry represents a moment of participation, whether or not speech happens. As these entries build up, they form patterns that show both visible participation (speaking) and invisible participation (silence, delay, hesitation).
 
-3) Any limitations, biases, or gaps that you notice, and what these mean for your project direction
+**3) Any limitations, biases, or gaps that you notice, and what these mean for your project direction**
 
 
 One of the main limitations of this dataset is relies on subjective observation and self-reporting. Because it may not accurately capture every moment of participation or silence. Also, when people notice that they are being recorded, they may behave differently than usual, which can alter natural patterns of interaction.
@@ -40,14 +42,14 @@ Nevertheless, these limitations are meaningful. They reveal the gap between live
 
 ## 2. Visual Research and Precedent Study 
 
-**1. Heart Library Project — George Khut**
+#### 1. Heart Library Project — George Khut 
 https://scanlines.net/object/heart-library-project.html
 https://www.fact.co.uk/artwork/the-heart-library-project-2007
 
 ![data](../assets/week-06/heart.png)
 *Figure 1: Picture of Heart Library Project by George Khut.*
 
-What draws me to it?
+**What draws me to it?
 - It immerses visitors by visualising their heart rate data in real time through visual and auditory elements, allowing them to directly experience the connection between the body and mind.
 
 What I carry forward:
@@ -56,7 +58,7 @@ What I carry forward:
 Does it change my direction?
 - It strengthens my belief that invisible emotional reactions can be captured and physically re-expressed.
 
-**2. The Playground**
+#### 2. The Playground**
 https://exertiongameslab.org/projects/the-playground 
 
 ![data](../assets/week-06/rename.png)
@@ -71,7 +73,7 @@ What I carry forward:
 Does it change my direction?
 - It reinforces my idea that participation should feel natural, not forced or overly conscious.
 
-**3.Body of work**
+#### 3.Body of work
 https://shaunleonardo.com/?view-type=body-of-work
 
 ![data](../assets/week-06/body.png)
@@ -86,7 +88,7 @@ What I carry forward:
 Does it change my direction?
 - It reinforces my interest in designing systems where participation is felt internally rather than seen externally.
 
-**4. Wayfinding** 
+#### 4. Wayfinding
 https://rarar.com/work/wayfinding/ 
 
 ![data](../assets/week-06/way.png)
@@ -101,7 +103,7 @@ What I carry forward:
 Does it change my direction?
 - It expands my thinking toward installations that respond dynamically to invisible human actions.
 
-**5. Domestic Data Streamers Projects** 
+#### 5. Domestic Data Streamers Projects
 https://www.domesticstreamers.com/work/
 
 ![data](../assets/week-06/sc.png)
@@ -117,7 +119,10 @@ What I carry forward:
 Does it change my direction?
 - Their work reinforces my decision to combine sensory interaction with collective accumulation, showing that data can be emotional, spatial, and experiential rather than screen-based.
 
+
 ## 3. Project Planning and Skills Roadmap 
+
+#### 3.1 What do I need to make?
 
 At first, I developed two different installation ideas.
 
@@ -127,6 +132,16 @@ The second idea is a participatory installation using a transparent box. Partici
 
 I was drawn to both ideas because I felt that each one effectively communicated the core theme of my project. After careful consideration, I decided to combine the two concepts.
 The outcome I want to create is an interactive installation where participants first experience invisible participation and hidden emotions physically through the Black Box, and then leave traces of their own experiences or empathy by placing marbles into the transparent box. Rather than simply observing the artwork, participants actively feel, engage, and become part of the data themselves. As time passes, the marbles inside the transparent box continue to grow, revealing individual silence and invisible participation as a collective presence. Through this project, I want to question the idea that participation only exists through speaking or visible actions, and instead make overlooked emotions and experiences visible through physical and sensory interaction.
+
+![data](../assets/week-06/image.png)
+*Figure 6: Sketch of Black Box*
+
+![data](../assets/week-06/clear.png)
+*Figure 7: Sketch of Transparent Box*
+
+#### 3.2 What do I need to learn?
+
+#### 3.3 What are my next steps?
 
 
 
