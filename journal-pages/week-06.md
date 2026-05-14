@@ -49,13 +49,13 @@ https://www.fact.co.uk/artwork/the-heart-library-project-2007
 ![data](../assets/week-06/heart.png)
 *Figure 1: Picture of Heart Library Project by George Khut.*
 
-**What draws me to it?**
+What draws me to it?
 - It immerses visitors by visualising their heart rate data in real time through visual and auditory elements, allowing them to directly experience the connection between the body and mind.
 
-**What I carry forward:**
+What I carry forward:
 - Using biofeedback (heart rate, breathing, bodily signals) as a form of emotional data representation.
 
-**Does it change my direction?**
+Does it change my direction?
 - It strengthens my belief that invisible emotional reactions can be captured and physically re-expressed.
 
 #### 2. The Playground**
@@ -64,28 +64,28 @@ https://exertiongameslab.org/projects/the-playground
 ![data](../assets/week-06/rename.png)
 *Figure 2: Picture of The Playground interactive installation.*
 
-**What draws me to it?**
+What draws me to it?
 - It creates a playful environment where participants physically interact and unknowingly generate data through movement.
 
-**What I carry forward:**
+What I carry forward:
 - Designing participation as play, where users do not feel like they are “producing data” but simply engaging.
 
-**Does it change my direction?**
+Does it change my direction?
 - It reinforces my idea that participation should feel natural, not forced or overly conscious.
 
-#### 3.Body of work
+#### 3. Body of work
 https://shaunleonardo.com/?view-type=body-of-work
 
 ![data](../assets/week-06/body.png)
 *Figure 3: Installation view of You walk… by Shaun Leonardo.*
 
-**What draws me to it?**
+What draws me to it?
 - This work focuses on how the body holds memory and emotion even when nothing is visually expressed. It reveals that internal states can exist without outward visibility.
 
-**What I carry forward:**
+What I carry forward:
 - The idea that movement and bodily presence can act as invisible data inputs, not just visible performance.
 
-**Does it change my direction?**
+Does it change my direction?
 - It reinforces my interest in designing systems where participation is felt internally rather than seen externally.
 
 #### 4. Wayfinding
@@ -94,13 +94,13 @@ https://rarar.com/work/wayfinding/
 ![data](../assets/week-06/way.png)
 *Figure 4: Installation view of wayfinding*
 
-**What draws me to it?**
+What draws me to it?
 - It uses movement and environmental feedback to create a responsive spatial system shaped by participants.
 
-**What I carry forward:**
+What I carry forward:
 - The idea of feedback loops between human behaviour and physical space.
 
-**Does it change my direction?**
+Does it change my direction?
 - It expands my thinking toward installations that respond dynamically to invisible human actions.
 
 #### 5. Domestic Data Streamers Projects
@@ -111,13 +111,13 @@ https://www.domesticstreamers.com/work/
 ![data](../assets/week-06/scc.png)
 *Figure 5: Picture of the conversations on suicides*
 
-**What draws me to it?**
+What draws me to it?
 - It transforms emotions and social issues into participatory installations that make invisible experiences visible through interaction.
 
-**What I carry forward:**
+What I carry forward:
 - The idea of data physicalisation, where personal experiences become tangible materials, spaces, and collective systems.
 
-**Does it change my direction?**
+Does it change my direction?
 - Their work reinforces my decision to combine sensory interaction with collective accumulation, showing that data can be emotional, spatial, and experiential rather than screen-based.
 
 
@@ -141,6 +141,24 @@ The outcome I want to create is an interactive installation where participants f
 *Figure 7: Sketch of Transparent Box*
 
 #### 3.2 What do I need to learn?
+
+Based on my drawing, I identify specific skills and tools I want to need to develop my project.
+
+**1. Researching emotional responses**
+I want to research more about how people experience tension or emotional reactions through certain sounds, textures, and environments.
+
+**2. Different ways to create sensory reactions**
+I want to explore different ways to express invisible emotions and tension beyond vibration, sound, and temperature changes.
+
+**3. Sound research and audio editing**
+I want to explore and create sounds such as heartbeats or tense ambient sounds that can create feelings of anxiety or tension.
+
+**4. Making installation structures**
+I want to experiment with how to physically build and arrange black boxes and transparent boxes for the installation.
+
+**5. Spatial experience design**
+I want to learn how to design spaces that make audiences feel tension, discomfort, or emotional connection through movement, darkness, and interaction.
+
 
 #### 3.3 What are my next steps?
 
