@@ -6,7 +6,11 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## In-Class Activities
+
+**1. Progress Reports**
+
+
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
