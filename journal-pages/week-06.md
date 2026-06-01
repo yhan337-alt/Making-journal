@@ -14,14 +14,14 @@ layout: default
 
 ### 1.1 Data source and where it comes from
 
-This project uses original qualitative data collected through a Google Forms survey. The participants are university students, especially international and multilingual students. Instead of using an existing dataset, I am generating new data based on lived experiences of communication, silence, hesitation, and emotional expression in social and educational environments.
+This project uses original qualitative data collected through a Google Forms survey. The participants are **university students, especially international and multilingual students.** Instead of using an existing dataset, I am generating new data based on lived experiences of communication, silence, hesitation, and emotional expression in social and educational environments.
 
 Participants are asked to reflect on moments when they wanted to speak but stayed silent and describe the emotions they experienced in those moments. They are also asked to translate emotions into tactile descriptions (e.g., “If this emotion were a physical texture, what would it feel like?”). This allows emotional experiences to be treated as sensory data.
 
 All responses are self-reported, meaning the data reflects personal memory and interpretation rather than objective measurement. The purpose is to understand silence not as absence, but as a meaningful form of participation.
 
 ![data](../assets/week-06/survey.png)
-*Figure 1: Survey of Invisible Participation: Moments Left Unsaid*
+*Figure 1. Survey of Invisible Participation: Moments Left Unsaid*
 
 Survey link:  
 https://docs.google.com/forms/d/e/1FAIpQLScAG5ZGfqNMFd6py6UuLPzl3GByW6cVff_1xJmFDg6OFGS_QQ/viewform?usp=dialog
@@ -37,6 +37,7 @@ The dataset contains short written responses describing emotional and social exp
 - What emotion did you feel most strongly?
 - How would you describe the moment in one sentence?
 - What does that emotion feel like physically or tactually?
+- How would you classify this moment of silence?
 
 **The data is qualitative (non-numerical) and organised into themes:** 
 - Emotional responses (anxiety, embarrassment, loneliness, frustration)
@@ -68,6 +69,9 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 
 ### 2.1 Giorgia Lupi – *Dear Data*
 
+![data](../assets/week-06/d1.png)
+*Figure 2. Dear Data (Lupi, 2016)*
+
 - **What draws me to it:**  
   Daily life experiences are translated into hand-drawn data visualisations rather than numbers.
 
@@ -80,6 +84,12 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 ---
 
 ### 2.2 Domestic Data Streamers
+
+![data](../assets/week-06/sc.png)
+*Figure 3. Conversations on Suicide by Domestic Data Stream.*
+
+![data](../assets/week-06/d2.png)
+*Figure 4. Data Strings by Domestic Data Stream.*
 
 - **What draws me to it:**  
   It transforms social and emotional data into physical, spatial installations.
@@ -94,6 +104,10 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 
 ### 2.3 Moritz Stefaner – *Truth & Beauty*
 
+
+![data](../assets/week-06/d3.png)
+*Figure 5. Multiplicity by Moritz Stefaner, Truth & Beauty.*
+
 - **What draws me to it?**
  It combines analytical clarity with emotional and aesthetic understanding of data.
 
@@ -107,6 +121,9 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 
 ### 2.4 Rafael Lozano-Hemmer – *Pulse Room*
 
+![data](../assets/week-06/d4.png)
+*Figure 6. Takes Your Pulse by Rafael Lozano-Hemmer*
+
 - **What draws me to it:**  
   It translates each participant’s heartbeat into a physical light bulb that accumulates across space.
 
@@ -119,6 +136,9 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 ---
 
 ### 2.5 Studio Ossidiana – Material Data Installations
+
+![data](../assets/week-06/d4.png)
+*Figure 7. Cylindrical pavilion by Studio Ossidiana*
 
 - **What draws me to it:**  
   It explores material systems where human interaction directly reshapes physical structures and spatial conditions.
@@ -137,7 +157,14 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 
 This project consists of two interconnected participatory systems.
 
+![data](../assets/week-06/skecth.png)
+*Figure 7. Idea sketch showing the relationship between the Black Box and the Transparent Accumulation System. Strings, beads, and Post-it notes are used to transform invisible participation into a visible physical dataset.*
+
+
 #### 1. Sensory Black Box Interface (tactile input system)
+
+![data](../assets/week-06/1.png)
+*Figure 8. Sketch of Sensory Black Box Interface*
 
 Participants interact with a black box by placing their hands inside it.
 
@@ -149,8 +176,11 @@ This system expresses internal emotional states related to silence, tension, and
 
 #### 2. Transparent Accumulation System (physical data archive)
 
+![data](../assets/week-06/clear.png)
+*Figure 9. Sketch of Transparent Accumulation System*
+
 After the sensory experience, participants respond to questions about moments when they wanted to speak but remained silent.
-Each response is translated into a physical object (e.g., beads) and placed into a transparent container. Over time, these accumulated objects form a visible archive of silence.
+Each response is translated into a physical object (beads or marble) and placed into a transparent container. Over time, these accumulated objects form a visible archive of silence. The use of marbles is intentional. As they accumulate, their weight and volume symbolise the “weight of unspoken words,” transforming silence into a tangible, physical form of emotional accumulation.
 
 **System logic**
  The entire process follows this sequence:
@@ -198,16 +228,17 @@ At the same time, I will begin building early prototypes of the black box and be
 
 ### 1. Consultation Reflection
 
-During the project proposal consultation, the tutor noted that my initial concept had become overly complex due to multiple ideas being developed at once. In particular, the link between AI and reduced human communication was seen as underdeveloped, which weakened the clarity of the project’s focus.
+During the project proposal consultation, the tutor noted that my initial concept had become overly complex because multiple ideas at once. In particular, the link between AI and reduced human communication was seen as underdeveloped, which weakened the clarity of the project’s focus.
 
-The most important feedback was the question of what I wanted the audience to feel. I initially aimed to evoke understanding and empathy, but this helped me realise the need to separate emotional intention from data representation. As a result, I refined my focus toward visualising patterns of invisible participation through structured data.
+The key feedback was the question of what I wanted the audience to feel. I initially aimed to evoke understanding and empathy, but this led me to separate emotional intention from data representation. As a result, I refined my focus toward visualising patterns of invisible participation through structured data.
 
-I decided to remove the AI. Instead, I redefined the project around “invisible participation,” focusing on silence, hesitation, and non-response as forms of engagement.
+I removed the AI and redefined the project around “invisible participation,” focusing on silence, hesitation, and non-response as forms of engagement within university learning environments, particularly among multilingual and international students.
 
-Silence was then reframed not as an emotional state, but as a form of participatory data that can be observed and translated into physical outputs. This shift led me toward a data physicalisation approach, where unseen participation is made visible through material accumulation.
+Silence was reframed not as an emotional state but as a form of participatory data that can be observed and translated into physical outputs. 
 
-This consultation was a key turning point in clarifying and simplifying my project direction, allowing me to focus on directly collected participatory data to visualise silence as a structured system.
+This shift led me toward a data physicalisation approach, where unseen participation is made visible through material accumulation. 
 
+This consultation became a key turning point in clarifying and simplifying my project direction, allowing me to focus on directly collected participatory data to visualise silence as a structured system.
 
 ---
 
@@ -236,6 +267,6 @@ This sketch is not a final design, but a system prototype that tests how emotion
 - Lupi, G. (2016). *Dear Data*.
 - Domestic Data Streamers. https://www.domesticdatastreamers.com
 - Stefaner, M. *Truth & Beauty: The Data of Perception*.
-- Lozano-Hemmer, R. (2006). *Pulse Room*.
+- Lozano-Hemmer, R. (2006). *Pulse Room*. https://design-milk.com/rafael-lozano-hemmer-takes-your-pulse/ 
 - Studio Ossidiana. https://studioossidiana.com
 - Google Forms (data collection tool): https://docs.google.com/forms/
