@@ -17,8 +17,7 @@ layout: default
 ### 1. Concept Sketches
 
 ![data](../assets/week-07/cs.png)
-*Figure 1. Photograph of the concept sketch activity*
-
+*Figure 1. Photograph of the concept sketch activity and received feedback.*
 
 This week, I further developed my initial concept by visualising the project's emotional journey and participatory structure in detail.
 
