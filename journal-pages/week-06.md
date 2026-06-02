@@ -178,7 +178,7 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 This project consists of two interconnected participatory systems.
 
 ![data](../assets/week-06/skecth.png)
-*Figure 7. Idea sketch showing the relationship between the Black Box and the Transparent Accumulation System. Strings, beads, and Post-it notes are used to transform invisible participation into a visible physical dataset.*
+*Figure 7. Idea sketch showing three possible extensions of the Black Box experience: strings, beads in a transparent box, and Post-it notes. One of these concepts will be further developed in the next stage of the project.*
 
 
 #### 1. Sensory Black Box Interface (tactile input system)
