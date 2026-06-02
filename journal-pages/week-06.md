@@ -6,7 +6,11 @@ layout: default
 
 [← Back to Home](../index.md)
 
+--- 
+
 # Data Physicalisation Project – Invisible Participation
+
+--- 
 
 ## In-Class Activities
 
@@ -24,7 +28,7 @@ All responses are self-reported, meaning the data reflects personal memory and i
 *Figure 1. Survey of Invisible Participation: Moments Left Unsaid*
 
 Survey link:  
-https://docs.google.com/forms/d/e/1FAIpQLScAG5ZGfqNMFd6py6UuLPzl3GByW6cVff_1xJmFDg6OFGS_QQ/viewform?usp=dialog
+https://docs.google.com/forms/d/e/1FAIpQLScAG5ZGfqNMFd6py6UuLPzl3GByW6cVff_1xJmFDg6OFGS_QQ/viewform?usp=dialog 
 
 ---
 
