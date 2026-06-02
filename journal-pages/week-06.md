@@ -257,6 +257,9 @@ As a result, what began as a simple idea has developed into a more structured sy
 
 ### 3. Initial Concept Sketch
 
+![data](../assets/week-06/s1.png)
+*Figure 10. Initial concept sketch*
+
 My initial concept sketch outlines the structure of a participatory installation that visualizes silence as physical data.
 This sketch is not a final design, but a system prototype that tests how emotional data can be translated into physical form. It will continue to be developed and refined over time.
 
