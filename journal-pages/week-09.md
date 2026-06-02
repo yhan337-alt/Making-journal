@@ -113,6 +113,18 @@ Due to time limitations, the system was not fully completed or tested with parti
 
 ### 3. Round Robin Rapid Reactions
 
+During the Round Robin Rapid Reactions session, I presented my project statement and made sprint outcomes to tutors and peers and received a range of feedback.
+
+Overall, one tutor and peer responded positively to the project concept, particularly the idea of translating invisible participation into a physical and sensory system. At first, they had some difficulty fully understanding the relationship between the Black Box experience and the accumulation system.However, after I explained the concept more clearly, they were able to understand the intention and responded positively to the idea. They also agreed that the core concept was strong and engaging once clarified.
+
+However, two other tutors raised important issues regarding clarity and interaction design. One of the main points of confusion was the meaning of the colour-coded bead system. Although I intended the system to distinguish between lived experience (blue beads) and empathetic understanding (red beads), this distinction was not clearly understood during explanation. The prompt questions, such as “Have you ever felt this way?” and “Do you understand what it feels like to stay silent?”, were also not fully clear in guiding participants toward the intended response.
+
+Another key piece of feedback was that the transition between the Black Box experience and the Transparent Accumulation System was still unclear. One tutor suggested that the second stage of the system needs to be more explicitly connected to the sensory experience in the Black Box, as currently the relationship between the two feels disconnected.
+
+Through this feedback, I realised that although I had previously received mostly positive responses from peers, I had not fully identified issues in clarity and user understanding. This session highlighted the importance of simplifying instructions and strengthening the conceptual and experiential link between the two systems.
+
+
+
 
 
 
