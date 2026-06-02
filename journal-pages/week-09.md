@@ -44,19 +44,45 @@ The intended impact of this project is to encourage people to critically reflect
 
 I uploaded my reflective proposal, Weeks 5–8 journal entries, practitioner references, and survey documentation into NotebookLM and used the project statement prompt provided in class. The following draft was generated:
 
-[My project, **"Invisible Participation,"** is an interactive data physicalization that transforms the intangible nature of silence and hesitation into a tangible, shared experience. The installation consists of a two-part structure: a private, one-person **"Black Box"** for sensory reflection and a public **"Transparent Accumulation System"**. Inside the Black Box, participants encounter sensory prompts—such as heartbeat sounds and tactile materials like sandpaper or cold metal—designed to evoke the emotional tension of wanting to speak but remaining silent. Outside, the Transparent Accumulation System serves as a physical archive where participants contribute to a collective dataset.
+["Invisible Participation" is an interactive data physicalisation that explores the hidden moments of silence and hesitation that shape our social and educational lives. This project focuses on "invisible participation"—those instances where we want to speak but remain quiet—a phenomenon often overlooked in traditional data systems. Grounded in a future scenario where universities use AI to surveil and evaluate student engagement through measurable speech metrics, this work serves as a critique of how data can oversimplify human behaviour and be used to control individuals.
 
-The project draws from three primary data sources. First, it uses **original qualitative data** collected through a survey of university students, focusing on the lived experiences of international and multilingual students regarding communication and silence. Second, it generates **real-time participant data**: those with lived experience of emotional suppression contribute a **blue bead**, while those offering recognition and support place a **red bead**. Finally, the narrative is supported by **simulated data**, such as fictional AI-generated participation scores, to ground the work in its conceptual context.
+The installation draws from original qualitative data I collected from university students, specifically international and multilingual individuals, regarding their lived experiences of unspoken communication. This data is intentionally subjective, capturing personal reflections and tactile descriptions of feelings like anxiety, pressure, or hesitation. In this work, I translate these qualitative responses into a two-part physical experience. First, you enter a sensory "Black Box" designed as a private, reflective space. Inside, auditory stimuli like heartbeats and tactile materials like rough sandpaper or cold surfaces prompt you to recall and reflect on your own memories of silence.
 
-The subject matter focuses on **"invisible participation"**—the meaningful moments of silence or hesitation that are often overlooked in social and classroom settings. The work is situated in a **future scenario** where universities have widely adopted AI-based systems to analyze student participation. In this scenario, these systems function as surveillance structures that record and evaluate behavior, often failing to account for the value of silence and instead oversimplifying complex human interactions.
-
-I engage critically with data representation by moving beyond simply "showing" information to **physicalizing and embodying** it. This work challenges the neutrality of data systems that define participation solely through spoken words and visible actions. By using sensory prompts and material accumulation, I transform personal "emotional absence" into a visible, physical archive. I intentionally avoid over-categorizing these emotions into rigid labels, as I believe doing so would weaken the **open and interpretive nature of silence** as a subjective form of data.
-
-The intended impact on the public audience is to provoke a reconsideration of the question, **"What is participation?"**. By viewing the gradual accumulation of beads, the audience witnesses invisible participation becoming **physically visible over time**. Ultimately, the project aims to move beyond numerical measures of engagement to foster **collective empathy** and a deeper understanding of the unspoken experiences that shape our social and educational structures.]
+Following this reflection, you contribute to a "Transparent Accumulation System". Here, silence is materialised: you place a blue marble if you have lived experience of these moments or a red marble to represent empathy and recognition of others. As these objects gather, they form a collective archive that visualises the physical weight and volume of unspoken words. By making absence visible, I aim to challenge traditional systems that prioritise measurable behaviour. My hope is that you leave with a shifted perspective, recognising silence not as a lack of participation, but as a meaningful action that deserves to be understood.]
 
 --- 
 
 #### 1.3 Evaluation
 
 After reviewing the NotebookLM draft, I wrote the following reflections:
+
+**What is working well?**
+ - The NotebookLM draft clearly explains the overall structure of  the project. The relationship between the Black Box and the Transparent Accumulation System is well defined, and the core concept of “invisible participation” is consistently communicated. The project is also easy to understand because the future scenario, data sources, and participation methods are logically connected.
+
+---
+
+**What is missing or underdeveloped?**
+ - The relationship between the sensory experience in the Black Box and the process of transforming individual responses into collective physical data needs to be explained more clearly. The reasoning behind why silence is considered a meaningful form of participation could also be strengthened. In addition, the blue/red marble system could be further developed in terms of the ethical and relational meanings it creates, rather than only functioning as a simple categorisation of experience. The description of the Black Box also needs clarification, as it should clearly communicate that participants physically engage with materials rather than simply “entering” a reflective space.
+
+---
+
+**What feels overly generalised or AI-like?**
+ - Expressions such as “meaningful action,” “shifted perspective,” and “collective archive” feel too general and lack connection to specific design decisions or user experience. Similarly, phrases like “challenging traditional systems” remain too abstract without explaining how this is achieved through the installation. The term “measurable speech metrics” also feels overly complex and could be simplified for clarity.
+
+---
+
+**What do you need to research further?**
+ - Further research is needed into data physicalisation practices that focus on silence, non-verbal participation, and sensory interaction. I also need to explore design strategies that translate individual emotional responses into collective data systems. In addition, I want to develop a stronger theoretical understanding of participation as something beyond speech or visible action.
+
+---
+
+**One sentence commitment**
+ - I aim to reframe Invisible Participation by understanding silence and hesitation not as absence, but as meaningful forms of participation, developing it into a sensory and physical data installation that makes invisible emotional experiences visible.
+
+---
+
+#### 1.4 Peer Share
+
+
+### 2. Making Sprint
 
