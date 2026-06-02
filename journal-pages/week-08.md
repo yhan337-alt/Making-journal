@@ -6,7 +6,11 @@ layout: default
 
 [← Back to Home](../index.md)
 
+--- 
+
 # Data Physicalisation Project – Invisible Participation
+
+--- 
 
 ## In-Class Activities
 
