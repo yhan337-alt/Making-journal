@@ -16,6 +16,22 @@ layout: default
 
 ## 1. Data Exploration
 
+### Project Data Clarification (Update)
+
+After receiving proposal feedback, I have revised my project direction.
+
+This project uses only two types of data sources:
+
+1. Original qualitative survey data
+   Collected through a Google Forms survey, consisting of written reflections on moments of silence, hesitation, and unspoken communication.
+2. Real-time participant interaction data
+   Generated through physical participation in the installation, where responses are translated into beads and accumulated in real time within the system.
+
+No simulated, synthetic, or AI-generated data is used. All data is either directly collected from participants or produced through physical interaction within the installation.
+
+Additionally, selected survey responses may be pre-embedded into the installation as part of the initial setup to establish an interpretive baseline for the experience.
+
+
 ### 1.1 Data source and where it comes from
 
 This project uses original qualitative data collected through a Google Forms survey. The participants are **university students, especially international and multilingual students.** Instead of using an existing dataset, I am generating new data based on lived experiences of communication, silence, hesitation, and emotional expression in social and educational environments.
