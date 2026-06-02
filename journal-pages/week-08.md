@@ -39,7 +39,7 @@ During the peer critique session, I exchanged feedback with a partner from anoth
 ![data](../assets/week-08/if.jpg)
 *Figure 7. Feedback notes provided by me.*
 
-![data](../assets/week-08/Feedback.png)
+![data](../assets/week-08/f.jpg)
 Figure 8. Feedback received from peers*
 
 ---
