@@ -66,7 +66,6 @@ Finally, written responses cannot fully capture bodily or non-verbal emotional e
 
 However, these limitations are not treated as problems to fix. Instead, they become part of the design material. The ambiguity and incompleteness of the data are important qualities that reflect the nature of invisible participation.
 
-
 ---
 
 ## 2. Visual Research and Precedent Study
@@ -141,7 +140,7 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 
 ### 2.5 Studio Ossidiana – Material Data Installations
 
-![data](../assets/week-06/d4.png)
+![data](../assets/week-06/d5.png)
 *Figure 7. Cylindrical pavilion by Studio Ossidiana*
 
 - **What draws me to it:**  
