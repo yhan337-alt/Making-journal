@@ -83,6 +83,36 @@ After reviewing the NotebookLM draft, I wrote the following reflections:
 
 #### 1.4 Peer Share
 
+After finishing the draft and evaluation notes, I shared them with a peer and asked for feedback.
+
+**What was clear and compelling:**
+
+My peer responded positively to the overall concept and said the relationship between silence, emotional experience, and physical accumulation was easy to understand. They also found the idea of translating invisible participation into a visible, collective archive through beads to be strong and engaging.
+
+**What still needs to be developed or resolved:** 
+
+My peer suggested that I further clarify how the transition between the Black Box experience and the Transparent Accumulation System works, particularly how individual reflection becomes collective physical data. They also mentioned that the interaction flow of the installation could be more clearly communicated, especially how participants move from sensory reflection to physical contribution. This would help strengthen the overall coherence of the experience. 
+
+---
 
 ### 2. Making Sprint
+
+Before starting the making sprint, I planned my approach. I identified the need to develop and test a prototype using tangible materials in order to clarify the relationship between the Black Box and the Transparent Accumulation System. I also aimed to refine the interaction flow between the two systems and explore sensory experiences through physical materials.
+
+--- 
+
+During the 35-minute making session, I began developing a simple prototype of the Black Box using an actual box structure. Inside the box, I tested a range of sensory materials, including crumpled paper, foil-like blister packaging (tablet packaging), thin plastic film materials, and cold water, to explore different tactile sensations related to tension, discomfort, and emotional memory. I also cut an opening in the box large enough for a hand to enter, allowing participants to physically engage with the internal materials.
+
+To simulate the Transparent Accumulation System, I used an iPad drawing application as a temporary visual interface to explain how collected responses could be recorded and accumulated. I also prepared a heartbeat sound as an auditory element to enhance the sensory environment inside the Black Box.
+
+In addition, I prepared prompt questions such as “Have you ever experienced a moment of silence where you wanted to speak but didn’t?” along with two response options: Have you ever felt this way?, Do you understand what it feels like to stay silent? 
+
+Due to time limitations, the system was not fully completed or tested with participants. However, this sprint helped me understand how material choices and simple interactive prompts can already begin to communicate the core idea of invisible participation, even in an early-stage prototype.
+
+---
+
+### 3. Round Robin Rapid Reactions
+
+
+
 
