@@ -16,12 +16,16 @@ layout: default
 
 ### 1. Concept Sketches
 
-![data](../assets/week-07/cs.png)
-*Figure 1. Photograph of the concept sketch activity and received feedback.*
-
 This week, I further developed my initial concept by visualising the project's emotional journey and participatory structure in detail.
 
 After displaying my sketches, I exchanged feedback with other students. They found the approach of connecting emotional data with a tactile experience particularly interesting. Several students commented that the strongest aspect of the project was its ability to make invisible emotions physically felt.
+
+![data](../assets/week-07/my.png)
+![data](../assets/week-07/my2.jpg)
+*Figure 1-2. Giving feedback on a peer’s project proposal*
+
+![data](../assets/week-07/cs.png)
+*Figure 3. Photograph of the concept sketch activity and received feedback.*
 
 At the same time, I received several important questions. For example, some students asked, “Will people who have not had these experiences still be able to relate to the project?” and “What emotions do you want participants to feel inside the black box?”
 
