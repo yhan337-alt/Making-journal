@@ -31,14 +31,15 @@ No simulated, synthetic, or AI-generated data is used. All data is either direct
 
 Additionally, selected survey responses may be pre-embedded into the installation as part of the initial setup to establish an interpretive baseline for the experience.
 
+---
 
 ### 1.1 Data source and where it comes from
 
-This project uses original qualitative data collected through a Google Forms survey. The participants are **university students, especially international and multilingual students.** Instead of using an existing dataset, I am generating new data based on lived experiences of communication, silence, hesitation, and emotional expression in social and educational environments.
+This project uses original qualitative data collected through a Google Forms survey. The participants are **university students, especially international and multilingual students.** Instead of using an existing dataset, I am generating new data based on lived experiences of communication, silence, hesitation, and emotional expression in university learning environments. This includes class presentations, group project discussions, conversations with peers, seminar discussions, and tutorial participation.
 
 Participants are asked to reflect on moments when they wanted to speak but stayed silent and describe the emotions they experienced in those moments. They are also asked to translate emotions into tactile descriptions (e.g., “If this emotion were a physical texture, what would it feel like?”). This allows emotional experiences to be treated as sensory data.
 
-All responses are self-reported, meaning the data reflects personal memory and interpretation rather than objective measurement. The purpose is to understand silence not as absence, but as a meaningful form of participation.
+All responses are self-reported, meaning the data reflects personal memory and interpretation rather than objective measurement. The purpose is to understand silence not as absence, but as a meaningful form of participation. 
 
 ![data](../assets/week-06/survey.png)
 *Figure 1. Survey of Invisible Participation: Moments Left Unsaid*
@@ -53,7 +54,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScAG5ZGfqNMFd6py6UuLPzl3GByW6cVff_1xJmF
 The dataset contains short written responses describing emotional and social experiences.
 
 **Key questions include:**  
-- Have you ever stayed silent when you wanted to speak?
+- Have you ever stayed silent when you wanted to speak at university?
 - What emotion did you feel most strongly?
 - How would you describe the moment in one sentence?
 - What does that emotion feel like physically or tactually?
