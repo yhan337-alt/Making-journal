@@ -127,8 +127,17 @@ Through this feedback, I realised that although I had previously received mostly
 
 ## Independent Study
 
+### 1. Project Development
+
+---
+
+### 2. Progress Report
 
 
 
 
+---
 
+### AI Usage Statement
+
+Google. (2026). NotebookLM [AI-powered research and writing assistant]. https://notebooklm.google.com/
