@@ -8,6 +8,29 @@ layout: default
 
 ## Documentation 
 
+--- 
+
+# Data Physicalisation Project – Invisible Participation
+
+--- 
+
+
+## In-Class Activities
+
+### 1. Progress Reports
+
+
+--- 
+
+### 2. Gallery Walk
+
+---
+
+### 3. Action Plan 
+
+
+--- 
+
 
 ### Independent Study
 
