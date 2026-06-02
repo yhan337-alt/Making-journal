@@ -40,7 +40,7 @@ The intended impact of this project is to encourage people to critically reflect
 #### 1.2 Drafting with NotebookLM
 
 ![data](../assets/week-09/dd.png)
-*Figure 2. Miro board showing collected feedback notes.*
+*Figure 2. Screenshot of the adding sources into NotebookLM-generated project statement draft*
 
 I uploaded my reflective proposal, Weeks 5–8 journal entries, practitioner references, and survey documentation into NotebookLM and used the project statement prompt provided in class. The following draft was generated:
 
@@ -113,7 +113,7 @@ Due to time limitations, the system was not fully completed or tested with parti
 
 ### 3. Round Robin Rapid Reactions
 
-During the Round Robin Rapid Reactions session, I presented my project statement and made sprint outcomes to tutors and peers and received a range of feedback.
+During the Round Robin Rapid Reactions session, I presented my project statement and making sprint outcomes to tutors and peers and received a range of feedback.
 
 Overall, one tutor and peer responded positively to the project concept, particularly the idea of translating invisible participation into a physical and sensory system. At first, they had some difficulty fully understanding the relationship between the Black Box experience and the accumulation system.However, after I explained the concept more clearly, they were able to understand the intention and responded positively to the idea. They also agreed that the core concept was strong and engaging once clarified.
 
@@ -121,7 +121,11 @@ However, two other tutors raised important issues regarding clarity and interact
 
 Another key piece of feedback was that the transition between the Black Box experience and the Transparent Accumulation System was still unclear. One tutor suggested that the second stage of the system needs to be more explicitly connected to the sensory experience in the Black Box, as currently the relationship between the two feels disconnected.
 
-Through this feedback, I realised that although I had previously received mostly positive responses from peers, I had not fully identified issues in clarity and user understanding. This session highlighted the importance of simplifying instructions and strengthening the conceptual and experiential link between the two systems.
+Through this feedback, I realised that although I had previously received mostly positive responses from peers, I had not fully identified issues in clarity and user understanding. As a result, I plan to simplify the response options and strengthen the connection between the Black Box experience and the bead accumulation system in future iterations. This session highlighted the importance of simplifying instructions and strengthening the conceptual and experiential link between the two systems.
+
+--- 
+
+## Independent Study
 
 
 
