@@ -101,6 +101,9 @@ Before starting the making sprint, I planned my approach. I identified the need 
 
 --- 
 
+![data](../assets/week-09/hh.png)
+*Figure 2. Screenshot of the adding sources into NotebookLM-generated project statement draft*
+
 During the 35-minute making session, I began developing a simple prototype of the Black Box using an actual box structure. Inside the box, I tested a range of sensory materials, including crumpled paper, foil-like blister packaging (tablet packaging), thin plastic film materials, and cold water, to explore different tactile sensations related to tension, discomfort, and emotional memory. I also cut an opening in the box large enough for a hand to enter, allowing participants to physically engage with the internal materials.
 
 To simulate the Transparent Accumulation System, I used an iPad drawing application as a temporary visual interface to explain how collected responses could be recorded and accumulated. I also prepared a heartbeat sound as an auditory element to enhance the sensory environment inside the Black Box.
@@ -129,15 +132,49 @@ Through this feedback, I realised that although I had previously received mostly
 
 ### 1. Project Development
 
+
+
+
+
+
+### 1.2 Project Development (material exploration)
+
+During the development stage, I explored and sourced materials for the physical construction of the installation. Material availability directly influenced several design decisions, leading to adjustments in both structure and form.
+
+![data](../assets/week-09/r.png)
+*Figure 2. beads*
+
+For the Black Box, I initially searched for a black square box but was unable to find one in an appropriate size. I therefore selected a red square box and wrapped it in black material. The interior remains red, creating a strong contrast between inside and outside, which reinforces the idea of hidden internal experience versus external appearance.
+
+![data](../assets/week-09/9.png)
+*Figure 2. beads*
+
+For the representation of silence as accumulation, I originally intended to use marbles but could not source them. I replaced them with beads, which still effectively communicate accumulation over time. Five different bead colours will be used to represent variation within the dataset.
+
+For the Transparent Accumulation System, I explored different options and ultimately decided to fabricate the structure using acrylic sheets. The final design consists of a divided system with five sections to organise and compare accumulated data spatially.
+
 ---
 
 ### 2. Progress Report
 
+To prepare for next week's 5-minute progress report, I organised the current state of my project into a simple slideshow.
 
+The presentation includes:
+
+- The current concept of *Invisible Participation* and the overall installation system, including the Black Box and Transparent Accumulation System.
+- My current draft project statement, which focuses on making invisible participation visible through data physicalisation.
+- Key developments since Week 8, including the shift from emotion-based bead responses to a silence classification system, the redesign of the participation flow, and the refinement of the Black Box as a space for reflection rather than emotional stimulation.
+- Visual references that informed the project, particularly around sensory interaction, participation, and data physicalisation.
+- Specific questions for feedback, including:
+
+  - Are the five categories of silence clear and meaningful?
+  - Is the relationship between the Black Box and the marble accumulation system easy to understand?
+  - Was removing the heartbeat sound and other tension-inducing audio the right decision, or would some form of sound strengthen the experience?
+
+Preparing this presentation helped me reflect on how the project has evolved from representing emotions to creating a system that records, classifies, and visualises invisible participation. It also highlighted areas that still require further testing and refinement before the final showcase.
 
 
 ---
 
 ### AI Usage Statement
-
 Google. (2026). NotebookLM [AI-powered research and writing assistant]. https://notebooklm.google.com/
