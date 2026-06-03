@@ -49,11 +49,11 @@ This project is connected to the concepts of data physicalisation and surveillan
 
 This project focuses on the concept of “invisible participation” within university environments, particularly among international and multilingual students. It explores how communication is not only expressed through speech, but also through silence, hesitation, and moments of not responding. These forms of participation are often overlooked in conventional data systems, even though they significantly shape learning and social experience.
 
-The project is grounded in a future scenario where universities increasingly adopt AI-supported participation tracking systems. In such a context, student engagement may be evaluated through measurable indicators such as speaking frequency or response time. However, this risks reducing participation into simplified metrics that fail to represent emotional and cultural complexity.
+The project is grounded in a future scenario in which institutions begin to recognise silence, hesitation, and unspoken experiences as meaningful forms of participation rather than treating them as absence. In this context, participation is no longer limited to visible or spoken actions, but expanded to include invisible and unspoken experiences that are recorded, visualised, and collectively acknowledged.
 
-To respond to this, my project uses original qualitative data collected through surveys with students. The data includes personal reflections on moments when they wanted to speak but chose not to, as well as emotional and tactile descriptions of those experiences. This data is self-reported and subjective, which is intentional, as it reflects the ambiguity of silence itself.
+To respond to this idea, my project uses original qualitative data collected through surveys with students. The data includes personal reflections on moments when they wanted to speak but chose not to, as well as emotional and sensory descriptions of those experiences. This data is self-reported and subjective, reflecting the ambiguity and complexity of silence itself.
 
-The interpretation of this data is not numerical. Instead, it is translated into emotional categories and then into physical materials such as textures, beads, and spatial accumulation. In this way, silence becomes something that can be experienced collectively over time.
+The interpretation of this data is not numerical. Instead, it is translated into emotional categories and then into physical materials such as beads, textures, and spatial accumulation. Through this process, silence becomes a collective and material form of data that can be experienced over time.
 
 This project is strongly connected to data physicalisation and data feminism, as it challenges traditional systems that prioritise measurable behaviour. It suggests that absence, hesitation, and silence can also be valid and meaningful forms of data, depending on how they are interpreted and represented.
 
