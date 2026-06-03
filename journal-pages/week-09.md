@@ -108,7 +108,7 @@ Before starting the making sprint, I planned my approach. I identified the need 
 --- 
 
 ![data](../assets/week-09/hh.png)
-*Figure 2. Screenshot of the adding sources into NotebookLM-generated project statement draft*
+*Figure 2. 고쳐.*
 
 During the 35-minute making session, I began developing a simple prototype of the Black Box using an actual box structure. Inside the box, I tested a range of sensory materials, including crumpled paper, foil-like blister packaging (tablet packaging), thin plastic film materials, and cold water, to explore different tactile sensations related to tension, discomfort, and emotional memory. I also cut an opening in the box large enough for a hand to enter, allowing participants to physically engage with the internal materials.
 
@@ -138,26 +138,60 @@ Through this feedback, I realised that although I had previously received mostly
 
 ### 1. Project Development
 
+After the Round Robin Rapid Reactions session, I began to reflect more deeply on my project. While preparing the prototype within a limited timeframe, I did not sufficiently develop the instructions and guiding questions for participants, which resulted in a lack of clarity in communicating the project’s intent. In particular, feedback from tutors revealed that participants interpreted the concept in different ways. While this was partly due to my English, I realised that the main issue was that I had explained the project in a somewhat abstract manner.
 
+In the initial project, participants were asked questions such as “Have you ever felt this way?” or “Do you understand what it feels like to stay silent?”, and were then asked to choose between a blue bead and a red bead. However, several tutors noted that this distinction was not intuitive, and that the connection between the sensory experience inside the Black Box and the act of selecting a bead was not clearly communicated.
 
+I also reconsidered the role of the Black Box. Initially, I attempted to evoke tension or anxiety through heartbeat sounds and various tactile materials. However, I came to understand that the purpose of the project is not to generate a specific emotional response, but rather to help participants recall their own experiences of silence. As a result, the Black Box was redefined as a sensory interface that centres on the question, “Have you experienced a moment where you wanted to speak but stayed silent?”, guiding participants to reflect on moments of silence rather than inducing discomfort. Consequently, the overly tense sound elements were removed.
 
+Based on this feedback, I revisited the overall structure of the project. Previously, I had simplified silence into a binary response of ‘experienced’ or ‘not experienced’, but I realised that this did not sufficiently reveal the project’s core idea of “invisible participation.”
 
+![data](../assets/week-09/e1.png)
+![data](../assets/week-09/ee.png)
+*Figure 2. 고쳐랑*
+
+Therefore, I began to move away from treating silence as a single emotional state and instead explored it as a multidimensional form of participatory data. After reviewing responses from the survey questions “Why did you not speak?” and “If you could describe that moment in one sentence, what would you say?”, I began to classify different types of silence based on participants’ answers.
+
+To categorise these varied experiences of silence, I developed five key categories: 
+
+ - Suppressed Speech (wanting to speak but being unable to)
+ - Self-Censorship (choosing not to speak)
+ - Emotional Freeze (being unable to respond in the moment)
+ - Delayed Response (missing the timing to speak)
+ - Social Withdrawal (withdrawing from participation altogether)
+
+(To support this approach, I added the question “How would you classify this moment of silence?” to the survey. I also asked the friends who had previously participated in the survey to complete it again, and encouraged them to share it with people in their own networks in order to gather a wider range of responses)
+
+In this new system, participants first recall a moment of silence and then select the category that most closely matches their experience. They are then given a corresponding bead, which is placed into a transparent accumulation system. In this process, each participant becomes a single data point, and each bead functions as encoded data representing an experience of silence.
+
+This shift moves the project further away from emotional expression and toward the physicalisation of data. The accumulated result can be read through colour, density, and distribution. If certain colours appear more frequently, this indicates that specific types of silence occur more often. The density of beads reflects the scale of participation, while clusters of colours can visually reveal social patterns and shared experiences.
+
+Through this development process, I came to understand more clearly that the core of the project is not to reproduce a specific emotion, but to translate unmeasured silence and hesitation into data and materialise it into a collective, physical form. In doing so, I began to question the conventional idea that only those who speak are considered participants, and instead developed the project toward recognising invisible participation as a valid form of data.
+
+![data](../assets/week-09/image.png)
+*Figure 2. 아이디어스케치*
 
 ### 1.2 Project Development (material exploration)
 
 During the development stage, I explored and sourced materials for the physical construction of the installation. Material availability directly influenced several design decisions, leading to adjustments in both structure and form.
 
 ![data](../assets/week-09/r.png)
-*Figure 2. beads*
+*Figure 2. 고쳐*
 
 For the Black Box, I initially searched for a black square box but was unable to find one in an appropriate size. I therefore selected a red square box and wrapped it in black material. The interior remains red, creating a strong contrast between inside and outside, which reinforces the idea of hidden internal experience versus external appearance.
 
 ![data](../assets/week-09/9.png)
-*Figure 2. beads*
+*Figure 2. 고쳐*
 
-For the representation of silence as accumulation, I originally intended to use marbles but could not source them. I replaced them with beads, which still effectively communicate accumulation over time. Five different bead colours will be used to represent variation within the dataset.
+For the representation of silence as accumulation, I originally intended to use marbles but could not find them. I replaced them with beads, which quite small but still effectively communicate accumulation over time. Five different bead colours will be used to represent variation within the dataset.
 
-For the Transparent Accumulation System, I explored different options and ultimately decided to fabricate the structure using acrylic sheets. The final design consists of a divided system with five sections to organise and compare accumulated data spatially.
+For the Transparent Accumulation System, I explored a range of material options and ultimately decided to construct the structure using acrylic sheets. The final design consists of an approximately 20 × 20 cm base divided into a grid of 3 × 3 cm compartments (arranged in a 3 × 20 structure), forming a thin modular box system for data accumulation.
+
+
+![data](../assets/week-09/ss.png)
+*Figure 2. 고쳐*
+
+Considering that the beads are approximately 5 mm in size, this scale was chosen to ensure that gradual accumulation remains visible and legible over time. However, the current volume of data (20 survey responses) suggests that further participation may be needed to enhance the visual impact of accumulation within the system. 
 
 ---
 
