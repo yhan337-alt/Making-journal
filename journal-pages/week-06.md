@@ -58,7 +58,6 @@ The dataset contains short written responses describing emotional and social exp
 - What emotion did you feel most strongly?
 - How would you describe the moment in one sentence?
 - What does that emotion feel like physically or tactually?
-- How would you classify this moment of silence?
 
 **The data is qualitative (non-numerical) and organised into themes:** 
 - Emotional responses (anxiety, embarrassment, loneliness, frustration)
