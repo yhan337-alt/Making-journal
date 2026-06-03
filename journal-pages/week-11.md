@@ -26,7 +26,10 @@ layout: default
 
 ---
 
-### 3. Action Plan 
+### 3. Showcase Planning
+
+![data](../assets/week-11/g.png)
+*Figure 2. 고쳐*
 
 
 --- 
