@@ -14,7 +14,6 @@ layout: default
 
 --- 
 
-
 ## In-Class Activities
 
 ### 1. Journal Review
@@ -46,14 +45,13 @@ Moving forward, I want to focus on strengthening the legibility of the interacti
 ### 3. Showcase Planning
 
 ![data](../assets/week-11/g.png)
-*Figure 2. 고쳐*
+*Figure 1. Showcase planning*
 
 For the showcase, I have decided to install my work at the far right end of the classroom space. I chose this spot because it is quieter and more separate, which fits the reflective nature of the Black Box experience.
 
 This location also helps guide participants through the work more clearly, from the Black Box to the Transparent Accumulation System, without confusion. I will make sure the layout is simple and easy to understand so that people can follow the interaction without explanation.
 
 --- 
-
 
 ### Independent Study
 
