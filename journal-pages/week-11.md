@@ -113,7 +113,7 @@ In the final production stage of the project, the overall interaction structure 
 
 ---
 
-1. Black Box (Reflection)
+#### 1. Black Box (Reflection)
 
 Reach into the Black Box and reflect on a moment in your educational experience when you wanted to speak but remained silent.
 
@@ -125,7 +125,7 @@ You may choose not to participate if you do not relate to this experience.
 
 ---
 
-2. Transparent Accumulation System (Accumulation)
+#### 2. Transparent Accumulation System (Accumulation)
 
 Which type of silence best represents your experience?
 
