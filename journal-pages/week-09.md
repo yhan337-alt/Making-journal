@@ -162,7 +162,7 @@ To categorise these varied experiences of silence, I developed five key categori
 
 (To support this approach, I added the question “How would you classify this moment of silence?” to the survey. I also asked the friends who had previously participated in the survey to complete it again, and encouraged them to share it with people in their own networks in order to gather a wider range of responses)
 
-In this new system, participants first recall a moment of silence and then select the category that most closely matches their experience. They are then given a corresponding bead, which is placed into a transparent accumulation system. In this process, each participant becomes a single data point, and each bead functions as encoded data representing an experience of silence.
+In this new system, participants first place their hand inside the Black Box and explore a range of tactile surfaces with different textures. These materials are designed to act as sensory triggers, encouraging participants to recall the discomfort, tension, hesitation, and physical sensations associated with a moment when they wanted to speak but remained silent. After engaging with the tactile experience, participants reflect on their own experience of silence and select the category that most closely matches that moment. They are then given a corresponding bead, which is placed into the transparent accumulation system. Through this process, each participant becomes a single data point, and each bead functions as encoded data representing a specific experience of silence.
 
 This shift moves the project further away from emotional expression and toward the physicalisation of data. The accumulated result can be read through colour, density, and distribution. If certain colours appear more frequently, this indicates that specific types of silence occur more often. The density of beads reflects the scale of participation, while clusters of colours can visually reveal social patterns and shared experiences.
 
@@ -170,6 +170,8 @@ Through this development process, I came to understand more clearly that the cor
 
 ![data](../assets/week-09/image.png)
 *Figure 2. 아이디어스케치*
+
+---
 
 ### 1.2 Project Development (material exploration)
 
