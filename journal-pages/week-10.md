@@ -55,8 +55,6 @@ A key piece of feedback from Hyein was that participants should be able to under
 
 ### 2. Gallery Walk
 
-2. Gallery Walk
-
 ![data](../assets/week-10/10.png)
 *Figure 10. Liked posts on Padlet.*
 
