@@ -55,6 +55,8 @@ This location also helps guide participants through the work more clearly, from 
 
 ### Independent Study
 
-#### Project Finalisation and Submission
+#### Project Finalisation
+
+
 
 
