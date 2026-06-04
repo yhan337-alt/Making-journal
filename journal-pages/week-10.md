@@ -46,7 +46,7 @@ Following this discussion, Hyein and I exchanged feedback using the four collabo
 One of the most positively received changes was the shift from the original red-and-blue marble system (representing people who had experienced silence in educational environments and those who understood that experience) to the five-category classification of silence. She commented that this change made the project much easier to understand and allowed the concept of Invisible Participation to be expressed in a more meaningful way.
 She also suggested adding greater depth to the dataset and strengthening the connection between individual experiences and the collective archive, which could further reinforce the project's overall message.
 
-A key piece of feedback was to improve audience understanding without relying on verbal explanations. She recommended strengthening the interaction design so that participants can more easily understand the relationship between the Black Box experience and the process of selecting and depositing marbles. According to her, clearer instructions and stronger visual cues could make the interaction flow more intuitive, allowing audiences to engage with the project without requiring additional explanation.
+A key piece of feedback from Hyein was that participants should be able to understand the interaction process without requiring verbal explanation from the facilitator. To achieve this, she suggested improving the clarity of instructions and strengthening visual cues throughout the installation so that the relationship between the Black Box experience, the classification of silence, and the bead accumulation system becomes more intuitive. She also encouraged me to test the Black Box with people around me to observe how they interacted with the installation and identify any points of confusion. This feedback highlighted the importance of creating a more intuitive and self-explanatory experience that participants can navigate independently.
 
 --- 
 
@@ -79,18 +79,76 @@ Another important action point is strengthening the communication of the future 
 
 #### Project Development
 
+Following feedback from Hyein, I conducted additional informal testing of the Black Box interaction to peers. They suggested that the experience of recalling silence could be strengthened through more tangible and embodied triggers, rather than relying only on abstract reflection. Based on this feedback, I asked my peer to test an updated version of the interaction.
 
+During this testing, I introduced a new material component inside the Black Box. I printed anonymous responses collected from my survey (e.g. “I was worried that what I said might sound stupid”) onto paper, crumpled them, and placed them inside the box. Participants were invited to reach in, feel the crumpled paper alongside the tactile surfaces, and optionally take one out to read before returning it. This created a stronger connection between silence as a personal memory and silence as a shared experience. When tested again with peers, they noted that the interaction felt clearer and more emotionally grounded compared to the previous version.
+
+Based on both Hyein’s and this testing feedback, I also refined the instruction system to ensure that the interaction can be understood without verbal explanation from the facilitator. The aim was to make the process more self-explanatory and intuitive.
+
+--- 
+
+1. Start by placing your hand inside the Black Box.
+
+---
+
+2. Black Box (Reflection)
+
+**Reach into the Black Box and reflect on a moment in your educational experience when you wanted to speak but remained silent.**
+
+Explore the different textures inside the box.
+
+You may also find crumpled pieces of paper. Feel free to take one out and read it. These are anonymous reflections collected from the survey.
+
+After reading, please return the paper to the box.
+
+---
+
+3. Transparent Accumulation System (Accumulation)
+
+**Which type of silence best represents your experience?**
+
+Choose one marble that corresponds to your experience:
+
+🔴 **Suppressed Speech**
+*I had something to say, but held it back.*
+
+🔵 **Self-Censorship**
+*I stopped myself before speaking.*
+
+⚫ **Emotional Freeze**
+*No words came out.*
+
+🟡 **Delayed Response**
+*The moment passed before I could speak.*
+
+🟢 Social Withdrawal
+*I stayed silent throughout.*
+
+Place your marble into the transparent archive.
+
+By contributing a marble, your silent moment becomes part of a collective archive of unspoken participation, questioning current educational systems that privilege speech over silence, and proposing silence as a recognised form of participation.
+
+---
+
+Process: Black Box → Reflect → Select one marble → Place in archive
+
+---
+
+
+
+
+---
 
 ![data](../assets/week-10/red.png)
 Figure X. Development of the Black Box prototype, including the hand opening, black exterior covering, and added fabric to conceal the interior.
 
-This week, I began constructing the physical components of the installation, focusing on the Black Box. The first task was creating an opening large enough for participants to place their hand inside the box. My father helped cut a circular hole in the side of the box. Because my hands are relatively small, the hole was made large enough to accommodate larger hands as well. However, after cutting, I realised that the opening was larger than I had originally intended.
+This week, I began constructing the physical components of the installation, focusing on the Black Box. The first task was creating an opening large enough for participants to place their hand inside the box. My father helped cut a circular hole in the side of the box. Because my hands are relatively small, the hole was made large enough to accommodate larger hands as well.
 
 
 ![data](../assets/week-10/fa.png)
 Figure X. Development of the Black Box prototype black exterior covering
 
-Afterwards, I covered the box with black wrapping paper to create a more enclosed and unified appearance. During testing, I noticed that the large opening made it possible to see inside the box, which reduced the sense of concealment. To solve this, I attached fabric around the opening inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
+Afterwards, I covered the box with black wrapping paper to create a more enclosed and unified appearance. During testing, I noticed that the large hole made it possible to see inside the box, which reduced the sense of concealment. To solve this, I attached fabric around the opening inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
 
 
 
