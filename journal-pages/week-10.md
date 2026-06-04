@@ -37,13 +37,16 @@ After my presentation, I asked Hyein to respond to a set of feedback questions t
 
 Initially, Hyein said that both approaches seemed effective and that she was unsure which option would work better. To help her evaluate the experience more accurately, I allowed her to directly experience the sound component. Afterward, she commented that the heartbeat audio created feelings of tension and anxiety, which could distract participants from the intended reflective experience. She suggested that removing the sound and focusing more strongly on the tactile qualities of the interaction would communicate the project's intention more effectively.
 
+[data](../assets/week-10/md.png)
+*Figure 7. Feedback provided by me on Padlet.*
+
 [data](../assets/week-10/hy.png)
 [data](../assets/week-10/hy2.png)
-Figure X. 고쳐.
+*Figure 8-9. Feedback from Hyein on Padlet.*
 
 Following this discussion, Hyein and I exchanged feedback using the four collaboration metrics. Overall, she demonstrated a strong understanding of my project's intention and structure, and her feedback was largely positive. In particular, she noted that the revised project structure communicates the future scenario and overall narrative flow more effectively.
 
-One of the most positively received changes was the shift from the original red-and-blue marble system (representing people who had experienced silence in educational environments and those who understood that experience) to the five-category classification of silence. She commented that this change made the project much easier to understand and allowed the concept of Invisible Participation to be expressed in a more meaningful way.
+One of the most positively received changes was the shift from the original red/blue marble system (representing people who had experienced silence in educational environments and those who understood that experience) to the five-category classification of silence. She commented that this change made the project much easier to understand and allowed the concept of Invisible Participation to be expressed in a more meaningful way.
 She also suggested adding greater depth to the dataset and strengthening the connection between individual experiences and the collective archive, which could further reinforce the project's overall message.
 
 A key piece of feedback from Hyein was that participants should be able to understand the interaction process without requiring verbal explanation from the facilitator. To achieve this, she suggested improving the clarity of instructions and strengthening visual cues throughout the installation so that the relationship between the Black Box experience, the classification of silence, and the bead accumulation system becomes more intuitive. She also encouraged me to test the Black Box with people around me to observe how they interacted with the installation and identify any points of confusion. This feedback highlighted the importance of creating a more intuitive and self-explanatory experience that participants can navigate independently.
@@ -55,7 +58,7 @@ A key piece of feedback from Hyein was that participants should be able to under
 2. Gallery Walk
 
 ![data](../assets/week-10/10.png)
-Figure X. Development of the Black Box prototype, including the hand opening, black exterior covering, and added fabric to conceal the interior.
+*Figure 10. Liked posts on Padlet.*
 
 As I was unable to attend class, I could not directly participate in the Gallery Walk activity or view the presentations from other groups. However, I accessed the Padlet boards, reviewed the feedback categories and discussion prompts, and used the heart function to upvote comments that I found particularly helpful.
 
@@ -64,7 +67,6 @@ Reviewing the feedback structure encouraged me to reflect on my own project from
 ---
 
 ### 3. Action Plan 
-
 
 The most significant feedback I received concerned clarity rather than concept. While the overall idea was considered strong, the interaction flow could still be improved so that participants immediately understand how their experience inside the Black Box becomes part of the collective archive.
 
@@ -79,28 +81,28 @@ Another important action point is strengthening the communication of the future 
 #### 1. Project Development (Making Black Box)
 
 ![data](../assets/week-10/red.png)
-*Figure X. Development of the Black Box prototype, including the hand opening, black exterior covering, and added fabric to conceal the interior.
+*Figure 11. Development of the Black Box prototype, the cut the hand hole*
 
-Before I make the black box, the first task was creating a hole large enough for participants to place their hands inside the box. My father helped cut a circular hole in the side of the box. The hole was made large enough to accommodate larger hands as well.
+Before I make the black box, the first task was creating a hole large enough for participants to place their hands inside the box. My father helped cut a hole in the side of the box. The hole was made large enough to accommodate larger hands as well.
 
 ![data](../assets/week-10/fa.png)
-*Figure X. Development of the Black Box prototype black exterior covering
+*Figure 12. Development of the Black Box prototype black wrapping covering*
 
 Afterwards, I covered the box with crumpled black wrapping paper. The use of crumpled material was intentional. It helps make the box feel unclear and partly hidden. After cutting, I noticed that the large hole made it possible to see inside the box, which reduced the sense of concealment. 
 
 ![data](../assets/week-10/vc.png)
-*Figure X. Development of the Black Box prototype black exterior covering
+*Figure 13. Development of the Black Box prototype attached fabric*
 
-To solve this, I attached fabric around the opening inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
+To solve this, I attached fabric around the hole inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
 
 ---
 
 After finishing the box, I placed the materials selected through testing inside. Since the surface of coarse sandpaper can be irritating, cut it into small pieces and attach it with spacing to prevent injury to participants. This adjustment ensured safe use while maintaining tactile stimulation.
 
 ![data](../assets/week-10/sk.png)
-*Figure X.skect
+*Figure 14. Skectch of black box inside*
 ![data](../assets/week-10/my.png)
-*Figure X. Development of the Black Box prototype black exterior covering
+*Figure 15. Black Box inside*
 
 Additionally, the interior design of the black box was intended to create an environment reminiscent of an actual classroom. The materials were attached and finished according to the sketch.
 
@@ -109,12 +111,12 @@ Additionally, the interior design of the black box was intended to create an env
 Following feedback from Hyein, I conducted additional informal testing of the Black Box interaction to peers. They suggested that the experience of recalling silence could be strengthened through more tangible and embodied triggers, rather than relying only on abstract reflection. Based on this feedback, I asked my peer to test an updated version of the interaction.
 
 ![data](../assets/week-10/image.png)
-*Figure X. Development of the Black Box prototype black exterior covering
+*Figure 16. Interacting with the Black Box interior structure.*
 
 During this testing, I introduced a new material component inside the Black Box. I write anonymous responses collected from my survey (e.g. “I was worried that what I said might sound stupid”) onto paper, crumple them, and place them inside the box. 
 
 ![data](../assets/week-10/ㅎ.png)
-*Figure X. Development of the Black Box prototype black exterior covering
+*Figure 17. Handling and observing crumpled paper after interaction.*
 
 Participants were invited to reach in, feel the crumpled paper alongside the tactile surfaces, and optionally take one out to read before returning it. This created a stronger connection between silence as a personal memory and silence as a shared experience. When tested again with peers, they noted that the interaction felt clearer and more emotionally grounded compared to the previous version.
 
