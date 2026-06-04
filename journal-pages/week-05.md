@@ -63,17 +63,3 @@ The central question is “what is participation?” While existing systems defi
 The audience is encouraged to experience participation as something that exists in multiple forms. Silence or delayed responses can also be understood as meaningful actions.
 
 The project aims to move beyond numerical measures of participation, recognising silence and hesitation as meaningful, while also critically examining how data is used to evaluate and surveil people.
-
----
-
-## 2. Thematic Focus and Data Source(s) (Revised in week 6)
-
-This project focuses on the concept of “invisible participation” within university environments, particularly among international and multilingual students. It explores how communication is not only expressed through speech, but also through silence, hesitation, and moments of not responding. These forms of participation are often overlooked in conventional data systems, even though they significantly shape learning and social experience.
-
-The project is grounded in a future scenario in which institutions begin to recognise silence, hesitation, and unspoken experiences as meaningful forms of participation rather than treating them as absence. In this context, participation is no longer limited to visible or spoken actions, but expanded to include invisible and unspoken experiences that are recorded, visualised, and collectively acknowledged.
-
-To respond to this idea, my project uses original qualitative data collected through surveys with students. The data includes personal reflections on moments when they wanted to speak but chose not to, as well as emotional and sensory descriptions of those experiences. This data is self-reported and subjective, reflecting the ambiguity and complexity of silence itself.
-
-The interpretation of this data is not numerical. Instead, it is translated into emotional categories and then into physical materials such as beads, textures, and spatial accumulation. Through this process, silence becomes a collective and material form of data that can be experienced over time.
-
-This project is strongly connected to data physicalisation and data feminism, as it challenges traditional systems that prioritise measurable behaviour. It suggests that absence, hesitation, and silence can also be valid and meaningful forms of data, depending on how they are interpreted and represented.
