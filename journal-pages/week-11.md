@@ -170,6 +170,8 @@ Through these adjustments, I was able to address the recurring feedback around c
 
 ---
 
+#### Final Artefact
+
 ![data](../assets/week-11/2.png)
 *Figure 7. Final Outcome*
 
