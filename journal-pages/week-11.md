@@ -57,9 +57,28 @@ This location also helps guide participants through the work more clearly, from 
 
 ### Project Finalisation
 
+#### Survey Findings and Key Insights
+
 From Weeks 6 to 11, the survey was distributed through social media, friend networks, and personal contacts, resulting in a total of 40 participants. The survey was mainly conducted among University of Auckland students, with a small number of participants from other institutions such as AUT. Most participants were international students.
 
-The most striking result was that 100% of respondents answered “yes” to the question: “Have you experienced a moment when you wanted to speak but stayed silent at university?” This indicates that silence and hesitation are a highly common experience within the university environment. The reasons for remaining silent were relatively evenly distributed, with anxiety emerging as the most dominant emotion. This suggests that participants were not simply choosing not to speak, but were experiencing silence under psychological tension and pressure.
+--- 
+
+![data](../assets/week-11/da.png)
+*Figure 2. Responses of "Have you experienced a moment when you wanted to speak but stayed silent at university?"*
+
+The most striking result was that 100% of respondents answered “yes” to the question: “Have you experienced a moment when you wanted to speak but stayed silent at university?” This indicates that silence and hesitation are a highly common experience within the university environment.
+
+--- 
+
+![data](../assets/week-11/da2.png)
+*Figure 3. Responses of "Why did you not speak?"*
+
+The reasons for remaining silent were relatively evenly distributed, with anxiety emerging as the most dominant emotion. This suggests that participants were not simply choosing not to speak, but were experiencing silence under psychological tension and pressure.
+
+--- 
+
+![data](../assets/week-11/da3.png)
+*Figure 4. Responses of "If you could describe that moment in one sentence, what would you say?"*
 
 In response to the question “If you were to describe that moment in one sentence?”, a wide range of statements was provided. Among these, five representative sentences that appeared most strongly were selected. 
 
@@ -70,6 +89,11 @@ In response to the question “If you were to describe that moment in one senten
 - I felt like I was too scared to speak out.
 
 These five sentences have not yet been printed, but are planned to be printed and placed inside the Black Box, where participants will physically crumple them and interact with them through touch and reading. This functions as a device to translate others’ experiences of silence into a physical and sensory form.
+
+---
+
+![data](../assets/week-11/da4.png)
+*Figure 4. Responses of "How would you classify this moment of silence?"*
 
 Finally, in response to the question “How would you classify this moment of silence?”, the following results were recorded:
 
@@ -83,11 +107,52 @@ Some of this data has already been pre-installed into the transparent archive sy
 
 --- 
 
+#### Final Clean Version
+
 In the final production stage of the project, the overall interaction structure was reorganised and refined based on the Black Box and transparent bead accumulation system developed in Week 10, with a clearer and more coherent user flow.
 
-I also attempted to construct the remaining acrylic parts using a hot glue gun; however, some areas melted, and the finish was not clean. As an acrylic-specific adhesive was not available locally, I decided to proceed using the components made in Week 10 instead, despite this limitation.
+---
+
+1. Black Box (Reflection)
+
+Reach into the Black Box and reflect on a moment in your educational experience when you wanted to speak but remained silent.
+
+Explore the different textures inside the box, including the inner walls and surfaces. Notice how each surface feels different through touch.
+
+You may also find crumpled pieces of paper. These are anonymous reflections collected from the survey. Feel free to take one, read it, and return it.
+
+You may choose not to participate if you do not relate to this experience.
+
+---
+
+2. Transparent Accumulation System (Accumulation)
+
+Which type of silence best represents your experience?
+
+Choose one marble:
+
+🔴 Suppressed Speech – I had something to say, but held it back.
+🔵 Self-Censorship – I stopped myself before speaking.
+⚫ Emotional Freeze – No words came out.
+🟡 Delayed Response – The moment passed before I could speak.
+🟢 Social Withdrawal – I stayed silent throughout.
+
+Place your marble into the transparent archive.
+
+Each marble becomes part of a collective archive of unspoken participation.
+The survey remains open for continued data collection.
+
+
+---
 
 As the work was carried out over the weekend and the printer was not available, a temporary paper version was used as a placeholder. However, all instruction texts will be properly printed and installed in the final setup.
+
+---
+
+### Final Installation and Interaction Refinement
+
+
+I also attempted to construct the remaining acrylic parts using a hot glue gun; however, some areas melted, and the finish was not clean. As an acrylic-specific adhesive was not available locally, I decided to proceed using the components made in Week 10 instead, despite this limitation.
 
 Inside the Black Box, five representative responses derived from the survey were printed and placed inside. Participants are encouraged to crumple these responses, strengthening both recall and sensory engagement through tactile interaction. In addition, the transparent accumulation box was pre-filled with 40 data entries collected from the initial survey, categorised into five colour groups: red/pink tones, sky blue tones, green tones, yellow tones, and dark black tones.
 
@@ -95,8 +160,24 @@ Red/pink tones represent Suppressed Speech (17)
 Sky blue tones represent Self-Censorship (4)
 Dark black tones represent Emotional Freeze. (6)
 Yellow tones represent Delayed Response.(6)
-Green tones represent Social Withdrawal.(6)
+Green tones represent Social Withdrawal.(7)
 
-Instructional texts were then positioned throughout the installation space to test how participants might intuitively understand the interaction flow and information structure. Through this process, the project explores a spatial configuration that allows the experience to be understood without relying heavily on verbal explanation.
+![data](../assets/week-11/1.png)
+*Figure 2. First attempt at placing the installation*
 
+Through multiple rounds of testing, the instruction texts were distributed throughout the installation space to ensure that participants could intuitively understand the interaction flow and information structure. The question “Have you ever wanted to speak but stayed silent?” was placed on top of the Black Box to make the entry point more immediate and clear. In addition, numbers (1, 2, 3) were added to the top left corner of each instruction sheet to strengthen the clarity of the overall sequence.
+
+Through these adjustments, I was able to address the recurring feedback around clarity. As a result, the project now establishes a spatial experience that can be understood without relying on verbal explanation. It allows meaning to be revealed through the structure, sequence, and physical interactions within the installation.
+
+![data](../assets/week-11/2.png)
+*Figure 2. Final Outcome*
+
+![data](../assets/week-11/3.png)
+*Figure 2. Final interaction flow, from left to right: participants place their hand into the Black Box, select a marble, and complete the experience.*
+
+
+
+
+
+--- 
 
