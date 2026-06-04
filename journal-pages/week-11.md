@@ -32,13 +32,13 @@ The third key moment was the iterative testing of the interaction flow, particul
 
 ### 2. Practice Consultations
 
-The practice consultation was conducted with my peer Hyein, where we took turns asking and responding to the key consultation prompts.
+The practice consultation was conducted with my peer using the studio consultation questions in a timed format, which helped me practice explaining my project more clearly and fluently.
 
-During the practice consultation, I was able to clearly communicate the overall structure of my project, particularly the relationship between the Black Box and the Transparent Accumulation System. I found that my explanation of the interaction flow was generally coherent, and I could respond to questions about the concept and future scenario with reasonable clarity. 
+I was able to explain the overall structure of my project and the relationship between the Black Box and the Transparent Accumulation System. My responses were generally clear and consistent, and I was able to communicate the main interaction flow without major difficulty.
 
-However, I noticed that I still rely too heavily on verbal explanation to make the system understandable, rather than ensuring that the interaction itself communicates meaning through its physical structure. This suggests that the clarity of my design logic and instruction system still needs further refinement, especially in how the marble-based accumulation system is understood as a translation of silent experiences into collective data. 
+However, I noticed that I tend to focus more on describing the physical system itself rather than clearly articulating its conceptual position within broader discussions of data representation, participation, and visibility. As a result, my explanations sometimes lack conciseness and deeper critical framing.
 
-Moving forward, I want to focus on strengthening the legibility of the interaction without explanation, ensuring that participants can intuitively understand the process through design, structure, and sequencing alone. I also want to refine how I articulate the relationship between data, silence, and participation in a more concise and conceptually grounded way during the consultation, particularly by clearly linking the physical marble system to the idea of invisible participation becoming visible through accumulation.
+This also made me aware that I need to more clearly position my project within the idea of data physicalisation, where emotional and subjective experiences are translated into material and collective forms of data. For the final consultation, I will prepare more structured notes and focus on explaining both the system and its conceptual meaning more clearly and confidently.
 
 ---
 
@@ -53,10 +53,50 @@ This location also helps guide participants through the work more clearly, from 
 
 --- 
 
-### Independent Study
+## Independent Study
 
-#### Project Finalisation
+### Project Finalisation
 
+From Weeks 6 to 11, the survey was distributed through social media, friend networks, and personal contacts, resulting in a total of 40 participants. The survey was mainly conducted among University of Auckland students, with a small number of participants from other institutions such as AUT. Most participants were international students.
 
+The most striking result was that 100% of respondents answered “yes” to the question: “Have you experienced a moment when you wanted to speak but stayed silent at university?” This indicates that silence and hesitation are a highly common experience within the university environment. The reasons for remaining silent were relatively evenly distributed, with anxiety emerging as the most dominant emotion. This suggests that participants were not simply choosing not to speak, but were experiencing silence under psychological tension and pressure.
+
+In response to the question “If you were to describe that moment in one sentence?”, a wide range of statements was provided. Among these, five representative sentences that appeared most strongly were selected. 
+
+- I wanted to speak but I was so scared to speak English in front of the class.
+- I wanted to join the discussion, but I felt like everyone else was more confident.
+- I tried to speak out, but I missed the timing because others were consistently arguing.
+- I wanted to speak, but I felt unsure whether my idea was actually relevant, so I stayed silent.
+- I felt like I was too scared to speak out.
+
+These five sentences have not yet been printed, but are planned to be printed and placed inside the Black Box, where participants will physically crumple them and interact with them through touch and reading. This functions as a device to translate others’ experiences of silence into a physical and sensory form.
+
+Finally, in response to the question “How would you classify this moment of silence?”, the following results were recorded:
+
+Suppressed Speech: 17
+Self-censorship: 4
+Emotional Freeze: 6
+Delayed Response: 6
+Social Withdrawal: 7
+
+Some of this data has already been pre-installed into the transparent archive system, and the design is intended to allow real-time accumulation of additional data during the exhibition, where further participation will continuously build the dataset.
+
+--- 
+
+In the final production stage of the project, the overall interaction structure was reorganised and refined based on the Black Box and transparent bead accumulation system developed in Week 10, with a clearer and more coherent user flow.
+
+I also attempted to construct the remaining acrylic parts using a hot glue gun; however, some areas melted, and the finish was not clean. As an acrylic-specific adhesive was not available locally, I decided to proceed using the components made in Week 10 instead, despite this limitation.
+
+As the work was carried out over the weekend and the printer was not available, a temporary paper version was used as a placeholder. However, all instruction texts will be properly printed and installed in the final setup.
+
+Inside the Black Box, five representative responses derived from the survey were printed and placed inside. Participants are encouraged to crumple these responses, strengthening both recall and sensory engagement through tactile interaction. In addition, the transparent accumulation box was pre-filled with 40 data entries collected from the initial survey, categorised into five colour groups: red/pink tones, sky blue tones, green tones, yellow tones, and dark black tones.
+
+Red/pink tones represent Suppressed Speech (17)
+Sky blue tones represent Self-Censorship (4)
+Dark black tones represent Emotional Freeze. (6)
+Yellow tones represent Delayed Response.(6)
+Green tones represent Social Withdrawal.(6)
+
+Instructional texts were then positioned throughout the installation space to test how participants might intuitively understand the interaction flow and information structure. Through this process, the project explores a spatial configuration that allows the experience to be understood without relying heavily on verbal explanation.
 
 
