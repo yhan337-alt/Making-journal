@@ -188,4 +188,6 @@ By contributing a marble, your silent moment becomes part of a collective archiv
 
 Process: Black Box → Reflect → Select one marble → Place in archive
 
+---
 
+The survey will remain open over the next week to continue collecting responses. Next week, the collected data will be reviewed and translated into the final accumulated marble system for the installation.
