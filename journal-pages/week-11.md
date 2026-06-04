@@ -180,10 +180,8 @@ Through these adjustments, I was able to address the recurring feedback around c
 
 --- 
 
-
 #### Final Project Statement
 
---- 
 
 This project explores the concept of invisible participation within educational environments. It focuses on how silence and hesitation are excluded from dominant systems of participation. Participation is measured through visible and audible actions such as speaking, responding, or contributing verbally. However, it may ignore the unique experiences that help to shape the learning and engagement.
 
