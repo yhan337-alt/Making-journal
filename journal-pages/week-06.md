@@ -16,20 +16,37 @@ layout: default
 
 ## 1. Data Exploration
 
-### Project Data Clarification (Update)
+### Project Direction Update
 
-After receiving proposal feedback, I have revised my project direction.
+Following proposal feedback, the direction and future scenario of this project were significantly revised. The initial concept explored AI, participation analysis, and surveillance within university environments. However, the project was refined to focus more directly on the concept of “invisible participation.”
 
-This project uses only two types of data sources:
+As a result, the future scenario shifted from technology-driven participation monitoring toward recognising silence, hesitation, and unspoken experiences as meaningful forms of participation. The project now focuses on directly collected qualitative data and data physicalisation, allowing invisible experiences to be translated into tangible and collective forms.
 
-1. Original qualitative survey data
-   Collected through a Google Forms survey, consisting of written reflections on moments of silence, hesitation, and unspoken communication.
-2. Real-time participant interaction data
-   Generated through physical participation in the installation, where responses are translated into beads and accumulated in real time within the system.
+The revised project direction is outlined below:
 
-No simulated, synthetic, or AI-generated data is used. All data is either directly collected from participants or produced through physical interaction within the installation.
+### Thematic Focus and Data Source(s) (Revised in week 6)
 
-Additionally, selected survey responses may be pre-embedded into the installation as part of the initial setup to establish an interpretive baseline for the experience.
+This project focuses on the concept of “invisible participation” within university environments, particularly among international and multilingual students. It explores how communication is not only expressed through speech, but also through silence, hesitation, and moments of not responding. These forms of participation are often overlooked in conventional data systems, even though they significantly shape learning and social experience.
+
+The project is grounded in a future scenario in which institutions begin to recognise silence, hesitation, and unspoken experiences as meaningful forms of participation rather than treating them as absence. In this context, participation is no longer limited to visible or spoken actions, but expanded to include invisible and unspoken experiences that are recorded, visualised, and collectively acknowledged.
+
+To respond to this idea, my project uses original qualitative data collected through surveys with students. The data includes personal reflections on moments when they wanted to speak but chose not to, as well as emotional and sensory descriptions of those experiences. This data is self-reported and subjective, reflecting the ambiguity and complexity of silence itself.
+
+The interpretation of this data is not numerical. Instead, it is translated into emotional categories and then into physical materials such as beads, textures, and spatial accumulation. Through this process, silence becomes a collective and material form of data that can be experienced over time.
+
+This project is strongly connected to data physicalisation and data feminism, as it challenges traditional systems that prioritise measurable behaviour. It suggests that absence, hesitation, and silence can also be meaningful forms of data, depending on how they are interpreted and represented.
+
+---
+
+### Visualisation & Impact (Revised in week 6)
+
+The overall vision of this project is an interactive data physicalisation that visualises “invisible participation.” The collected data is expressed through physical accumulation, spatial density, and material variation, allowing participants to experience it directly. The visualisation evolves over time as more responses are added to the system.
+
+The central question is: “What counts as participation?” While participation is often defined through speaking and visible actions, this project explores whether silence, hesitation, and non-response can also be recognised as meaningful forms of engagement.
+
+The audience is encouraged to reconsider participation as something that exists in multiple forms. Rather than viewing silence as absence, the project invites people to understand it as a complex and valid part of communication and social experience.
+
+Ultimately, the project aims to expand conventional understandings of participation by making invisible experiences visible through data physicalisation. It highlights how interpretation shapes the meaning of data and demonstrates that silence and hesitation can also be represented, acknowledged, and valued.
 
 ---
 
