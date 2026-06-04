@@ -76,9 +76,9 @@ Another important action point is strengthening the communication of the future 
 
 --- 
 
-### Independent Study
+## Independent Study
 
-#### 1. Project Development (Making Black Box)
+### 1. Project Development (Making Black Box)
 
 ![data](../assets/week-10/red.png)
 *Figure 11. Development of the Black Box prototype, the cut the hand hole*
@@ -138,6 +138,8 @@ However, during the fabrication process, a whitening effect (blooming) occurred 
 #### 1.2 Project Development (instruction system)
 
 Based on both Hyein’s and this testing feedback, I also refined the instruction system to ensure that the interaction can be understood without verbal explanation from the facilitator. The aim was to make the process more self-explanatory and intuitive.
+
+The following notes are the instruction set that will be used in the installation. They will be printed and arranged in sequence within the physical space.
 
 --- 
 
