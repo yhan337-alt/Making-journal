@@ -93,7 +93,7 @@ These five sentences have not yet been printed, but are planned to be printed an
 ---
 
 ![data](../assets/week-11/da4.png)
-*Figure 4. Responses of "How would you classify this moment of silence?"*
+*Figure 5. Responses of "How would you classify this moment of silence?"*
 
 Finally, in response to the question “How would you classify this moment of silence?”, the following results were recorded:
 
@@ -145,12 +145,11 @@ The survey remains open for continued data collection.
 
 ---
 
-As the work was carried out over the weekend and the printer was not available, a temporary paper version was used as a placeholder. However, all instruction texts will be properly printed and installed in the final setup.
+Due to the lack of access to printing at the time of testing, these instructions were temporarily written and presented in text form. However, in the final installation, all instruction materials will be professionally printed and physically installed within the space.
 
 ---
 
 ### Final Installation and Interaction Refinement
-
 
 I also attempted to construct the remaining acrylic parts using a hot glue gun; however, some areas melted, and the finish was not clean. As an acrylic-specific adhesive was not available locally, I decided to proceed using the components made in Week 10 instead, despite this limitation.
 
@@ -163,21 +162,51 @@ Yellow tones represent Delayed Response.(6)
 Green tones represent Social Withdrawal.(7)
 
 ![data](../assets/week-11/1.png)
-*Figure 2. First attempt at placing the installation*
+*Figure 6. First attempt at placing the installation*
 
-Through multiple rounds of testing, the instruction texts were distributed throughout the installation space to ensure that participants could intuitively understand the interaction flow and information structure. The question “Have you ever wanted to speak but stayed silent?” was placed on top of the Black Box to make the entry point more immediate and clear. In addition, numbers (1, 2, 3) were added to the top left corner of each instruction sheet to strengthen the clarity of the overall sequence.
+Through multiple testing, the instruction texts were distributed throughout the installation space to ensure that participants could intuitively understand the interaction flow and information structure. The question “Have you ever wanted to speak but stayed silent?” was placed on top of the Black Box to make the entry point more immediate and clear. In addition, numbers (1, 2, 3) were added to the top left corner of each instruction sheet to strengthen the clarity of the overall sequence.
 
 Through these adjustments, I was able to address the recurring feedback around clarity. As a result, the project now establishes a spatial experience that can be understood without relying on verbal explanation. It allows meaning to be revealed through the structure, sequence, and physical interactions within the installation.
 
+---
+
 ![data](../assets/week-11/2.png)
-*Figure 2. Final Outcome*
+*Figure 7. Final Outcome*
 
 ![data](../assets/week-11/3.png)
 *Figure 2. Final interaction flow, from left to right: participants place their hand into the Black Box, select a marble, and complete the experience.*
 
+--- 
 
 
-
+#### Final Project Statement
 
 --- 
 
+This project explores the concept of invisible participation within educational environments. It focuses on how silence and hesitation are excluded from dominant systems of participation. Participation is measured through visible and audible actions such as speaking, responding, or contributing verbally. However, it may ignore the unique experiences that help to shape the learning and engagement.
+
+The work is established in a future scenario where educational institutions begin to recognise silence and hesitation as meaningful forms of participation. Within this framework, participation includes what is withheld, delayed, or internally processed, shifting the definition of engagement from performance to experience
+
+The project uses qualitative data collected through a Google Forms survey completed by students, including international and multilingual learners. Participants were asked to reflect on their experiences of remaining silent although they wanted to speak, and to describe the emotional and situational conditions at those moments.
+
+The installation consists of a Black Box where participants physically engage with tactile materials designed to prompt embodied reflection on their own experiences of silence. They may encounter anonymised responses from the survey, which act as fragments of other people’s unspoken experiences
+
+Moreover, the participants work through the Transparent accumulation system. They select a marble corresponding to one of five defined categories of silence and place it into a transparent archive. Each marble represents a translated data point, transforming qualitative experience into a material form. Through accumulation, individual moments of silence form a collective dataset, making invisible participation visible.
+
+Rather than treating silence as absence, this work reframes it as meaningful data. It questions how educational systems define participation and suggests that unspoken experiences carry value, agency, and presence. Ultimately, the project proposes a shift from participation as performance to lived experience, where what is not said becomes visible, shared, and collectively acknowledged within educational space.
+
+---
+
+The project statement has been finalised as outlined above.
+
+--- 
+
+To prepare for the Studio Consultation in class next week, I will develop clear notes and supporting slides to help structure my responses to the following key areas:
+
+The tools and techniques used to collect, interpret, and visualise data
+The conceptual development of my work in relation to theories and practices concerned with data representation
+The challenges I encountered and how I addressed them
+What I learned through the making process
+The intended impact of my final data-driven visualisation
+
+These materials will help me communicate my project more clearly and coherently during the consultation.
