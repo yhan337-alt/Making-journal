@@ -141,6 +141,8 @@ Based on both Hyein’s and this testing feedback, I also refined the instructio
 
 The following notes are the instruction set that will be used in the installation. They will be printed and arranged in sequence within the physical space.
 
+I also considered who had not experienced this. I add *You may choose not to participate if you do not relate to this experience.*
+
 --- 
 
 1. Start by placing your hand inside the Black Box.
@@ -156,6 +158,8 @@ Explore the different textures inside the box. Touch the inner surfaces of the b
 You may also find crumpled pieces of paper. Feel free to take one out and read it. These are anonymous reflections collected from the survey.
 
 After reading, please return the paper to the box.
+
+You may choose not to participate if you do not relate to this experience.
 
 ---
 
