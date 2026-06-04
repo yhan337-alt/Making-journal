@@ -76,7 +76,60 @@ Another important action point is strengthening the communication of the future 
 
 ### Independent Study
 
-#### 1. Project Development
+#### 1. Project Development (Making Black Box)
+
+![data](../assets/week-10/red.png)
+*Figure X. Development of the Black Box prototype, including the hand opening, black exterior covering, and added fabric to conceal the interior.
+
+Before I make the black box, the first task was creating a hole large enough for participants to place their hands inside the box. My father helped cut a circular hole in the side of the box. The hole was made large enough to accommodate larger hands as well.
+
+![data](../assets/week-10/fa.png)
+*Figure X. Development of the Black Box prototype black exterior covering
+
+Afterwards, I covered the box with crumpled black wrapping paper. The use of crumpled material was intentional. It helps make the box feel unclear and partly hidden. After cutting, I noticed that the large hole made it possible to see inside the box, which reduced the sense of concealment. 
+
+![data](../assets/week-10/vc.png)
+*Figure X. Development of the Black Box prototype black exterior covering
+
+To solve this, I attached fabric around the opening inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
+
+---
+
+After finishing the box, I placed the materials selected through testing inside. Since the surface of coarse sandpaper can be irritating, cut it into small pieces and attach it with spacing to prevent injury to participants. This adjustment ensured safe use while maintaining tactile stimulation.
+
+![data](../assets/week-10/sk.png)
+*Figure X.skect
+![data](../assets/week-10/my.png)
+*Figure X. Development of the Black Box prototype black exterior covering
+
+Additionally, the interior design of the black box was intended to create an environment reminiscent of an actual classroom. The materials were attached and finished according to the sketch.
+
+---
+
+Following feedback from Hyein, I conducted additional informal testing of the Black Box interaction to peers. They suggested that the experience of recalling silence could be strengthened through more tangible and embodied triggers, rather than relying only on abstract reflection. Based on this feedback, I asked my peer to test an updated version of the interaction.
+
+![data](../assets/week-10/image.png)
+*Figure X. Development of the Black Box prototype black exterior covering
+
+During this testing, I introduced a new material component inside the Black Box. I write anonymous responses collected from my survey (e.g. “I was worried that what I said might sound stupid”) onto paper, crumple them, and place them inside the box. 
+
+![data](../assets/week-10/ㅎ.png)
+*Figure X. Development of the Black Box prototype black exterior covering
+
+Participants were invited to reach in, feel the crumpled paper alongside the tactile surfaces, and optionally take one out to read before returning it. This created a stronger connection between silence as a personal memory and silence as a shared experience. When tested again with peers, they noted that the interaction felt clearer and more emotionally grounded compared to the previous version.
+
+I plan to print out the top 5 most frequent survey response texts before the showcase, crumple them up, and put them inside the black box.
+
+---
+
+#### 1.1 Project Development (Making Transparent Accumulation System)
+
+
+
+
+--- 
+
+#### 1.2 Project Development (instruction system)
 
 Based on both Hyein’s and this testing feedback, I also refined the instruction system to ensure that the interaction can be understood without verbal explanation from the facilitator. The aim was to make the process more self-explanatory and intuitive.
 
@@ -129,44 +182,3 @@ Process: Black Box → Reflect → Select one marble → Place in archive
 
 이건 프린트해서 금욜에 해놓을거임 
 
----
-
-#### 1.1 Project Development (Making Black Box)
-
-![data](../assets/week-10/red.png)
-*Figure X. Development of the Black Box prototype, including the hand opening, black exterior covering, and added fabric to conceal the interior.
-
-Before I make the black box, the first task was creating a hole large enough for participants to place their hands inside the box. My father helped cut a circular hole in the side of the box. The hole was made large enough to accommodate larger hands as well.
-
-![data](../assets/week-10/fa.png)
-*Figure X. Development of the Black Box prototype black exterior covering
-
-Afterwards, I covered the box with crumpled black wrapping paper. The use of crumpled material was intentional. It helps make the box feel unclear and partly hidden. After cutting, I noticed that the large hole made it possible to see inside the box, which reduced the sense of concealment. 
-
-![data](../assets/week-10/vc.png)
-*Figure X. Development of the Black Box prototype black exterior covering
-
-To solve this, I attached fabric around the opening inside the box so that participants could not see the interior while still being able to comfortably interact with the materials.
-
----
-
-After finishing the box, I placed the materials selected through testing inside. Since the surface of coarse sandpaper can be irritating, cut it into small pieces and attach it with spacing to prevent injury to participants. This adjustment ensured safe use while maintaining tactile stimulation.
-
-![data](../assets/week-10/sk.png)
-*Figure X.skect
-![data](../assets/week-10/my.png)
-*Figure X. Development of the Black Box prototype black exterior covering
-
-Additionally, the interior design of the black box was intended to create an environment reminiscent of an actual classroom. The materials were attached and finished according to the sketch.
-
----
-
-Following feedback from Hyein, I conducted additional informal testing of the Black Box interaction to peers. They suggested that the experience of recalling silence could be strengthened through more tangible and embodied triggers, rather than relying only on abstract reflection. Based on this feedback, I asked my peer to test an updated version of the interaction.
-
-![data](../assets/week-10/image.png)
-*Figure X. Development of the Black Box prototype black exterior covering
-
-During this testing, I introduced a new material component inside the Black Box. I printed anonymous responses collected from my survey (e.g. “I was worried that what I said might sound stupid”) onto paper, crumpled them, and placed them inside the box. Participants were invited to reach in, feel the crumpled paper alongside the tactile surfaces, and optionally take one out to read before returning it. This created a stronger connection between silence as a personal memory and silence as a shared experience. When tested again with peers, they noted that the interaction felt clearer and more emotionally grounded compared to the previous version.
-
-
---
