@@ -24,7 +24,7 @@ As a result, the future scenario shifted from technology-driven participation mo
 
 The revised project direction is outlined below:
 
-### Thematic Focus and Data Source(s) (Revised in week 6)
+Thematic Focus and Data Source(s) (Revised in week 6)
 
 This project focuses on the concept of “invisible participation” within university environments, particularly among international and multilingual students. It explores how communication is not only expressed through speech, but also through silence, hesitation, and moments of not responding. These forms of participation are often overlooked in conventional data systems, even though they significantly shape learning and social experience.
 
@@ -38,7 +38,7 @@ This project is strongly connected to data physicalisation and data feminism, as
 
 ---
 
-### Visualisation & Impact (Revised in week 6)
+Visualisation & Impact (Revised in week 6)
 
 The overall vision of this project is an interactive data physicalisation that visualises “invisible participation.” The collected data is expressed through physical accumulation, spatial density, and material variation, allowing participants to experience it directly. The visualisation evolves over time as more responses are added to the system.
 
@@ -194,13 +194,13 @@ However, these limitations are not treated as problems to fix. Instead, they bec
 This project consists of two interconnected participatory systems.
 
 ![data](../assets/week-06/skecth.png)
-*Figure 7. Idea sketch showing three possible extensions of the Black Box experience: strings, beads in a transparent box, and Post-it notes. One of these concepts will be further developed in the next stage of the project.*
+*Figure 8. Idea sketch showing three possible extensions of the Black Box experience: strings, beads in a transparent box, and Post-it notes. One of these concepts will be further developed in the next stage of the project.*
 
 
 #### 1. Sensory Black Box Interface (tactile input system)
 
 ![data](../assets/week-06/1.png)
-*Figure 8. Sketch of Sensory Black Box Interface*
+*Figure 9. Sketch of Sensory Black Box Interface*
 
 Participants interact with a black box by placing their hands inside it.
 
@@ -213,7 +213,7 @@ This system expresses internal emotional states related to silence, tension, and
 #### 2. Transparent Accumulation System (physical data archive)
 
 ![data](../assets/week-06/clear.png)
-*Figure 9. Sketch of Transparent Accumulation System*
+*Figure 10. Sketch of Transparent Accumulation System*
 
 After the sensory experience, participants respond to questions about moments when they wanted to speak but remained silent.
 Each response is translated into a physical object (beads or marble) and placed into a transparent container. Over time, these accumulated objects form a visible archive of silence. The use of marbles is intentional. As they accumulate, their weight and volume symbolise the “weight of unspoken words,” transforming silence into a tangible, physical form of emotional accumulation.
@@ -257,14 +257,13 @@ The next step is to continue conducting surveys to collect more data related to 
 
 At the same time, I will begin building early prototypes of the black box and bead accumulation system using simple materials to test the participation flow.
 
-
 ---
 
 ## Independent Study
 
 ### 1. Consultation Reflection
 
-During the project proposal consultation, the tutor noted that my initial concept had become overly complex because multiple ideas at once. In particular, the link between AI and reduced human communication was seen as underdeveloped, which weakened the clarity of the project’s focus.
+During the project proposal consultation, the tutor noted that my initial concept had become overly complex because it attempted to address multiple ideas at once. In particular, the link between AI and reduced human communication was seen as underdeveloped, which weakened the clarity of the project’s focus.
 
 The key feedback was the question of what I wanted the audience to feel. I initially aimed to evoke understanding and empathy, but this led me to separate emotional intention from data representation. As a result, I refined my focus toward visualising patterns of invisible participation through structured data.
 
@@ -294,7 +293,7 @@ As a result, what began as a simple idea has developed into a more structured sy
 ### 3. Initial Concept Sketch
 
 ![data](../assets/week-06/s1.png)
-*Figure 10. Initial concept sketch*
+*Figure 11. Initial concept sketch*
 
 My initial concept sketch outlines the structure of a participatory installation that visualizes silence as physical data.
 This sketch is not a final design, but a system prototype that tests how emotional data can be translated into physical form. It will continue to be developed and refined over time.
