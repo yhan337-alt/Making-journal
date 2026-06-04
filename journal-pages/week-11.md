@@ -52,7 +52,6 @@ For the showcase, I have decided to install my work at the far right end of the 
 
 This location also helps guide participants through the work more clearly, from the Black Box to the Transparent Accumulation System, without confusion. I will make sure the layout is simple and easy to understand so that people can follow the interaction without explanation.
 
-
 --- 
 
 
