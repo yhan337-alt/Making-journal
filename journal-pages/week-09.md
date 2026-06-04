@@ -180,7 +180,7 @@ During the development stage, I explored and sourced materials for the physical 
 ![data](../assets/week-09/r.png)
 *Figure 7. Photo of the red box*
 
-For the Black Box, I initially searched for a black square box but was unable to find one in an appropriate size. I therefore selected a red square box and wrapped it in black material. The interior remains red, creating a strong contrast between inside and outside, which reinforces the idea of hidden internal experience versus external appearance.
+For the Black Box, I initially searched for a black square box but was unable to find one in an appropriate size. I therefore selected a red square box (20x20) and wrapped it in black material. The interior remains red, creating a strong contrast between inside and outside, which reinforces the idea of hidden internal experience versus external appearance.
 
 ![data](../assets/week-09/9.png)
 *Figure 8. Bead materials*
@@ -193,7 +193,12 @@ For the Transparent Accumulation System, I explored a range of material options 
 ![data](../assets/week-09/ac.png)
 *Figure 9. Acrylic sheet*
 
-Considering that the beads are approximately 5 mm in size, this scale was chosen to ensure that gradual accumulation remains visible and legible over time. However, the current volume of data (20 survey responses) suggests that further participation may be needed to enhance the visual impact of accumulation within the system. 
+Considering that the beads are approximately 5 mm in size, the original plan was to construct a transparent accumulation system on the same scale as the Black Box in order to create a unified spatial relationship between reflection and accumulation. However, during development, it became clear that the small scale of the beads would limit the visual when accumulated.
+
+![data](../assets/week-09/e.jpeg)
+*Figure 10. Planning Skectch*
+
+As a result, I redesigned the data accumulation system into a modular structure consisting of two 15 × 15 cm square panels and seven 3.5 × 15 cm rectangular panels. Although the size has been reduced, this adjustment allows for clearer verification of the accumulation process.
 
 ---
 
