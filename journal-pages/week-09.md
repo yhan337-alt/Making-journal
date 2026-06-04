@@ -108,7 +108,7 @@ Before starting the making sprint, I planned my approach. I identified the need 
 --- 
 
 ![data](../assets/week-09/hh.png)
-*Figure 2. 고쳐.*
+*Figure 3. Completed prototype for Round Robin Rapid Reactions.*
 
 During the 35-minute making session, I began developing a simple prototype of the Black Box using an actual box structure. Inside the box, I tested a range of sensory materials, including crumpled paper, foil-like blister packaging (tablet packaging), thin plastic film materials, and cold water, to explore different tactile sensations related to tension, discomfort, and emotional memory. I also cut an opening in the box large enough for a hand to enter, allowing participants to physically engage with the internal materials.
 
@@ -148,7 +148,7 @@ Based on this feedback, I revisited the overall structure of the project. Previo
 
 ![data](../assets/week-09/e1.png)
 ![data](../assets/week-09/ee.png)
-*Figure 2. 고쳐랑*
+*Figure 4-5. Screenshots of survey responses.*
 
 Therefore, I began to move away from treating silence as a single emotional state and instead explored it as a multidimensional form of participatory data. After reviewing responses from the survey questions “Why did you not speak?” and “If you could describe that moment in one sentence, what would you say?”, I began to classify different types of silence based on participants’ answers.
 
@@ -169,7 +169,7 @@ This shift moves the project further away from emotional expression and toward t
 Through this development process, I came to understand more clearly that the core of the project is not to reproduce a specific emotion, but to translate unmeasured silence and hesitation into data and materialise it into a collective, physical form. In doing so, I began to question the conventional idea that only those who speak are considered participants, and instead developed the project toward recognising invisible participation as a valid form of data.
 
 ![data](../assets/week-09/image.png)
-*Figure 2. 아이디어스케치*
+*Figure 6. New idea sketch*
 
 ---
 
@@ -178,20 +178,20 @@ Through this development process, I came to understand more clearly that the cor
 During the development stage, I explored and sourced materials for the physical construction of the installation. Material availability directly influenced several design decisions, leading to adjustments in both structure and form.
 
 ![data](../assets/week-09/r.png)
-*Figure 2. 고쳐*
+*Figure 7. Photo of the red box*
 
 For the Black Box, I initially searched for a black square box but was unable to find one in an appropriate size. I therefore selected a red square box and wrapped it in black material. The interior remains red, creating a strong contrast between inside and outside, which reinforces the idea of hidden internal experience versus external appearance.
 
 ![data](../assets/week-09/9.png)
-*Figure 2. 고쳐*
+*Figure 8. Bead materials*
 
 For the representation of silence as accumulation, I originally intended to use marbles but could not find them. I replaced them with beads, which quite small but still effectively communicate accumulation over time. Five different bead colours will be used to represent variation within the dataset.
 
 For the Transparent Accumulation System, I explored a range of material options and ultimately decided to construct the structure using acrylic sheets. The final design consists of an approximately 20 × 20 cm base divided into a grid of 3 × 3 cm compartments (arranged in a 3 × 20 structure), forming a thin modular box system for data accumulation.
 
 
-![data](../assets/week-09/ss.png)
-*Figure 2. 고쳐*
+![data](../assets/week-09/ac.png)
+*Figure 9. Acrylic sheet*
 
 Considering that the beads are approximately 5 mm in size, this scale was chosen to ensure that gradual accumulation remains visible and legible over time. However, the current volume of data (20 survey responses) suggests that further participation may be needed to enhance the visual impact of accumulation within the system. 
 
