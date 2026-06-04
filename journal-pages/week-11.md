@@ -131,11 +131,11 @@ Which type of silence best represents your experience?
 
 Choose one marble:
 
-🔴 Suppressed Speech – I had something to say, but held it back.
-🔵 Self-Censorship – I stopped myself before speaking.
-⚫ Emotional Freeze – No words came out.
-🟡 Delayed Response – The moment passed before I could speak.
-🟢 Social Withdrawal – I stayed silent throughout.
+- 🔴 Suppressed Speech: I had something to say, but held it back.
+- 🔵 Self-Censorship: I stopped myself before speaking.
+- ⚫ Emotional Freeze: No words came out.
+- 🟡 Delayed Response: The moment passed before I could speak.
+- 🟢 Social Withdrawal: I stayed silent throughout.
 
 Place your marble into the transparent archive.
 
