@@ -60,7 +60,7 @@ Although this was an early-stage exploration, the process helped me better under
 
 
 ![data](../assets/week-07/wif.jpg)
-*Figure 2. Photograph of the note of what if variations*
+*Figure 4. Photograph of the note of what if variations*
 
 
 During the Making Sprint feedback session, I shared my project with another student. I explained what I was trying to create, the goals of the installation, and how the current participation system worked. My partner responded positively to the concept, noting that the installation effectively communicated a sense of emotional immersion. Then proposed several “what if” questions that challenged me to expand the concept further:
