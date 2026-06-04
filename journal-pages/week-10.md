@@ -126,8 +126,12 @@ I plan to print out the top 5 most frequent survey response texts before the sho
 
 #### 1.1 Project Development (Making Transparent Accumulation System)
 
+![data](../assets/week-10/77.png)
+*Figure 18. Completed acrylic structure after cutting and assembly.*
 
+Following the Week 9 plan, I cut two 15×15 plates and seven 15×3.5 plates, and then arranged each panel at 3.5 cm intervals before fixing them using super glue.
 
+However, during the fabrication process, a whitening effect (blooming) occurred in some areas due to the use of super glue. As the adhesive cured, the surface turned white. Although this was an unintended outcome, I had to keep it as it was due to limited options for correction.
 
 --- 
 
@@ -182,5 +186,4 @@ By contributing a marble, your silent moment becomes part of a collective archiv
 
 Process: Black Box → Reflect → Select one marble → Place in archive
 
-이건 프린트해서 금욜에 해놓을거임 
 
