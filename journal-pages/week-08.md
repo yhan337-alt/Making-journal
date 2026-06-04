@@ -124,7 +124,29 @@ Several responses shared similar descriptions, including “cold and heavy,” �
 
 Initially, I considered using vibration motors to simulate feelings of tension and anxiety inside the Black Box. However, after reviewing the survey responses and reflecting on the purpose of the project, I decided to focus more on tactile materials. The role of the Black Box is not to make participants feel a specific emotion such as anxiety or discomfort. Instead, **it functions as a reflective space that encourages participants to recall a moment when they wanted to speak but remained silent.**
 
+![data](../assets/week-08/m.png)
+Figure x. Feedback received from peers*
+
 Based on this understanding, I began collecting and testing materials such as sandpaper, rough paper, crumpled paper, and cold or textured surfaces. These materials are not intended to directly represent specific emotions. Rather, they create sensory prompts that support memory, reflection, and personal interpretation. Different participants may associate these sensations with different experiences, which aligns with the project's focus on silence as an open and subjective form of participation.
 
 Through this process, I learned that the Black Box is not to generate specific emotions. Instead, it should encourage participants to recall and reflect on their own experiences of silence and hesitation.
+
+---
+
+The materials I chose are as follows, selected after testing and experimentation:
+
+![data](../assets/week-08/mm.png)
+Figure x. Feedback received from peers*
+
+**Capsule blister packaging (textured surface)**
+ - Sensory association / memory trigger : Anxiety, heightened awareness, internal tension
+
+**Rough sandpaper**
+ - Sensory association / memory trigger : Friction, discomfort, resistance to expression
+
+**Fine sandpaper**
+ - Sensory association / memory trigger : Hesitation, caution, uncertainty
+
+**Crumpled paperr**
+ - Sensory association / memory trigger : Unspoken thoughts, hidden voice, unfinished speech
 
