@@ -145,11 +145,11 @@ I also considered who had not experienced this. I add *You may choose not to par
 
 --- 
 
-1. Start by placing your hand inside the Black Box.
+#### 1. Start by placing your hand inside the Black Box.
 
 ---
 
-2. Black Box (Reflection)
+##### 2. Black Box (Reflection)
 
 **Reach into the Black Box and reflect on a moment in your educational experience when you wanted to speak but remained silent.**
 
@@ -163,7 +163,7 @@ You may choose not to participate if you do not relate to this experience.
 
 ---
 
-3. Transparent Accumulation System (Accumulation)
+#### 3. Transparent Accumulation System (Accumulation)
 
 **Which type of silence best represents your experience?**
 
@@ -190,7 +190,7 @@ By contributing a marble, your silent moment becomes part of a collective archiv
 
 ---
 
-Process: Black Box → Reflect → Select one marble → Place in archive
+**Process: Black Box → Reflect → Select one marble → Place in archive**
 
 ---
 
