@@ -6,6 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
+
 ## Project Statement
 
 This project explores the concept of invisible participation within educational environments. It focuses on how silence and hesitation are excluded from dominant systems of participation. Participation is measured through visible and audible actions such as speaking, responding, or contributing verbally. However, it may ignore the unique experiences that help to shape the learning and engagement.
@@ -20,3 +21,8 @@ Moreover, the participants work through the Transparent accumulation system. The
 
 Rather than treating silence as absence, this work reframes it as meaningful data. It questions how educational systems define participation and suggests that unspoken experiences carry value, agency, and presence. Ultimately, the project proposes a shift from participation as performance to lived experience, where what is not said becomes visible, shared, and collectively acknowledged within educational space.
 
+
+## Showcase
+
+![data](../assets/week-12/1.png)
+*Figure 1. 
